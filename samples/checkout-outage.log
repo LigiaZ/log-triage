@@ -1,0 +1,2060 @@
+2026-03-14T09:00:05.619Z INFO  [api-gateway] POST /v1/checkout 200 150ms client=10.15.114.36
+2026-03-14T09:00:11.635Z INFO  [api-gateway] POST /v1/checkout 200 219ms client=10.5.216.9
+2026-03-14T09:00:14.757Z INFO  [api-gateway] POST /v1/checkout 200 139ms client=10.32.13.144
+2026-03-14T09:00:18.571Z INFO  [inventory-svc] Reserved 4 item(s) for order 331148
+2026-03-14T09:00:23.410Z INFO  [payments-svc] Charge authorised for order 948749 in 171ms
+2026-03-14T09:00:26.436Z INFO  [inventory-svc] Reserved 2 item(s) for order 832052
+2026-03-14T09:00:31.167Z INFO  [checkout-svc] Order 263032 created, total=EUR 64.97
+2026-03-14T09:00:35.545Z INFO  [api-gateway] POST /v1/checkout 200 177ms client=10.6.183.217
+2026-03-14T09:00:39.953Z INFO  [payments-svc] Charge authorised for order 946335 in 65ms
+2026-03-14T09:00:45.941Z INFO  [checkout-svc] Order 230889 created, total=EUR 105.10
+2026-03-14T09:00:51.202Z INFO  [api-gateway] POST /v1/checkout 200 240ms client=10.39.185.148
+2026-03-14T09:00:54.989Z INFO  [inventory-svc] Reserved 1 item(s) for order 793384
+2026-03-14T09:00:58.922Z INFO  [inventory-svc] Reserved 1 item(s) for order 996865
+2026-03-14T09:01:02.875Z DEBUG [auth-svc] Token validated for user 50823
+2026-03-14T09:01:07.013Z INFO  [checkout-svc] Order 974628 created, total=EUR 102.20
+2026-03-14T09:01:11.529Z INFO  [checkout-svc] Order 802729 created, total=EUR 77.89
+2026-03-14T09:01:18.365Z INFO  [inventory-svc] Reserved 1 item(s) for order 738720
+2026-03-14T09:01:23.965Z INFO  [api-gateway] POST /v1/checkout 200 142ms client=10.10.236.98
+2026-03-14T09:01:28.070Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 4621ms
+2026-03-14T09:01:33.888Z INFO  [payments-svc] Charge authorised for order 817870 in 101ms
+2026-03-14T09:01:40.340Z INFO  [inventory-svc] Reserved 1 item(s) for order 340174
+2026-03-14T09:01:46.706Z INFO  [api-gateway] POST /v1/checkout 200 160ms client=10.25.137.17
+2026-03-14T09:01:50.570Z WARN  [inventory-svc] Cache miss for sku-6155, falling back to DB
+2026-03-14T09:01:54.440Z INFO  [inventory-svc] Reserved 4 item(s) for order 774079
+2026-03-14T09:01:59.319Z INFO  [api-gateway] POST /v1/checkout 200 115ms client=10.15.134.192
+2026-03-14T09:02:04.713Z INFO  [checkout-svc] Order 711878 created, total=EUR 111.46
+2026-03-14T09:02:08.611Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 2566ms
+2026-03-14T09:02:13.698Z INFO  [checkout-svc] Order 892495 created, total=EUR 21.14
+2026-03-14T09:02:17.324Z INFO  [payments-svc] Charge authorised for order 930555 in 147ms
+2026-03-14T09:02:22.053Z INFO  [payments-svc] Charge authorised for order 503457 in 108ms
+2026-03-14T09:02:27.493Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 4167ms
+2026-03-14T09:02:31.522Z WARN  [checkout-svc] Slow query on orders table took 823ms
+2026-03-14T09:02:37.308Z INFO  [inventory-svc] Reserved 3 item(s) for order 905934
+2026-03-14T09:02:42.933Z INFO  [checkout-svc] Order 407757 created, total=EUR 120.20
+2026-03-14T09:02:47.791Z INFO  [api-gateway] POST /v1/checkout 200 147ms client=10.32.91.130
+2026-03-14T09:02:54.529Z INFO  [api-gateway] POST /v1/checkout 200 240ms client=10.19.101.40
+2026-03-14T09:02:59.060Z INFO  [inventory-svc] Reserved 1 item(s) for order 728038
+2026-03-14T09:03:03.387Z INFO  [checkout-svc] Order 217301 created, total=EUR 101.39
+2026-03-14T09:03:07.367Z INFO  [api-gateway] POST /v1/checkout 200 225ms client=10.5.43.188
+2026-03-14T09:03:12.357Z DEBUG [auth-svc] Token validated for user 70822
+2026-03-14T09:03:18.493Z INFO  [api-gateway] POST /v1/checkout 200 201ms client=10.35.84.68
+2026-03-14T09:03:23.654Z DEBUG [auth-svc] Token validated for user 56461
+2026-03-14T09:03:30.604Z INFO  [api-gateway] POST /v1/checkout 200 218ms client=10.12.159.103
+2026-03-14T09:03:36.355Z INFO  [payments-svc] Charge authorised for order 559381 in 175ms
+2026-03-14T09:03:41.474Z INFO  [checkout-svc] Order 359947 created, total=EUR 66.08
+2026-03-14T09:03:45.858Z INFO  [api-gateway] POST /v1/checkout 200 221ms client=10.14.112.2
+2026-03-14T09:03:49.148Z INFO  [inventory-svc] Reserved 1 item(s) for order 340062
+2026-03-14T09:03:52.424Z WARN  [inventory-svc] Cache miss for sku-6413, falling back to DB
+2026-03-14T09:03:55.714Z INFO  [payments-svc] Charge authorised for order 392004 in 145ms
+2026-03-14T09:04:00.702Z INFO  [api-gateway] POST /v1/checkout 200 113ms client=10.36.242.63
+2026-03-14T09:04:06.915Z INFO  [checkout-svc] Order 526833 created, total=EUR 57.12
+2026-03-14T09:04:10.312Z INFO  [inventory-svc] Reserved 3 item(s) for order 544154
+2026-03-14T09:04:14.995Z INFO  [checkout-svc] Order 864491 created, total=EUR 22.86
+2026-03-14T09:04:20.671Z WARN  [checkout-svc] Slow query on orders table took 1001ms
+2026-03-14T09:04:23.919Z INFO  [checkout-svc] Order 455784 created, total=EUR 213.13
+2026-03-14T09:04:27.937Z INFO  [api-gateway] POST /v1/checkout 200 217ms client=10.28.71.109
+2026-03-14T09:04:31.688Z INFO  [api-gateway] POST /v1/checkout 200 143ms client=10.4.226.207
+2026-03-14T09:04:38.216Z DEBUG [auth-svc] Token validated for user 13833
+2026-03-14T09:04:41.423Z INFO  [inventory-svc] Reserved 1 item(s) for order 197793
+2026-03-14T09:04:48.217Z INFO  [inventory-svc] Reserved 2 item(s) for order 274389
+2026-03-14T09:04:52.881Z INFO  [checkout-svc] Order 324130 created, total=EUR 230.51
+2026-03-14T09:04:59.577Z INFO  [api-gateway] POST /v1/checkout 200 177ms client=10.0.199.68
+2026-03-14T09:05:06.372Z DEBUG [auth-svc] Token validated for user 60638
+2026-03-14T09:05:10.540Z INFO  [checkout-svc] Order 865990 created, total=EUR 209.71
+2026-03-14T09:05:16.251Z INFO  [inventory-svc] Reserved 2 item(s) for order 299122
+2026-03-14T09:05:20.466Z INFO  [api-gateway] POST /v1/checkout 200 94ms client=10.37.31.192
+2026-03-14T09:05:24.750Z INFO  [api-gateway] POST /v1/checkout 200 229ms client=10.30.80.15
+2026-03-14T09:05:31.685Z INFO  [payments-svc] Charge authorised for order 992697 in 83ms
+2026-03-14T09:05:34.965Z INFO  [payments-svc] Charge authorised for order 808011 in 170ms
+2026-03-14T09:05:38.928Z INFO  [checkout-svc] Order 697347 created, total=EUR 72.74
+2026-03-14T09:05:44.363Z INFO  [api-gateway] POST /v1/checkout 200 100ms client=10.26.161.240
+2026-03-14T09:05:48.431Z INFO  [api-gateway] POST /v1/checkout 200 160ms client=10.15.135.102
+2026-03-14T09:05:51.967Z INFO  [inventory-svc] Reserved 3 item(s) for order 579434
+2026-03-14T09:05:56.262Z WARN  [inventory-svc] Cache miss for sku-2188, falling back to DB
+2026-03-14T09:05:59.300Z INFO  [checkout-svc] Order 690341 created, total=EUR 34.09
+2026-03-14T09:06:04.502Z INFO  [api-gateway] POST /v1/checkout 200 147ms client=10.8.178.226
+2026-03-14T09:06:07.783Z DEBUG [auth-svc] Token validated for user 49434
+2026-03-14T09:06:11.950Z INFO  [api-gateway] POST /v1/checkout 200 219ms client=10.19.4.171
+2026-03-14T09:06:18.296Z INFO  [payments-svc] Charge authorised for order 795613 in 73ms
+2026-03-14T09:06:25.141Z DEBUG [auth-svc] Token validated for user 35664
+2026-03-14T09:06:28.613Z WARN  [inventory-svc] Cache miss for sku-3546, falling back to DB
+2026-03-14T09:06:32.728Z INFO  [api-gateway] POST /v1/checkout 200 133ms client=10.21.104.176
+2026-03-14T09:06:38.325Z DEBUG [auth-svc] Token validated for user 67244
+2026-03-14T09:06:43.326Z INFO  [api-gateway] POST /v1/checkout 200 93ms client=10.5.216.213
+2026-03-14T09:06:47.459Z INFO  [api-gateway] POST /v1/checkout 200 165ms client=10.8.134.42
+2026-03-14T09:06:53.495Z INFO  [checkout-svc] Order 839945 created, total=EUR 118.71
+2026-03-14T09:06:56.534Z INFO  [api-gateway] POST /v1/checkout 200 118ms client=10.34.18.214
+2026-03-14T09:07:01.046Z INFO  [payments-svc] Charge authorised for order 255287 in 115ms
+2026-03-14T09:07:04.568Z INFO  [api-gateway] POST /v1/checkout 200 173ms client=10.2.183.54
+2026-03-14T09:07:10.361Z INFO  [api-gateway] POST /v1/checkout 200 106ms client=10.22.208.250
+2026-03-14T09:07:15.903Z INFO  [inventory-svc] Reserved 2 item(s) for order 270395
+2026-03-14T09:07:22.901Z DEBUG [auth-svc] Token validated for user 24206
+2026-03-14T09:07:29.511Z INFO  [checkout-svc] Order 288073 created, total=EUR 197.42
+2026-03-14T09:07:35.715Z WARN  [inventory-svc] Cache miss for sku-5065, falling back to DB
+2026-03-14T09:07:39.807Z INFO  [api-gateway] POST /v1/checkout 200 107ms client=10.24.19.220
+2026-03-14T09:07:44.734Z INFO  [api-gateway] POST /v1/checkout 200 197ms client=10.22.156.211
+2026-03-14T09:07:50.991Z DEBUG [auth-svc] Token validated for user 30219
+2026-03-14T09:07:54.087Z INFO  [inventory-svc] Reserved 4 item(s) for order 444207
+2026-03-14T09:07:58.228Z DEBUG [auth-svc] Token validated for user 37585
+2026-03-14T09:08:02.666Z INFO  [payments-svc] Charge authorised for order 519093 in 146ms
+2026-03-14T09:08:09.121Z INFO  [payments-svc] Charge authorised for order 128941 in 74ms
+2026-03-14T09:08:15.713Z WARN  [checkout-svc] Slow query on orders table took 1165ms
+2026-03-14T09:08:21.091Z WARN  [checkout-svc] Slow query on orders table took 1343ms
+2026-03-14T09:08:24.247Z INFO  [api-gateway] POST /v1/checkout 200 191ms client=10.22.160.112
+2026-03-14T09:08:29.730Z WARN  [checkout-svc] Slow query on orders table took 1036ms
+2026-03-14T09:08:34.307Z WARN  [inventory-svc] Cache miss for sku-4114, falling back to DB
+2026-03-14T09:08:38.350Z INFO  [api-gateway] POST /v1/checkout 200 191ms client=10.0.100.94
+2026-03-14T09:08:43.116Z INFO  [api-gateway] POST /v1/checkout 200 164ms client=10.39.160.170
+2026-03-14T09:08:49.589Z INFO  [api-gateway] POST /v1/checkout 200 156ms client=10.32.158.171
+2026-03-14T09:08:54.261Z INFO  [checkout-svc] Order 831076 created, total=EUR 84.70
+2026-03-14T09:08:57.782Z INFO  [api-gateway] POST /v1/checkout 200 177ms client=10.11.154.104
+2026-03-14T09:09:03.026Z DEBUG [auth-svc] Token validated for user 40829
+2026-03-14T09:09:07.201Z INFO  [api-gateway] POST /v1/checkout 200 228ms client=10.38.164.120
+2026-03-14T09:09:12.010Z INFO  [checkout-svc] Order 324082 created, total=EUR 139.60
+2026-03-14T09:09:18.261Z WARN  [inventory-svc] Cache miss for sku-3780, falling back to DB
+2026-03-14T09:09:23.959Z INFO  [api-gateway] POST /v1/checkout 200 211ms client=10.40.171.24
+2026-03-14T09:09:30.311Z WARN  [checkout-svc] Slow query on orders table took 1281ms
+2026-03-14T09:09:36.066Z INFO  [checkout-svc] Order 945742 created, total=EUR 59.18
+2026-03-14T09:09:39.166Z INFO  [api-gateway] POST /v1/checkout 200 201ms client=10.39.37.117
+2026-03-14T09:09:43.863Z WARN  [inventory-svc] Cache miss for sku-4185, falling back to DB
+2026-03-14T09:09:49.805Z INFO  [inventory-svc] Reserved 4 item(s) for order 519066
+2026-03-14T09:09:53.804Z INFO  [api-gateway] POST /v1/checkout 200 81ms client=10.6.217.57
+2026-03-14T09:09:57.524Z DEBUG [auth-svc] Token validated for user 92214
+2026-03-14T09:10:02.645Z INFO  [checkout-svc] Order 684482 created, total=EUR 72.15
+2026-03-14T09:10:07.514Z INFO  [api-gateway] POST /v1/checkout 200 198ms client=10.33.162.244
+2026-03-14T09:10:13.607Z WARN  [inventory-svc] Cache miss for sku-9270, falling back to DB
+2026-03-14T09:10:18.354Z DEBUG [auth-svc] Token validated for user 72810
+2026-03-14T09:10:23.180Z WARN  [inventory-svc] Cache miss for sku-8777, falling back to DB
+2026-03-14T09:10:28.023Z INFO  [api-gateway] POST /v1/checkout 200 143ms client=10.40.141.197
+2026-03-14T09:10:34.208Z INFO  [payments-svc] Charge authorised for order 757193 in 90ms
+2026-03-14T09:10:38.332Z INFO  [checkout-svc] Order 848206 created, total=EUR 82.30
+2026-03-14T09:10:42.444Z INFO  [checkout-svc] Order 666390 created, total=EUR 29.17
+2026-03-14T09:10:46.061Z INFO  [api-gateway] POST /v1/checkout 200 119ms client=10.13.32.107
+2026-03-14T09:10:50.730Z INFO  [checkout-svc] Order 588557 created, total=EUR 115.07
+2026-03-14T09:10:54.577Z DEBUG [auth-svc] Token validated for user 52049
+2026-03-14T09:11:01.283Z INFO  [inventory-svc] Reserved 1 item(s) for order 998348
+2026-03-14T09:11:07.890Z INFO  [inventory-svc] Reserved 4 item(s) for order 600149
+2026-03-14T09:11:10.914Z WARN  [inventory-svc] Cache miss for sku-5892, falling back to DB
+2026-03-14T09:11:17.000Z INFO  [checkout-svc] Order 976325 created, total=EUR 116.68
+2026-03-14T09:11:23.061Z INFO  [inventory-svc] Reserved 2 item(s) for order 611945
+2026-03-14T09:11:26.959Z INFO  [api-gateway] POST /v1/checkout 200 204ms client=10.1.199.87
+2026-03-14T09:11:32.698Z INFO  [inventory-svc] Reserved 4 item(s) for order 859359
+2026-03-14T09:11:36.374Z DEBUG [auth-svc] Token validated for user 17728
+2026-03-14T09:11:41.922Z INFO  [payments-svc] Charge authorised for order 513160 in 135ms
+2026-03-14T09:11:47.233Z INFO  [inventory-svc] Reserved 1 item(s) for order 773971
+2026-03-14T09:11:51.988Z INFO  [api-gateway] POST /v1/checkout 200 198ms client=10.11.25.67
+2026-03-14T09:11:56.540Z INFO  [checkout-svc] Order 576786 created, total=EUR 92.43
+2026-03-14T09:12:02.657Z DEBUG [auth-svc] Token validated for user 37471
+2026-03-14T09:12:08.737Z WARN  [checkout-svc] Slow query on orders table took 1663ms
+2026-03-14T09:12:12.770Z DEBUG [auth-svc] Token validated for user 62644
+2026-03-14T09:12:15.849Z INFO  [inventory-svc] Reserved 1 item(s) for order 466960
+2026-03-14T09:12:19.767Z INFO  [inventory-svc] Reserved 1 item(s) for order 890870
+2026-03-14T09:12:22.894Z WARN  [inventory-svc] Cache miss for sku-4266, falling back to DB
+2026-03-14T09:12:29.331Z INFO  [api-gateway] POST /v1/checkout 200 119ms client=10.15.64.122
+2026-03-14T09:12:35.073Z INFO  [api-gateway] POST /v1/checkout 200 135ms client=10.29.131.197
+2026-03-14T09:12:39.583Z INFO  [api-gateway] POST /v1/checkout 200 235ms client=10.7.83.247
+2026-03-14T09:12:43.857Z INFO  [api-gateway] POST /v1/checkout 200 86ms client=10.19.192.102
+2026-03-14T09:12:50.713Z INFO  [inventory-svc] Reserved 1 item(s) for order 720859
+2026-03-14T09:12:56.541Z DEBUG [auth-svc] Token validated for user 32830
+2026-03-14T09:12:59.958Z INFO  [inventory-svc] Reserved 3 item(s) for order 991597
+2026-03-14T09:13:05.760Z INFO  [payments-svc] Charge authorised for order 226935 in 161ms
+2026-03-14T09:13:11.078Z DEBUG [auth-svc] Token validated for user 46508
+2026-03-14T09:13:16.260Z INFO  [checkout-svc] Order 488571 created, total=EUR 26.64
+2026-03-14T09:13:21.912Z INFO  [checkout-svc] Order 990844 created, total=EUR 116.62
+2026-03-14T09:13:25.344Z INFO  [checkout-svc] Order 479781 created, total=EUR 171.58
+2026-03-14T09:13:31.241Z INFO  [api-gateway] POST /v1/checkout 200 125ms client=10.33.138.158
+2026-03-14T09:13:37.551Z WARN  [inventory-svc] Cache miss for sku-8921, falling back to DB
+2026-03-14T09:13:42.455Z INFO  [checkout-svc] Order 866536 created, total=EUR 160.34
+2026-03-14T09:13:46.775Z DEBUG [auth-svc] Token validated for user 12359
+2026-03-14T09:13:50.917Z WARN  [inventory-svc] Cache miss for sku-4995, falling back to DB
+2026-03-14T09:13:56.990Z INFO  [checkout-svc] Order 739979 created, total=EUR 180.48
+2026-03-14T09:14:01.367Z INFO  [api-gateway] POST /v1/checkout 200 163ms client=10.11.249.55
+2026-03-14T09:14:05.820Z DEBUG [auth-svc] Token validated for user 45608
+2026-03-14T09:14:09.965Z WARN  [inventory-svc] Cache miss for sku-5526, falling back to DB
+2026-03-14T09:14:15.241Z INFO  [api-gateway] POST /v1/checkout 200 128ms client=10.5.123.185
+2026-03-14T09:14:19.905Z INFO  [checkout-svc] Order 894993 created, total=EUR 70.88
+2026-03-14T09:14:24.855Z INFO  [payments-svc] Charge authorised for order 614663 in 117ms
+2026-03-14T09:14:31.102Z INFO  [api-gateway] POST /v1/checkout 200 155ms client=10.14.207.178
+2026-03-14T09:14:35.098Z INFO  [checkout-svc] Order 709805 created, total=EUR 103.60
+2026-03-14T09:14:40.365Z INFO  [payments-svc] Charge authorised for order 546173 in 155ms
+2026-03-14T09:14:45.619Z INFO  [checkout-svc] Order 836996 created, total=EUR 125.34
+2026-03-14T09:14:49.874Z INFO  [api-gateway] POST /v1/checkout 200 110ms client=10.12.161.31
+2026-03-14T09:14:55.916Z INFO  [payments-svc] Charge authorised for order 899213 in 148ms
+2026-03-14T09:14:59.674Z INFO  [api-gateway] POST /v1/checkout 200 203ms client=10.17.144.252
+2026-03-14T09:15:03.085Z DEBUG [auth-svc] Token validated for user 39829
+2026-03-14T09:15:07.016Z INFO  [checkout-svc] Order 416950 created, total=EUR 12.90
+2026-03-14T09:15:12.203Z INFO  [api-gateway] POST /v1/checkout 200 91ms client=10.3.149.179
+2026-03-14T09:15:19.069Z INFO  [api-gateway] POST /v1/checkout 200 205ms client=10.6.6.147
+2026-03-14T09:15:23.233Z INFO  [checkout-svc] Order 561865 created, total=EUR 96.23
+2026-03-14T09:15:30.187Z INFO  [api-gateway] POST /v1/checkout 200 202ms client=10.7.33.103
+2026-03-14T09:15:35.201Z INFO  [api-gateway] POST /v1/checkout 200 93ms client=10.9.76.208
+2026-03-14T09:15:40.506Z WARN  [inventory-svc] Cache miss for sku-2395, falling back to DB
+2026-03-14T09:15:44.522Z INFO  [api-gateway] POST /v1/checkout 200 186ms client=10.38.115.199
+2026-03-14T09:15:49.662Z INFO  [checkout-svc] Order 564226 created, total=EUR 85.75
+2026-03-14T09:15:54.418Z INFO  [checkout-svc] Order 751194 created, total=EUR 24.78
+2026-03-14T09:16:01.350Z INFO  [inventory-svc] Reserved 2 item(s) for order 755900
+2026-03-14T09:16:05.214Z INFO  [api-gateway] POST /v1/checkout 200 100ms client=10.10.122.45
+2026-03-14T09:16:10.474Z INFO  [api-gateway] POST /v1/checkout 200 80ms client=10.26.230.177
+2026-03-14T09:16:15.906Z INFO  [checkout-svc] Order 134225 created, total=EUR 68.36
+2026-03-14T09:16:21.801Z INFO  [api-gateway] POST /v1/checkout 200 196ms client=10.4.119.237
+2026-03-14T09:16:25.884Z DEBUG [auth-svc] Token validated for user 82927
+2026-03-14T09:16:31.299Z INFO  [inventory-svc] Reserved 2 item(s) for order 545790
+2026-03-14T09:16:34.769Z INFO  [payments-svc] Charge authorised for order 779094 in 79ms
+2026-03-14T09:16:41.489Z INFO  [api-gateway] POST /v1/checkout 200 116ms client=10.4.30.43
+2026-03-14T09:16:47.735Z INFO  [checkout-svc] Order 885339 created, total=EUR 220.72
+2026-03-14T09:16:54.508Z INFO  [api-gateway] POST /v1/checkout 200 111ms client=10.29.155.180
+2026-03-14T09:16:59.156Z WARN  [inventory-svc] Cache miss for sku-9199, falling back to DB
+2026-03-14T09:17:04.367Z INFO  [checkout-svc] Order 184349 created, total=EUR 162.05
+2026-03-14T09:17:11.010Z INFO  [checkout-svc] Order 437978 created, total=EUR 163.32
+2026-03-14T09:17:14.115Z INFO  [api-gateway] POST /v1/checkout 200 227ms client=10.37.10.196
+2026-03-14T09:17:19.868Z DEBUG [auth-svc] Token validated for user 76529
+2026-03-14T09:17:23.032Z INFO  [inventory-svc] Reserved 2 item(s) for order 593355
+2026-03-14T09:17:28.157Z INFO  [inventory-svc] Reserved 3 item(s) for order 290305
+2026-03-14T09:17:33.554Z INFO  [checkout-svc] Order 953797 created, total=EUR 134.11
+2026-03-14T09:17:38.479Z INFO  [checkout-svc] Order 449499 created, total=EUR 91.85
+2026-03-14T09:17:41.907Z DEBUG [auth-svc] Token validated for user 44228
+2026-03-14T09:17:46.593Z INFO  [inventory-svc] Reserved 3 item(s) for order 794769
+2026-03-14T09:17:53.464Z INFO  [checkout-svc] Order 897441 created, total=EUR 149.04
+2026-03-14T09:17:58.326Z INFO  [api-gateway] POST /v1/checkout 200 144ms client=10.20.59.249
+2026-03-14T09:18:04.490Z INFO  [checkout-svc] Order 639593 created, total=EUR 220.00
+2026-03-14T09:18:10.183Z DEBUG [auth-svc] Token validated for user 61552
+2026-03-14T09:18:14.875Z INFO  [api-gateway] POST /v1/checkout 200 212ms client=10.23.255.161
+2026-03-14T09:18:19.685Z INFO  [inventory-svc] Reserved 2 item(s) for order 380028
+2026-03-14T09:18:24.934Z INFO  [api-gateway] POST /v1/checkout 200 153ms client=10.28.248.32
+2026-03-14T09:18:28.052Z WARN  [checkout-svc] Slow query on orders table took 1290ms
+2026-03-14T09:18:33.959Z INFO  [api-gateway] POST /v1/checkout 200 221ms client=10.0.208.24
+2026-03-14T09:18:37.879Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 2464ms
+2026-03-14T09:18:42.769Z WARN  [inventory-svc] Cache miss for sku-3522, falling back to DB
+2026-03-14T09:18:47.810Z WARN  [inventory-svc] Cache miss for sku-5781, falling back to DB
+2026-03-14T09:18:52.894Z INFO  [inventory-svc] Reserved 4 item(s) for order 975271
+2026-03-14T09:18:57.870Z WARN  [checkout-svc] Slow query on orders table took 1299ms
+2026-03-14T09:19:02.740Z INFO  [payments-svc] Charge authorised for order 502219 in 84ms
+2026-03-14T09:19:09.515Z INFO  [payments-svc] Charge authorised for order 882544 in 172ms
+2026-03-14T09:19:13.074Z DEBUG [auth-svc] Token validated for user 37208
+2026-03-14T09:19:19.238Z DEBUG [auth-svc] Token validated for user 55387
+2026-03-14T09:19:23.630Z WARN  [inventory-svc] Cache miss for sku-9318, falling back to DB
+2026-03-14T09:19:27.724Z DEBUG [auth-svc] Token validated for user 38072
+2026-03-14T09:19:33.697Z INFO  [api-gateway] POST /v1/checkout 200 230ms client=10.37.250.222
+2026-03-14T09:19:37.305Z INFO  [checkout-svc] Order 607868 created, total=EUR 97.42
+2026-03-14T09:19:42.565Z INFO  [inventory-svc] Reserved 4 item(s) for order 577463
+2026-03-14T09:19:49.385Z INFO  [checkout-svc] Order 297816 created, total=EUR 187.30
+2026-03-14T09:19:54.727Z INFO  [checkout-svc] Order 997594 created, total=EUR 207.52
+2026-03-14T09:19:57.905Z INFO  [checkout-svc] Order 595951 created, total=EUR 189.48
+2026-03-14T09:20:02.486Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 4670ms
+2026-03-14T09:20:06.109Z INFO  [checkout-svc] Order 138817 created, total=EUR 41.64
+2026-03-14T09:20:13.063Z INFO  [payments-svc] Charge authorised for order 205239 in 171ms
+2026-03-14T09:20:19.524Z INFO  [checkout-svc] Order 651499 created, total=EUR 125.01
+2026-03-14T09:20:25.483Z INFO  [api-gateway] POST /v1/checkout 200 119ms client=10.4.240.201
+2026-03-14T09:20:32.452Z INFO  [api-gateway] POST /v1/checkout 200 239ms client=10.25.41.219
+2026-03-14T09:20:36.797Z DEBUG [auth-svc] Token validated for user 70942
+2026-03-14T09:20:41.353Z WARN  [checkout-svc] Slow query on orders table took 1799ms
+2026-03-14T09:20:47.926Z INFO  [payments-svc] Charge authorised for order 747453 in 68ms
+2026-03-14T09:20:51.887Z INFO  [payments-svc] Charge authorised for order 401338 in 89ms
+2026-03-14T09:20:57.945Z INFO  [api-gateway] POST /v1/checkout 200 105ms client=10.40.51.114
+2026-03-14T09:21:01.626Z INFO  [inventory-svc] Reserved 1 item(s) for order 148225
+2026-03-14T09:21:05.954Z DEBUG [auth-svc] Token validated for user 39452
+2026-03-14T09:21:10.422Z INFO  [checkout-svc] Order 252640 created, total=EUR 71.67
+2026-03-14T09:21:15.109Z INFO  [payments-svc] Charge authorised for order 931016 in 83ms
+2026-03-14T09:21:18.805Z INFO  [api-gateway] POST /v1/checkout 200 236ms client=10.24.123.128
+2026-03-14T09:21:25.543Z INFO  [payments-svc] Charge authorised for order 343467 in 119ms
+2026-03-14T09:21:31.155Z INFO  [api-gateway] POST /v1/checkout 200 145ms client=10.0.238.231
+2026-03-14T09:21:35.333Z INFO  [inventory-svc] Reserved 2 item(s) for order 177449
+2026-03-14T09:21:40.142Z WARN  [inventory-svc] Cache miss for sku-5901, falling back to DB
+2026-03-14T09:21:45.759Z WARN  [checkout-svc] Slow query on orders table took 1312ms
+2026-03-14T09:21:50.630Z DEBUG [auth-svc] Token validated for user 27111
+2026-03-14T09:21:55.205Z DEBUG [auth-svc] Token validated for user 14979
+2026-03-14T09:21:59.176Z INFO  [checkout-svc] Order 476395 created, total=EUR 156.37
+2026-03-14T09:22:05.040Z INFO  [api-gateway] POST /v1/checkout 200 181ms client=10.17.4.145
+2026-03-14T09:22:11.583Z INFO  [inventory-svc] Reserved 1 item(s) for order 735863
+2026-03-14T09:22:17.635Z INFO  [checkout-svc] Order 400096 created, total=EUR 207.29
+2026-03-14T09:22:23.121Z DEBUG [auth-svc] Token validated for user 29705
+2026-03-14T09:22:28.728Z INFO  [api-gateway] POST /v1/checkout 200 144ms client=10.8.49.232
+2026-03-14T09:22:34.298Z INFO  [payments-svc] Charge authorised for order 423939 in 160ms
+2026-03-14T09:22:39.103Z INFO  [api-gateway] POST /v1/checkout 200 173ms client=10.8.46.233
+2026-03-14T09:22:43.311Z INFO  [checkout-svc] Order 535686 created, total=EUR 53.25
+2026-03-14T09:22:46.852Z DEBUG [auth-svc] Token validated for user 48953
+2026-03-14T09:22:52.026Z INFO  [payments-svc] Charge authorised for order 385765 in 166ms
+2026-03-14T09:22:55.699Z INFO  [api-gateway] POST /v1/checkout 200 203ms client=10.18.173.206
+2026-03-14T09:22:59.170Z INFO  [checkout-svc] Order 178957 created, total=EUR 45.96
+2026-03-14T09:23:06.128Z INFO  [api-gateway] POST /v1/checkout 200 181ms client=10.35.187.24
+2026-03-14T09:23:12.366Z INFO  [checkout-svc] Order 377304 created, total=EUR 146.15
+2026-03-14T09:23:17.228Z INFO  [checkout-svc] Order 885395 created, total=EUR 181.33
+2026-03-14T09:23:22.622Z INFO  [checkout-svc] Order 769567 created, total=EUR 104.13
+2026-03-14T09:23:28.386Z INFO  [api-gateway] POST /v1/checkout 200 86ms client=10.39.167.235
+2026-03-14T09:23:33.884Z INFO  [api-gateway] POST /v1/checkout 200 96ms client=10.40.237.233
+2026-03-14T09:23:39.755Z INFO  [checkout-svc] Order 528129 created, total=EUR 38.17
+2026-03-14T09:23:42.940Z WARN  [inventory-svc] Cache miss for sku-5986, falling back to DB
+2026-03-14T09:23:47.957Z INFO  [api-gateway] POST /v1/checkout 200 140ms client=10.34.69.100
+2026-03-14T09:23:52.815Z INFO  [checkout-svc] Order 879238 created, total=EUR 187.69
+2026-03-14T09:23:57.531Z INFO  [payments-svc] Charge authorised for order 861894 in 79ms
+2026-03-14T09:24:04.157Z INFO  [checkout-svc] Order 203831 created, total=EUR 222.62
+2026-03-14T09:24:09.678Z INFO  [checkout-svc] Order 393328 created, total=EUR 17.88
+2026-03-14T09:24:14.195Z INFO  [api-gateway] POST /v1/checkout 200 193ms client=10.15.185.26
+2026-03-14T09:24:20.003Z INFO  [checkout-svc] Order 776149 created, total=EUR 100.07
+2026-03-14T09:24:24.633Z INFO  [api-gateway] POST /v1/checkout 200 111ms client=10.29.46.170
+2026-03-14T09:24:28.501Z INFO  [payments-svc] Charge authorised for order 726152 in 62ms
+2026-03-14T09:24:31.708Z DEBUG [auth-svc] Token validated for user 32925
+2026-03-14T09:24:35.223Z DEBUG [auth-svc] Token validated for user 27896
+2026-03-14T09:24:38.504Z DEBUG [auth-svc] Token validated for user 73641
+2026-03-14T09:24:42.352Z INFO  [payments-svc] Charge authorised for order 952547 in 171ms
+2026-03-14T09:24:46.306Z INFO  [checkout-svc] Order 254721 created, total=EUR 210.76
+2026-03-14T09:24:49.317Z INFO  [api-gateway] POST /v1/checkout 200 117ms client=10.8.128.205
+2026-03-14T09:24:53.031Z INFO  [api-gateway] POST /v1/checkout 200 86ms client=10.8.7.92
+2026-03-14T09:24:59.266Z DEBUG [auth-svc] Token validated for user 78182
+2026-03-14T09:25:03.592Z INFO  [api-gateway] POST /v1/checkout 200 147ms client=10.3.64.190
+2026-03-14T09:25:08.316Z INFO  [payments-svc] Charge authorised for order 881886 in 68ms
+2026-03-14T09:25:13.266Z INFO  [checkout-svc] Order 479625 created, total=EUR 140.75
+2026-03-14T09:25:16.712Z INFO  [checkout-svc] Order 332311 created, total=EUR 166.05
+2026-03-14T09:25:22.690Z DEBUG [auth-svc] Token validated for user 87363
+2026-03-14T09:25:27.825Z INFO  [checkout-svc] Order 774591 created, total=EUR 16.07
+2026-03-14T09:25:32.786Z DEBUG [auth-svc] Token validated for user 56872
+2026-03-14T09:25:38.596Z INFO  [api-gateway] POST /v1/checkout 200 193ms client=10.4.41.83
+2026-03-14T09:25:44.087Z INFO  [api-gateway] POST /v1/checkout 200 112ms client=10.17.166.98
+2026-03-14T09:25:49.533Z INFO  [payments-svc] Charge authorised for order 575755 in 124ms
+2026-03-14T09:25:55.012Z INFO  [checkout-svc] Order 931621 created, total=EUR 188.14
+2026-03-14T09:26:01.505Z INFO  [inventory-svc] Reserved 2 item(s) for order 550961
+2026-03-14T09:26:06.354Z WARN  [inventory-svc] Cache miss for sku-7779, falling back to DB
+2026-03-14T09:26:10.742Z DEBUG [auth-svc] Token validated for user 53262
+2026-03-14T09:26:15.445Z INFO  [inventory-svc] Reserved 3 item(s) for order 547494
+2026-03-14T09:26:19.725Z INFO  [inventory-svc] Reserved 3 item(s) for order 260053
+2026-03-14T09:26:25.538Z WARN  [inventory-svc] Cache miss for sku-2099, falling back to DB
+2026-03-14T09:26:28.911Z DEBUG [auth-svc] Token validated for user 13219
+2026-03-14T09:26:33.679Z INFO  [api-gateway] POST /v1/checkout 200 175ms client=10.8.30.151
+2026-03-14T09:26:40.597Z INFO  [payments-svc] Charge authorised for order 445658 in 145ms
+2026-03-14T09:26:44.097Z INFO  [checkout-svc] Order 797660 created, total=EUR 201.54
+2026-03-14T09:26:50.652Z WARN  [inventory-svc] Cache miss for sku-1842, falling back to DB
+2026-03-14T09:26:57.618Z INFO  [api-gateway] POST /v1/checkout 200 159ms client=10.22.53.148
+2026-03-14T09:27:02.696Z INFO  [api-gateway] POST /v1/checkout 200 203ms client=10.14.55.90
+2026-03-14T09:27:09.158Z INFO  [payments-svc] Charge authorised for order 220465 in 157ms
+2026-03-14T09:27:13.299Z INFO  [payments-svc] Charge authorised for order 946432 in 114ms
+2026-03-14T09:27:19.760Z INFO  [payments-svc] Charge authorised for order 904711 in 164ms
+2026-03-14T09:27:25.306Z INFO  [payments-svc] Charge authorised for order 773918 in 131ms
+2026-03-14T09:27:28.413Z INFO  [payments-svc] Charge authorised for order 789786 in 166ms
+2026-03-14T09:27:34.253Z INFO  [api-gateway] POST /v1/checkout 200 126ms client=10.17.158.236
+2026-03-14T09:27:38.644Z INFO  [checkout-svc] Order 290217 created, total=EUR 231.18
+2026-03-14T09:27:43.963Z INFO  [inventory-svc] Reserved 1 item(s) for order 248766
+2026-03-14T09:27:49.998Z INFO  [payments-svc] Charge authorised for order 132146 in 71ms
+2026-03-14T09:27:56.054Z INFO  [payments-svc] Charge authorised for order 494468 in 113ms
+2026-03-14T09:28:00.912Z INFO  [checkout-svc] Order 488028 created, total=EUR 88.92
+2026-03-14T09:28:05.240Z INFO  [inventory-svc] Reserved 1 item(s) for order 155164
+2026-03-14T09:28:08.877Z INFO  [api-gateway] POST /v1/checkout 200 238ms client=10.3.41.70
+2026-03-14T09:28:13.691Z INFO  [inventory-svc] Reserved 4 item(s) for order 736565
+2026-03-14T09:28:18.501Z INFO  [checkout-svc] Order 326040 created, total=EUR 202.65
+2026-03-14T09:28:21.967Z INFO  [checkout-svc] Order 216276 created, total=EUR 81.86
+2026-03-14T09:28:27.746Z INFO  [payments-svc] Charge authorised for order 652530 in 145ms
+2026-03-14T09:28:32.009Z INFO  [api-gateway] POST /v1/checkout 200 181ms client=10.38.28.2
+2026-03-14T09:28:35.846Z INFO  [checkout-svc] Order 321494 created, total=EUR 205.17
+2026-03-14T09:28:41.976Z INFO  [api-gateway] POST /v1/checkout 200 163ms client=10.7.3.128
+2026-03-14T09:28:48.035Z INFO  [checkout-svc] Order 235461 created, total=EUR 106.68
+2026-03-14T09:28:53.917Z INFO  [api-gateway] POST /v1/checkout 200 223ms client=10.22.36.102
+2026-03-14T09:29:00.446Z INFO  [inventory-svc] Reserved 4 item(s) for order 119651
+2026-03-14T09:29:05.329Z WARN  [inventory-svc] Cache miss for sku-6129, falling back to DB
+2026-03-14T09:29:10.687Z INFO  [checkout-svc] Order 524068 created, total=EUR 190.81
+2026-03-14T09:29:15.397Z INFO  [api-gateway] POST /v1/checkout 200 183ms client=10.1.166.44
+2026-03-14T09:29:21.679Z WARN  [inventory-svc] Cache miss for sku-8538, falling back to DB
+2026-03-14T09:29:28.086Z INFO  [inventory-svc] Reserved 3 item(s) for order 192410
+2026-03-14T09:29:32.874Z DEBUG [auth-svc] Token validated for user 32891
+2026-03-14T09:29:37.658Z INFO  [payments-svc] Charge authorised for order 649414 in 70ms
+2026-03-14T09:29:42.279Z DEBUG [auth-svc] Token validated for user 98754
+2026-03-14T09:29:46.669Z INFO  [api-gateway] POST /v1/checkout 200 123ms client=10.4.58.136
+2026-03-14T09:29:51.757Z INFO  [api-gateway] POST /v1/checkout 200 169ms client=10.22.75.61
+2026-03-14T09:29:55.178Z INFO  [api-gateway] POST /v1/checkout 200 130ms client=10.11.78.195
+2026-03-14T09:30:01.287Z INFO  [inventory-svc] Reserved 2 item(s) for order 910389
+2026-03-14T09:30:06.859Z INFO  [checkout-svc] Order 891093 created, total=EUR 153.97
+2026-03-14T09:30:12.232Z INFO  [checkout-svc] Order 691912 created, total=EUR 173.81
+2026-03-14T09:30:17.790Z INFO  [checkout-svc] Order 757685 created, total=EUR 89.19
+2026-03-14T09:30:22.591Z INFO  [api-gateway] POST /v1/checkout 200 193ms client=10.40.155.204
+2026-03-14T09:30:26.716Z INFO  [payments-svc] Charge authorised for order 469038 in 124ms
+2026-03-14T09:30:30.019Z INFO  [checkout-svc] Order 573866 created, total=EUR 18.07
+2026-03-14T09:30:34.529Z DEBUG [auth-svc] Token validated for user 11057
+2026-03-14T09:30:40.169Z DEBUG [auth-svc] Token validated for user 12835
+2026-03-14T09:30:45.688Z INFO  [payments-svc] Charge authorised for order 503159 in 119ms
+2026-03-14T09:30:51.065Z INFO  [payments-svc] Charge authorised for order 930281 in 154ms
+2026-03-14T09:30:57.734Z INFO  [api-gateway] POST /v1/checkout 200 226ms client=10.12.164.155
+2026-03-14T09:31:02.682Z INFO  [payments-svc] Charge authorised for order 164879 in 117ms
+2026-03-14T09:31:06.105Z DEBUG [auth-svc] Token validated for user 46015
+2026-03-14T09:31:12.030Z INFO  [api-gateway] POST /v1/checkout 200 124ms client=10.2.126.182
+2026-03-14T09:31:16.823Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 4146ms
+2026-03-14T09:31:21.964Z INFO  [payments-svc] Charge authorised for order 481574 in 107ms
+2026-03-14T09:31:28.723Z INFO  [api-gateway] POST /v1/checkout 200 184ms client=10.21.26.203
+2026-03-14T09:31:34.307Z INFO  [payments-svc] Charge authorised for order 169113 in 102ms
+2026-03-14T09:31:37.694Z INFO  [payments-svc] Charge authorised for order 505341 in 96ms
+2026-03-14T09:31:41.726Z INFO  [inventory-svc] Reserved 2 item(s) for order 449555
+2026-03-14T09:31:45.059Z INFO  [payments-svc] Charge authorised for order 248298 in 177ms
+2026-03-14T09:31:49.491Z INFO  [checkout-svc] Order 787923 created, total=EUR 187.84
+2026-03-14T09:31:54.096Z INFO  [api-gateway] POST /v1/checkout 200 101ms client=10.19.192.165
+2026-03-14T09:32:00.338Z INFO  [checkout-svc] Order 234001 created, total=EUR 180.89
+2026-03-14T09:32:06.733Z WARN  [inventory-svc] Cache miss for sku-9624, falling back to DB
+2026-03-14T09:32:10.115Z INFO  [payments-svc] Charge authorised for order 543973 in 125ms
+2026-03-14T09:32:14.597Z INFO  [api-gateway] POST /v1/checkout 200 159ms client=10.11.109.88
+2026-03-14T09:32:21.478Z INFO  [inventory-svc] Reserved 2 item(s) for order 337547
+2026-03-14T09:32:25.041Z INFO  [api-gateway] POST /v1/checkout 200 155ms client=10.6.19.170
+2026-03-14T09:32:29.420Z DEBUG [auth-svc] Token validated for user 82006
+2026-03-14T09:32:32.956Z INFO  [payments-svc] Charge authorised for order 261745 in 80ms
+2026-03-14T09:32:36.696Z DEBUG [auth-svc] Token validated for user 82885
+2026-03-14T09:32:43.009Z WARN  [inventory-svc] Cache miss for sku-8170, falling back to DB
+2026-03-14T09:32:46.187Z INFO  [checkout-svc] Order 809217 created, total=EUR 193.30
+2026-03-14T09:32:53.158Z INFO  [checkout-svc] Order 398768 created, total=EUR 201.95
+2026-03-14T09:32:59.368Z INFO  [checkout-svc] Order 659951 created, total=EUR 70.39
+2026-03-14T09:33:06.323Z DEBUG [auth-svc] Token validated for user 62474
+2026-03-14T09:33:13.025Z DEBUG [auth-svc] Token validated for user 49213
+2026-03-14T09:33:18.803Z WARN  [inventory-svc] Cache miss for sku-8218, falling back to DB
+2026-03-14T09:33:23.694Z INFO  [inventory-svc] Reserved 4 item(s) for order 627335
+2026-03-14T09:33:28.854Z INFO  [checkout-svc] Order 269930 created, total=EUR 218.25
+2026-03-14T09:33:35.135Z INFO  [payments-svc] Charge authorised for order 362147 in 66ms
+2026-03-14T09:33:40.761Z INFO  [checkout-svc] Order 489244 created, total=EUR 150.13
+2026-03-14T09:33:46.674Z DEBUG [auth-svc] Token validated for user 17341
+2026-03-14T09:33:50.841Z INFO  [api-gateway] POST /v1/checkout 200 121ms client=10.17.230.232
+2026-03-14T09:33:55.943Z INFO  [api-gateway] POST /v1/checkout 200 191ms client=10.5.113.210
+2026-03-14T09:34:00.790Z WARN  [inventory-svc] Cache miss for sku-1436, falling back to DB
+2026-03-14T09:34:05.489Z INFO  [api-gateway] POST /v1/checkout 200 208ms client=10.23.120.99
+2026-03-14T09:34:08.823Z INFO  [checkout-svc] Order 129556 created, total=EUR 90.12
+2026-03-14T09:34:15.260Z INFO  [inventory-svc] Reserved 3 item(s) for order 929822
+2026-03-14T09:34:18.858Z INFO  [api-gateway] POST /v1/checkout 200 153ms client=10.30.71.195
+2026-03-14T09:34:24.747Z INFO  [checkout-svc] Order 745239 created, total=EUR 10.10
+2026-03-14T09:34:27.824Z INFO  [api-gateway] POST /v1/checkout 200 118ms client=10.35.216.29
+2026-03-14T09:34:34.003Z INFO  [api-gateway] POST /v1/checkout 200 157ms client=10.7.24.62
+2026-03-14T09:34:38.722Z INFO  [payments-svc] Charge authorised for order 753064 in 118ms
+2026-03-14T09:34:41.979Z INFO  [api-gateway] POST /v1/checkout 200 207ms client=10.38.8.162
+2026-03-14T09:34:47.089Z INFO  [payments-svc] Charge authorised for order 853448 in 78ms
+2026-03-14T09:34:51.282Z INFO  [checkout-svc] Order 744674 created, total=EUR 99.30
+2026-03-14T09:34:56.619Z INFO  [checkout-svc] Order 796643 created, total=EUR 180.10
+2026-03-14T09:35:01.763Z WARN  [checkout-svc] Slow query on orders table took 938ms
+2026-03-14T09:35:08.668Z INFO  [payments-svc] Charge authorised for order 631971 in 160ms
+2026-03-14T09:35:13.747Z INFO  [payments-svc] Charge authorised for order 509420 in 171ms
+2026-03-14T09:35:18.672Z INFO  [api-gateway] POST /v1/checkout 200 179ms client=10.23.129.192
+2026-03-14T09:35:21.738Z INFO  [checkout-svc] Order 170841 created, total=EUR 97.30
+2026-03-14T09:35:27.740Z INFO  [inventory-svc] Reserved 1 item(s) for order 908977
+2026-03-14T09:35:33.123Z INFO  [inventory-svc] Reserved 3 item(s) for order 239890
+2026-03-14T09:35:36.304Z INFO  [checkout-svc] Order 454992 created, total=EUR 217.82
+2026-03-14T09:35:40.021Z DEBUG [auth-svc] Token validated for user 90742
+2026-03-14T09:35:44.924Z WARN  [checkout-svc] Slow query on orders table took 1780ms
+2026-03-14T09:35:50.511Z INFO  [api-gateway] POST /v1/checkout 200 114ms client=10.4.234.10
+2026-03-14T09:35:54.712Z INFO  [api-gateway] POST /v1/checkout 200 131ms client=10.2.161.239
+2026-03-14T09:35:58.982Z INFO  [payments-svc] Charge authorised for order 955015 in 129ms
+2026-03-14T09:36:03.921Z INFO  [api-gateway] POST /v1/checkout 200 128ms client=10.18.182.221
+2026-03-14T09:36:10.119Z INFO  [api-gateway] POST /v1/checkout 200 164ms client=10.17.63.205
+2026-03-14T09:36:14.626Z INFO  [checkout-svc] Order 519453 created, total=EUR 199.56
+2026-03-14T09:36:21.290Z WARN  [checkout-svc] Slow query on orders table took 1494ms
+2026-03-14T09:36:28.278Z INFO  [api-gateway] POST /v1/checkout 200 207ms client=10.23.136.206
+2026-03-14T09:36:31.616Z INFO  [inventory-svc] Reserved 1 item(s) for order 551524
+2026-03-14T09:36:37.083Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 2739ms
+2026-03-14T09:36:42.317Z INFO  [api-gateway] POST /v1/checkout 200 106ms client=10.5.167.170
+2026-03-14T09:36:46.527Z INFO  [checkout-svc] Order 731894 created, total=EUR 192.54
+2026-03-14T09:36:50.209Z INFO  [inventory-svc] Reserved 3 item(s) for order 568849
+2026-03-14T09:36:53.382Z INFO  [inventory-svc] Reserved 3 item(s) for order 744718
+2026-03-14T09:36:58.163Z INFO  [api-gateway] POST /v1/checkout 200 94ms client=10.4.207.94
+2026-03-14T09:37:03.264Z DEBUG [auth-svc] Token validated for user 90051
+2026-03-14T09:37:06.919Z WARN  [checkout-svc] Slow query on orders table took 1092ms
+2026-03-14T09:37:13.395Z INFO  [payments-svc] Charge authorised for order 919264 in 116ms
+2026-03-14T09:37:16.537Z INFO  [api-gateway] POST /v1/checkout 200 140ms client=10.23.185.99
+2026-03-14T09:37:23.426Z INFO  [payments-svc] Charge authorised for order 734487 in 79ms
+2026-03-14T09:37:29.207Z INFO  [checkout-svc] Order 488984 created, total=EUR 104.56
+2026-03-14T09:37:35.332Z INFO  [api-gateway] POST /v1/checkout 200 115ms client=10.33.187.102
+2026-03-14T09:37:39.619Z INFO  [payments-svc] Charge authorised for order 361736 in 74ms
+2026-03-14T09:37:42.725Z INFO  [inventory-svc] Reserved 4 item(s) for order 642895
+2026-03-14T09:37:47.310Z WARN  [inventory-svc] Cache miss for sku-2929, falling back to DB
+2026-03-14T09:37:51.382Z INFO  [inventory-svc] Reserved 4 item(s) for order 324993
+2026-03-14T09:37:56.888Z INFO  [api-gateway] POST /v1/checkout 200 205ms client=10.12.62.35
+2026-03-14T09:38:03.381Z INFO  [api-gateway] POST /v1/checkout 200 124ms client=10.28.44.208
+2026-03-14T09:38:09.174Z WARN  [checkout-svc] Slow query on orders table took 1454ms
+2026-03-14T09:38:14.909Z INFO  [checkout-svc] Order 168093 created, total=EUR 149.69
+2026-03-14T09:38:19.098Z WARN  [inventory-svc] Cache miss for sku-3580, falling back to DB
+2026-03-14T09:38:25.013Z INFO  [inventory-svc] Reserved 2 item(s) for order 932250
+2026-03-14T09:38:29.493Z INFO  [payments-svc] Charge authorised for order 227257 in 85ms
+2026-03-14T09:38:35.737Z INFO  [api-gateway] POST /v1/checkout 200 206ms client=10.1.184.142
+2026-03-14T09:38:41.081Z INFO  [checkout-svc] Order 942700 created, total=EUR 150.16
+2026-03-14T09:38:46.587Z WARN  [inventory-svc] Cache miss for sku-2077, falling back to DB
+2026-03-14T09:38:50.853Z INFO  [checkout-svc] Order 851759 created, total=EUR 193.61
+2026-03-14T09:38:56.006Z INFO  [checkout-svc] Order 529322 created, total=EUR 219.73
+2026-03-14T09:38:59.308Z INFO  [api-gateway] POST /v1/checkout 200 161ms client=10.4.230.120
+2026-03-14T09:39:05.093Z INFO  [payments-svc] Charge authorised for order 234568 in 172ms
+2026-03-14T09:39:11.488Z DEBUG [auth-svc] Token validated for user 84859
+2026-03-14T09:39:16.895Z INFO  [api-gateway] POST /v1/checkout 200 113ms client=10.27.28.213
+2026-03-14T09:39:20.403Z INFO  [payments-svc] Charge authorised for order 418897 in 81ms
+2026-03-14T09:39:24.066Z INFO  [checkout-svc] Order 843788 created, total=EUR 66.44
+2026-03-14T09:39:30.946Z WARN  [inventory-svc] Cache miss for sku-5653, falling back to DB
+2026-03-14T09:39:37.410Z INFO  [api-gateway] POST /v1/checkout 200 130ms client=10.40.140.33
+2026-03-14T09:39:42.970Z INFO  [checkout-svc] Order 659392 created, total=EUR 32.64
+2026-03-14T09:39:48.595Z INFO  [api-gateway] POST /v1/checkout 200 228ms client=10.9.87.169
+2026-03-14T09:39:54.152Z INFO  [inventory-svc] Reserved 3 item(s) for order 983456
+2026-03-14T09:40:00.936Z INFO  [payments-svc] Charge authorised for order 965322 in 170ms
+2026-03-14T09:40:04.052Z INFO  [api-gateway] POST /v1/checkout 200 227ms client=10.16.107.197
+2026-03-14T09:40:09.395Z INFO  [checkout-svc] Order 770030 created, total=EUR 16.63
+2026-03-14T09:40:16.036Z INFO  [payments-svc] Charge authorised for order 403742 in 142ms
+2026-03-14T09:40:22.954Z INFO  [checkout-svc] Order 356773 created, total=EUR 215.87
+2026-03-14T09:40:27.617Z INFO  [api-gateway] POST /v1/checkout 200 98ms client=10.3.80.113
+2026-03-14T09:40:32.319Z INFO  [checkout-svc] Order 313933 created, total=EUR 96.77
+2026-03-14T09:40:35.907Z INFO  [checkout-svc] Order 853258 created, total=EUR 90.93
+2026-03-14T09:40:42.432Z INFO  [checkout-svc] Order 518084 created, total=EUR 42.97
+2026-03-14T09:40:46.949Z INFO  [payments-svc] Charge authorised for order 211341 in 100ms
+2026-03-14T09:40:50.939Z INFO  [checkout-svc] Order 380464 created, total=EUR 124.31
+2026-03-14T09:40:54.516Z INFO  [api-gateway] POST /v1/checkout 200 154ms client=10.24.214.64
+2026-03-14T09:41:01.459Z DEBUG [auth-svc] Token validated for user 21932
+2026-03-14T09:41:07.791Z INFO  [checkout-svc] Order 705748 created, total=EUR 193.40
+2026-03-14T09:41:11.568Z INFO  [inventory-svc] Reserved 4 item(s) for order 639728
+2026-03-14T09:41:16.480Z INFO  [checkout-svc] Order 423528 created, total=EUR 136.02
+2026-03-14T09:41:19.848Z WARN  [inventory-svc] Cache miss for sku-9281, falling back to DB
+2026-03-14T09:41:24.720Z WARN  [checkout-svc] Slow query on orders table took 1240ms
+2026-03-14T09:41:30.109Z INFO  [checkout-svc] Order 152995 created, total=EUR 81.63
+2026-03-14T09:41:35.556Z WARN  [inventory-svc] Cache miss for sku-8710, falling back to DB
+2026-03-14T09:41:39.726Z INFO  [payments-svc] Charge authorised for order 988324 in 73ms
+2026-03-14T09:41:44.491Z INFO  [api-gateway] POST /v1/checkout 200 147ms client=10.23.206.94
+2026-03-14T09:41:47.676Z INFO  [checkout-svc] Order 697983 created, total=EUR 152.24
+2026-03-14T09:41:52.160Z INFO  [payments-svc] Charge authorised for order 177103 in 109ms
+2026-03-14T09:41:57.225Z INFO  [checkout-svc] Order 676566 created, total=EUR 80.79
+2026-03-14T09:42:03.011Z INFO  [payments-svc] Charge authorised for order 234913 in 72ms
+2026-03-14T09:42:07.624Z INFO  [checkout-svc] Order 455556 created, total=EUR 151.46
+2026-03-14T09:42:13.716Z INFO  [api-gateway] POST /v1/checkout 200 234ms client=10.32.205.129
+2026-03-14T09:42:16.880Z INFO  [api-gateway] POST /v1/checkout 200 115ms client=10.21.242.133
+2026-03-14T09:42:21.751Z INFO  [api-gateway] POST /v1/checkout 200 211ms client=10.8.167.239
+2026-03-14T09:42:27.262Z INFO  [checkout-svc] Order 512042 created, total=EUR 166.94
+2026-03-14T09:42:33.713Z INFO  [api-gateway] POST /v1/checkout 200 166ms client=10.32.250.182
+2026-03-14T09:42:39.018Z INFO  [api-gateway] POST /v1/checkout 200 84ms client=10.23.169.173
+2026-03-14T09:42:42.466Z WARN  [checkout-svc] Slow query on orders table took 1430ms
+2026-03-14T09:42:48.729Z WARN  [inventory-svc] Cache miss for sku-1436, falling back to DB
+2026-03-14T09:42:54.173Z INFO  [checkout-svc] Order 787436 created, total=EUR 209.99
+2026-03-14T09:42:59.542Z INFO  [payments-svc] Charge authorised for order 856442 in 66ms
+2026-03-14T09:43:04.932Z INFO  [checkout-svc] Order 649697 created, total=EUR 170.92
+2026-03-14T09:43:10.470Z INFO  [inventory-svc] Reserved 4 item(s) for order 254954
+2026-03-14T09:43:16.835Z INFO  [inventory-svc] Reserved 1 item(s) for order 700383
+2026-03-14T09:43:23.718Z INFO  [inventory-svc] Reserved 2 item(s) for order 119857
+2026-03-14T09:43:28.524Z INFO  [checkout-svc] Order 258787 created, total=EUR 114.88
+2026-03-14T09:43:32.359Z INFO  [checkout-svc] Order 912617 created, total=EUR 165.60
+2026-03-14T09:43:38.934Z DEBUG [auth-svc] Token validated for user 96342
+2026-03-14T09:43:42.189Z INFO  [inventory-svc] Reserved 2 item(s) for order 688132
+2026-03-14T09:43:46.520Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 3959ms
+2026-03-14T09:43:51.672Z INFO  [checkout-svc] Order 281594 created, total=EUR 126.68
+2026-03-14T09:43:56.074Z INFO  [payments-svc] Charge authorised for order 808699 in 158ms
+2026-03-14T09:44:02.627Z INFO  [inventory-svc] Reserved 3 item(s) for order 739711
+2026-03-14T09:44:07.610Z INFO  [api-gateway] POST /v1/checkout 200 143ms client=10.17.152.58
+2026-03-14T09:44:14.466Z WARN  [checkout-svc] Slow query on orders table took 1409ms
+2026-03-14T09:44:20.624Z INFO  [api-gateway] POST /v1/checkout 200 133ms client=10.31.162.123
+2026-03-14T09:44:25.052Z INFO  [payments-svc] Charge authorised for order 934042 in 152ms
+2026-03-14T09:44:29.172Z INFO  [api-gateway] POST /v1/checkout 200 226ms client=10.34.194.230
+2026-03-14T09:44:33.788Z DEBUG [auth-svc] Token validated for user 20198
+2026-03-14T09:44:37.977Z INFO  [api-gateway] POST /v1/checkout 200 100ms client=10.22.226.168
+2026-03-14T09:44:42.027Z INFO  [inventory-svc] Reserved 2 item(s) for order 311883
+2026-03-14T09:44:48.418Z INFO  [payments-svc] Charge authorised for order 689318 in 149ms
+2026-03-14T09:44:52.530Z INFO  [api-gateway] POST /v1/checkout 200 237ms client=10.37.122.63
+2026-03-14T09:44:55.737Z INFO  [inventory-svc] Reserved 2 item(s) for order 768933
+2026-03-14T09:44:59.690Z INFO  [api-gateway] POST /v1/checkout 200 185ms client=10.21.241.26
+2026-03-14T09:45:05.480Z INFO  [inventory-svc] Reserved 1 item(s) for order 677086
+2026-03-14T09:45:12.285Z INFO  [api-gateway] POST /v1/checkout 200 201ms client=10.30.102.194
+2026-03-14T09:45:19.233Z INFO  [api-gateway] POST /v1/checkout 200 153ms client=10.3.45.167
+2026-03-14T09:45:24.584Z INFO  [api-gateway] POST /v1/checkout 200 89ms client=10.11.213.226
+2026-03-14T09:45:31.014Z INFO  [api-gateway] POST /v1/checkout 200 89ms client=10.25.253.48
+2026-03-14T09:45:37.850Z INFO  [inventory-svc] Reserved 3 item(s) for order 139286
+2026-03-14T09:45:40.887Z INFO  [api-gateway] POST /v1/checkout 200 234ms client=10.6.171.73
+2026-03-14T09:45:45.748Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 4225ms
+2026-03-14T09:45:50.895Z INFO  [checkout-svc] Order 240718 created, total=EUR 226.64
+2026-03-14T09:45:55.812Z INFO  [api-gateway] POST /v1/checkout 200 108ms client=10.21.83.188
+2026-03-14T09:46:00.691Z INFO  [payments-svc] Charge authorised for order 853504 in 83ms
+2026-03-14T09:46:03.748Z INFO  [inventory-svc] Reserved 3 item(s) for order 695361
+2026-03-14T09:46:09.510Z INFO  [inventory-svc] Reserved 2 item(s) for order 740632
+2026-03-14T09:46:16.016Z INFO  [payments-svc] Charge authorised for order 525187 in 165ms
+2026-03-14T09:46:20.767Z INFO  [payments-svc] Charge authorised for order 190951 in 111ms
+2026-03-14T09:46:26.508Z INFO  [api-gateway] POST /v1/checkout 200 115ms client=10.30.165.240
+2026-03-14T09:46:30.524Z INFO  [api-gateway] POST /v1/checkout 200 178ms client=10.15.228.193
+2026-03-14T09:46:34.617Z WARN  [checkout-svc] Slow query on orders table took 1418ms
+2026-03-14T09:46:40.002Z INFO  [inventory-svc] Reserved 1 item(s) for order 374258
+2026-03-14T09:46:45.679Z INFO  [checkout-svc] Order 347781 created, total=EUR 24.85
+2026-03-14T09:46:49.163Z INFO  [checkout-svc] Order 267475 created, total=EUR 112.87
+2026-03-14T09:46:54.221Z WARN  [inventory-svc] Cache miss for sku-6095, falling back to DB
+2026-03-14T09:47:00.048Z INFO  [api-gateway] POST /v1/checkout 200 155ms client=10.23.113.57
+2026-03-14T09:47:06.969Z INFO  [api-gateway] POST /v1/checkout 200 119ms client=10.29.191.107
+2026-03-14T09:47:12.844Z INFO  [payments-svc] Charge authorised for order 593699 in 156ms
+2026-03-14T09:47:18.045Z DEBUG [auth-svc] Token validated for user 29627
+2026-03-14T09:47:24.165Z INFO  [api-gateway] POST /v1/checkout 200 232ms client=10.5.228.136
+2026-03-14T09:47:30.047Z INFO  [checkout-svc] Order 691573 created, total=EUR 37.07
+2026-03-14T09:47:36.441Z INFO  [payments-svc] Charge authorised for order 630041 in 85ms
+2026-03-14T09:47:41.786Z INFO  [payments-svc] Charge authorised for order 272529 in 101ms
+2026-03-14T09:47:48.285Z INFO  [payments-svc] Charge authorised for order 221886 in 147ms
+2026-03-14T09:47:52.126Z INFO  [inventory-svc] Reserved 4 item(s) for order 195359
+2026-03-14T09:47:58.807Z INFO  [payments-svc] Charge authorised for order 947975 in 67ms
+2026-03-14T09:48:03.664Z INFO  [api-gateway] POST /v1/checkout 200 186ms client=10.29.29.144
+2026-03-14T09:48:08.557Z INFO  [inventory-svc] Reserved 3 item(s) for order 858414
+2026-03-14T09:48:11.646Z INFO  [checkout-svc] Order 956113 created, total=EUR 9.95
+2026-03-14T09:48:15.538Z INFO  [payments-svc] Charge authorised for order 147489 in 114ms
+2026-03-14T09:48:19.949Z INFO  [inventory-svc] Reserved 1 item(s) for order 172371
+2026-03-14T09:48:26.773Z INFO  [checkout-svc] Order 401036 created, total=EUR 113.23
+2026-03-14T09:48:32.922Z INFO  [api-gateway] POST /v1/checkout 200 187ms client=10.23.195.115
+2026-03-14T09:48:39.483Z WARN  [inventory-svc] Cache miss for sku-7184, falling back to DB
+2026-03-14T09:48:44.021Z INFO  [api-gateway] POST /v1/checkout 200 218ms client=10.8.178.31
+2026-03-14T09:48:47.752Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 3609ms
+2026-03-14T09:48:52.918Z INFO  [api-gateway] POST /v1/checkout 200 137ms client=10.0.11.251
+2026-03-14T09:48:57.140Z INFO  [checkout-svc] Order 854024 created, total=EUR 148.54
+2026-03-14T09:49:02.318Z INFO  [checkout-svc] Order 340820 created, total=EUR 72.58
+2026-03-14T09:49:06.735Z INFO  [api-gateway] POST /v1/checkout 200 128ms client=10.7.16.208
+2026-03-14T09:49:12.439Z INFO  [checkout-svc] Order 903265 created, total=EUR 235.02
+2026-03-14T09:49:16.424Z INFO  [api-gateway] POST /v1/checkout 200 105ms client=10.38.17.115
+2026-03-14T09:49:21.872Z INFO  [inventory-svc] Reserved 1 item(s) for order 356622
+2026-03-14T09:49:27.905Z INFO  [api-gateway] POST /v1/checkout 200 192ms client=10.14.111.194
+2026-03-14T09:49:34.442Z INFO  [inventory-svc] Reserved 2 item(s) for order 628373
+2026-03-14T09:49:38.626Z INFO  [api-gateway] POST /v1/checkout 200 227ms client=10.20.164.61
+2026-03-14T09:49:42.862Z DEBUG [auth-svc] Token validated for user 87535
+2026-03-14T09:49:47.997Z INFO  [api-gateway] POST /v1/checkout 200 156ms client=10.17.31.143
+2026-03-14T09:49:54.882Z INFO  [payments-svc] Charge authorised for order 870925 in 176ms
+2026-03-14T09:49:58.599Z INFO  [payments-svc] Charge authorised for order 547952 in 131ms
+2026-03-14T09:50:03.629Z INFO  [api-gateway] POST /v1/checkout 200 168ms client=10.24.163.179
+2026-03-14T09:50:08.334Z INFO  [checkout-svc] Order 414455 created, total=EUR 105.23
+2026-03-14T09:50:14.424Z INFO  [payments-svc] Charge authorised for order 352673 in 168ms
+2026-03-14T09:50:18.347Z INFO  [checkout-svc] Order 841948 created, total=EUR 45.59
+2026-03-14T09:50:25.093Z INFO  [api-gateway] POST /v1/checkout 200 185ms client=10.26.68.100
+2026-03-14T09:50:29.087Z INFO  [api-gateway] POST /v1/checkout 200 164ms client=10.5.230.217
+2026-03-14T09:50:33.606Z INFO  [api-gateway] POST /v1/checkout 200 128ms client=10.3.137.97
+2026-03-14T09:50:39.365Z INFO  [payments-svc] Charge authorised for order 141468 in 171ms
+2026-03-14T09:50:42.663Z INFO  [api-gateway] POST /v1/checkout 200 230ms client=10.35.111.123
+2026-03-14T09:50:46.518Z DEBUG [auth-svc] Token validated for user 44642
+2026-03-14T09:50:50.759Z WARN  [checkout-svc] Slow query on orders table took 831ms
+2026-03-14T09:50:54.626Z WARN  [inventory-svc] Cache miss for sku-2922, falling back to DB
+2026-03-14T09:51:00.685Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 3961ms
+2026-03-14T09:51:07.430Z INFO  [api-gateway] POST /v1/checkout 200 234ms client=10.13.203.235
+2026-03-14T09:51:11.410Z INFO  [payments-svc] Charge authorised for order 913185 in 96ms
+2026-03-14T09:51:15.969Z INFO  [checkout-svc] Order 780233 created, total=EUR 100.39
+2026-03-14T09:51:20.040Z INFO  [checkout-svc] Order 621433 created, total=EUR 128.12
+2026-03-14T09:51:26.328Z WARN  [checkout-svc] Slow query on orders table took 1761ms
+2026-03-14T09:51:32.447Z DEBUG [auth-svc] Token validated for user 27624
+2026-03-14T09:51:36.965Z INFO  [checkout-svc] Order 147936 created, total=EUR 153.28
+2026-03-14T09:51:43.001Z INFO  [api-gateway] POST /v1/checkout 200 146ms client=10.35.213.76
+2026-03-14T09:51:46.625Z INFO  [api-gateway] POST /v1/checkout 200 138ms client=10.24.125.128
+2026-03-14T09:51:51.880Z INFO  [inventory-svc] Reserved 3 item(s) for order 369826
+2026-03-14T09:51:58.006Z DEBUG [auth-svc] Token validated for user 95838
+2026-03-14T09:52:03.634Z INFO  [inventory-svc] Reserved 4 item(s) for order 276405
+2026-03-14T09:52:09.635Z DEBUG [auth-svc] Token validated for user 23185
+2026-03-14T09:52:13.208Z INFO  [inventory-svc] Reserved 4 item(s) for order 292988
+2026-03-14T09:52:19.963Z WARN  [inventory-svc] Cache miss for sku-1962, falling back to DB
+2026-03-14T09:52:25.109Z INFO  [api-gateway] POST /v1/checkout 200 99ms client=10.3.3.106
+2026-03-14T09:52:28.672Z DEBUG [auth-svc] Token validated for user 31334
+2026-03-14T09:52:31.950Z INFO  [inventory-svc] Reserved 1 item(s) for order 329344
+2026-03-14T09:52:37.021Z INFO  [checkout-svc] Order 163386 created, total=EUR 167.81
+2026-03-14T09:52:42.752Z WARN  [inventory-svc] Cache miss for sku-8916, falling back to DB
+2026-03-14T09:52:48.452Z INFO  [checkout-svc] Order 106933 created, total=EUR 145.70
+2026-03-14T09:52:53.136Z INFO  [api-gateway] POST /v1/checkout 200 215ms client=10.17.146.5
+2026-03-14T09:52:58.193Z DEBUG [auth-svc] Token validated for user 89346
+2026-03-14T09:53:02.956Z DEBUG [auth-svc] Token validated for user 24496
+2026-03-14T09:53:06.394Z WARN  [inventory-svc] Cache miss for sku-9591, falling back to DB
+2026-03-14T09:53:10.003Z INFO  [api-gateway] POST /v1/checkout 200 238ms client=10.33.129.209
+2026-03-14T09:53:14.454Z INFO  [api-gateway] POST /v1/checkout 200 181ms client=10.5.191.246
+2026-03-14T09:53:19.117Z INFO  [checkout-svc] Order 355021 created, total=EUR 187.28
+2026-03-14T09:53:23.345Z INFO  [inventory-svc] Reserved 1 item(s) for order 785491
+2026-03-14T09:53:29.860Z INFO  [payments-svc] Charge authorised for order 133223 in 71ms
+2026-03-14T09:53:34.520Z INFO  [checkout-svc] Order 679549 created, total=EUR 130.07
+2026-03-14T09:53:40.128Z INFO  [api-gateway] POST /v1/checkout 200 123ms client=10.5.255.217
+2026-03-14T09:53:44.905Z INFO  [payments-svc] Charge authorised for order 447362 in 132ms
+2026-03-14T09:53:51.419Z WARN  [checkout-svc] Slow query on orders table took 1881ms
+2026-03-14T09:53:58.183Z INFO  [api-gateway] POST /v1/checkout 200 134ms client=10.36.243.70
+2026-03-14T09:54:01.373Z WARN  [inventory-svc] Cache miss for sku-5593, falling back to DB
+2026-03-14T09:54:08.056Z INFO  [payments-svc] Charge authorised for order 790077 in 64ms
+2026-03-14T09:54:11.790Z WARN  [inventory-svc] Cache miss for sku-6152, falling back to DB
+2026-03-14T09:54:14.854Z WARN  [checkout-svc] Slow query on orders table took 1095ms
+2026-03-14T09:54:20.935Z DEBUG [auth-svc] Token validated for user 53205
+2026-03-14T09:54:27.739Z INFO  [api-gateway] POST /v1/checkout 200 121ms client=10.36.123.146
+2026-03-14T09:54:34.157Z DEBUG [auth-svc] Token validated for user 89740
+2026-03-14T09:54:40.829Z INFO  [payments-svc] Charge authorised for order 502491 in 156ms
+2026-03-14T09:54:46.858Z INFO  [api-gateway] POST /v1/checkout 200 100ms client=10.32.177.14
+2026-03-14T09:54:50.258Z INFO  [checkout-svc] Order 979414 created, total=EUR 28.43
+2026-03-14T09:54:55.736Z INFO  [inventory-svc] Reserved 4 item(s) for order 911131
+2026-03-14T09:55:00.072Z INFO  [api-gateway] POST /v1/checkout 200 149ms client=10.28.251.59
+2026-03-14T09:55:04.529Z INFO  [payments-svc] Charge authorised for order 493663 in 115ms
+2026-03-14T09:55:08.289Z INFO  [inventory-svc] Reserved 4 item(s) for order 189856
+2026-03-14T09:55:14.451Z INFO  [payments-svc] Charge authorised for order 936821 in 91ms
+2026-03-14T09:55:20.371Z INFO  [api-gateway] POST /v1/checkout 200 148ms client=10.9.194.183
+2026-03-14T09:55:26.581Z INFO  [payments-svc] Charge authorised for order 875584 in 109ms
+2026-03-14T09:55:30.878Z INFO  [checkout-svc] Order 195966 created, total=EUR 10.39
+2026-03-14T09:55:35.699Z INFO  [checkout-svc] Order 382870 created, total=EUR 35.16
+2026-03-14T09:55:39.056Z INFO  [api-gateway] POST /v1/checkout 200 194ms client=10.35.208.27
+2026-03-14T09:55:42.163Z INFO  [api-gateway] POST /v1/checkout 200 221ms client=10.5.166.222
+2026-03-14T09:55:46.740Z INFO  [api-gateway] POST /v1/checkout 200 185ms client=10.24.43.186
+2026-03-14T09:55:53.431Z INFO  [payments-svc] Charge authorised for order 354533 in 133ms
+2026-03-14T09:55:58.565Z INFO  [api-gateway] POST /v1/checkout 200 177ms client=10.10.71.69
+2026-03-14T09:56:02.798Z INFO  [api-gateway] POST /v1/checkout 200 117ms client=10.4.85.112
+2026-03-14T09:56:06.928Z INFO  [checkout-svc] Order 607753 created, total=EUR 209.09
+2026-03-14T09:56:11.407Z INFO  [api-gateway] POST /v1/checkout 200 143ms client=10.40.253.153
+2026-03-14T09:56:16.932Z INFO  [api-gateway] POST /v1/checkout 200 107ms client=10.8.155.2
+2026-03-14T09:56:23.818Z INFO  [checkout-svc] Order 982495 created, total=EUR 167.48
+2026-03-14T09:56:30.111Z DEBUG [auth-svc] Token validated for user 58700
+2026-03-14T09:56:34.482Z INFO  [checkout-svc] Order 963539 created, total=EUR 229.83
+2026-03-14T09:56:41.472Z INFO  [payments-svc] Charge authorised for order 415029 in 101ms
+2026-03-14T09:56:46.942Z WARN  [inventory-svc] Cache miss for sku-4290, falling back to DB
+2026-03-14T09:56:51.904Z INFO  [checkout-svc] Order 517584 created, total=EUR 90.37
+2026-03-14T09:56:57.914Z INFO  [inventory-svc] Reserved 4 item(s) for order 703853
+2026-03-14T09:57:04.116Z INFO  [api-gateway] POST /v1/checkout 200 176ms client=10.17.201.94
+2026-03-14T09:57:07.582Z WARN  [inventory-svc] Cache miss for sku-4273, falling back to DB
+2026-03-14T09:57:13.007Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 2736ms
+2026-03-14T09:57:18.799Z INFO  [inventory-svc] Reserved 1 item(s) for order 862538
+2026-03-14T09:57:23.689Z WARN  [inventory-svc] Cache miss for sku-4434, falling back to DB
+2026-03-14T09:57:28.484Z DEBUG [auth-svc] Token validated for user 91811
+2026-03-14T09:57:31.767Z DEBUG [auth-svc] Token validated for user 54627
+2026-03-14T09:57:37.523Z INFO  [checkout-svc] Order 764100 created, total=EUR 86.30
+2026-03-14T09:57:41.557Z INFO  [inventory-svc] Reserved 4 item(s) for order 927406
+2026-03-14T09:57:46.101Z INFO  [api-gateway] POST /v1/checkout 200 233ms client=10.30.205.137
+2026-03-14T09:57:51.176Z WARN  [inventory-svc] Cache miss for sku-7853, falling back to DB
+2026-03-14T09:57:56.402Z INFO  [api-gateway] POST /v1/checkout 200 172ms client=10.34.43.28
+2026-03-14T09:58:02.551Z INFO  [api-gateway] POST /v1/checkout 200 170ms client=10.10.22.145
+2026-03-14T09:58:08.193Z INFO  [inventory-svc] Reserved 4 item(s) for order 889245
+2026-03-14T09:58:12.551Z WARN  [checkout-svc] Slow query on orders table took 1681ms
+2026-03-14T09:58:15.984Z INFO  [api-gateway] POST /v1/checkout 200 146ms client=10.14.113.115
+2026-03-14T09:58:20.516Z INFO  [checkout-svc] Order 909859 created, total=EUR 182.75
+2026-03-14T09:58:26.344Z INFO  [payments-svc] Charge authorised for order 461724 in 63ms
+2026-03-14T09:58:31.321Z INFO  [api-gateway] POST /v1/checkout 200 186ms client=10.5.59.213
+2026-03-14T09:58:38.174Z INFO  [inventory-svc] Reserved 3 item(s) for order 427040
+2026-03-14T09:58:42.579Z INFO  [checkout-svc] Order 316916 created, total=EUR 142.61
+2026-03-14T09:58:47.005Z INFO  [checkout-svc] Order 559450 created, total=EUR 193.89
+2026-03-14T09:58:51.858Z INFO  [checkout-svc] Order 414849 created, total=EUR 20.90
+2026-03-14T09:58:55.329Z INFO  [api-gateway] POST /v1/checkout 200 167ms client=10.6.84.239
+2026-03-14T09:59:01.362Z INFO  [api-gateway] POST /v1/checkout 200 124ms client=10.35.81.85
+2026-03-14T09:59:06.655Z INFO  [checkout-svc] Order 584498 created, total=EUR 68.51
+2026-03-14T09:59:12.234Z INFO  [api-gateway] POST /v1/checkout 200 190ms client=10.25.14.189
+2026-03-14T09:59:17.749Z WARN  [inventory-svc] Cache miss for sku-8365, falling back to DB
+2026-03-14T09:59:23.174Z INFO  [checkout-svc] Order 104666 created, total=EUR 189.27
+2026-03-14T09:59:27.016Z INFO  [api-gateway] POST /v1/checkout 200 96ms client=10.36.52.205
+2026-03-14T09:59:33.587Z INFO  [payments-svc] Charge authorised for order 483561 in 101ms
+2026-03-14T09:59:37.394Z INFO  [checkout-svc] Order 375097 created, total=EUR 180.62
+2026-03-14T09:59:42.555Z WARN  [checkout-svc] Slow query on orders table took 1441ms
+2026-03-14T09:59:48.000Z INFO  [checkout-svc] Order 511612 created, total=EUR 159.14
+2026-03-14T09:59:52.425Z INFO  [checkout-svc] Order 580101 created, total=EUR 167.22
+2026-03-14T09:59:58.758Z INFO  [inventory-svc] Reserved 3 item(s) for order 744333
+2026-03-14T10:00:04.175Z INFO  [api-gateway] POST /v1/checkout 200 114ms client=10.20.60.62
+2026-03-14T10:00:08.425Z INFO  [api-gateway] POST /v1/checkout 200 175ms client=10.9.198.108
+2026-03-14T10:00:13.867Z INFO  [api-gateway] POST /v1/checkout 200 178ms client=10.27.95.125
+2026-03-14T10:00:19.470Z INFO  [payments-svc] Charge authorised for order 776604 in 179ms
+2026-03-14T10:00:23.179Z INFO  [payments-svc] Charge authorised for order 613426 in 96ms
+2026-03-14T10:00:26.753Z INFO  [api-gateway] POST /v1/checkout 200 195ms client=10.39.27.222
+2026-03-14T10:00:31.223Z WARN  [checkout-svc] Slow query on orders table took 1792ms
+2026-03-14T10:00:34.782Z INFO  [api-gateway] POST /v1/checkout 200 178ms client=10.35.253.105
+2026-03-14T10:00:40.586Z INFO  [checkout-svc] Order 844638 created, total=EUR 224.56
+2026-03-14T10:00:45.587Z INFO  [api-gateway] POST /v1/checkout 200 224ms client=10.1.112.75
+2026-03-14T10:00:48.720Z INFO  [api-gateway] POST /v1/checkout 200 217ms client=10.18.86.200
+2026-03-14T10:00:53.593Z INFO  [payments-svc] Charge authorised for order 910074 in 158ms
+2026-03-14T10:00:58.621Z INFO  [payments-svc] Charge authorised for order 218710 in 133ms
+2026-03-14T10:01:02.088Z INFO  [api-gateway] POST /v1/checkout 200 219ms client=10.23.21.195
+2026-03-14T10:01:08.032Z INFO  [checkout-svc] Order 329157 created, total=EUR 117.13
+2026-03-14T10:01:14.046Z DEBUG [auth-svc] Token validated for user 99480
+2026-03-14T10:01:18.059Z INFO  [api-gateway] POST /v1/checkout 200 88ms client=10.28.134.90
+2026-03-14T10:01:24.590Z DEBUG [auth-svc] Token validated for user 58549
+2026-03-14T10:01:31.134Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 2970ms
+2026-03-14T10:01:34.993Z DEBUG [auth-svc] Token validated for user 78060
+2026-03-14T10:01:40.815Z INFO  [checkout-svc] Order 845279 created, total=EUR 165.80
+2026-03-14T10:01:45.568Z INFO  [api-gateway] POST /v1/checkout 200 115ms client=10.13.105.207
+2026-03-14T10:01:48.811Z INFO  [payments-svc] Charge authorised for order 658136 in 95ms
+2026-03-14T10:01:54.255Z INFO  [payments-svc] Charge authorised for order 439375 in 150ms
+2026-03-14T10:01:58.453Z INFO  [api-gateway] POST /v1/checkout 200 148ms client=10.32.48.35
+2026-03-14T10:02:05.396Z INFO  [inventory-svc] Reserved 4 item(s) for order 162165
+2026-03-14T10:02:09.531Z DEBUG [auth-svc] Token validated for user 17631
+2026-03-14T10:02:15.404Z DEBUG [auth-svc] Token validated for user 33725
+2026-03-14T10:02:19.003Z INFO  [inventory-svc] Reserved 2 item(s) for order 898462
+2026-03-14T10:02:25.458Z INFO  [inventory-svc] Reserved 4 item(s) for order 249077
+2026-03-14T10:02:30.823Z INFO  [payments-svc] Charge authorised for order 758309 in 113ms
+2026-03-14T10:02:35.359Z INFO  [checkout-svc] Order 764406 created, total=EUR 212.98
+2026-03-14T10:02:38.740Z INFO  [checkout-svc] Order 886224 created, total=EUR 80.88
+2026-03-14T10:02:45.575Z DEBUG [auth-svc] Token validated for user 60597
+2026-03-14T10:02:52.467Z INFO  [checkout-svc] Order 710224 created, total=EUR 9.99
+2026-03-14T10:02:58.936Z INFO  [inventory-svc] Reserved 4 item(s) for order 765678
+2026-03-14T10:03:04.656Z INFO  [inventory-svc] Reserved 1 item(s) for order 934328
+2026-03-14T10:03:09.845Z INFO  [checkout-svc] Order 550513 created, total=EUR 220.27
+2026-03-14T10:03:14.871Z INFO  [api-gateway] POST /v1/checkout 200 152ms client=10.21.66.145
+2026-03-14T10:03:21.362Z INFO  [checkout-svc] Order 460437 created, total=EUR 237.87
+2026-03-14T10:03:27.484Z INFO  [api-gateway] POST /v1/checkout 200 105ms client=10.40.235.5
+2026-03-14T10:03:30.992Z WARN  [inventory-svc] Cache miss for sku-3588, falling back to DB
+2026-03-14T10:03:35.799Z INFO  [checkout-svc] Order 548580 created, total=EUR 60.88
+2026-03-14T10:03:42.523Z INFO  [api-gateway] POST /v1/checkout 200 157ms client=10.10.140.24
+2026-03-14T10:03:48.204Z INFO  [checkout-svc] Order 186424 created, total=EUR 104.85
+2026-03-14T10:03:54.905Z INFO  [payments-svc] Charge authorised for order 154302 in 110ms
+2026-03-14T10:04:00.467Z INFO  [checkout-svc] Order 833417 created, total=EUR 202.29
+2026-03-14T10:04:05.225Z INFO  [inventory-svc] Reserved 1 item(s) for order 101139
+2026-03-14T10:04:09.099Z INFO  [checkout-svc] Order 239145 created, total=EUR 160.28
+2026-03-14T10:04:14.226Z INFO  [inventory-svc] Reserved 1 item(s) for order 108454
+2026-03-14T10:04:20.075Z INFO  [checkout-svc] Order 226451 created, total=EUR 229.54
+2026-03-14T10:04:25.917Z INFO  [api-gateway] POST /v1/checkout 200 98ms client=10.14.196.23
+2026-03-14T10:04:31.910Z DEBUG [auth-svc] Token validated for user 14526
+2026-03-14T10:04:36.193Z INFO  [checkout-svc] Order 413791 created, total=EUR 44.48
+2026-03-14T10:04:42.361Z DEBUG [auth-svc] Token validated for user 18451
+2026-03-14T10:04:47.988Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 2585ms
+2026-03-14T10:04:51.268Z INFO  [payments-svc] Charge authorised for order 108886 in 138ms
+2026-03-14T10:04:56.930Z INFO  [api-gateway] POST /v1/checkout 200 169ms client=10.13.77.236
+2026-03-14T10:05:01.616Z INFO  [payments-svc] Charge authorised for order 563873 in 170ms
+2026-03-14T10:05:05.505Z INFO  [api-gateway] POST /v1/checkout 200 105ms client=10.8.63.151
+2026-03-14T10:05:11.495Z INFO  [checkout-svc] Order 550246 created, total=EUR 89.17
+2026-03-14T10:05:15.509Z INFO  [api-gateway] POST /v1/checkout 200 101ms client=10.15.145.200
+2026-03-14T10:05:22.364Z INFO  [inventory-svc] Reserved 3 item(s) for order 315425
+2026-03-14T10:05:27.484Z INFO  [payments-svc] Charge authorised for order 297810 in 155ms
+2026-03-14T10:05:32.088Z INFO  [api-gateway] POST /v1/checkout 200 93ms client=10.15.253.99
+2026-03-14T10:05:35.549Z INFO  [api-gateway] POST /v1/checkout 200 232ms client=10.4.6.253
+2026-03-14T10:05:40.028Z WARN  [inventory-svc] Cache miss for sku-3162, falling back to DB
+2026-03-14T10:05:44.612Z DEBUG [auth-svc] Token validated for user 75498
+2026-03-14T10:05:49.335Z INFO  [checkout-svc] Order 816116 created, total=EUR 53.97
+2026-03-14T10:05:54.264Z WARN  [checkout-svc] Slow query on orders table took 949ms
+2026-03-14T10:05:57.332Z INFO  [payments-svc] Charge authorised for order 114463 in 93ms
+2026-03-14T10:06:01.215Z INFO  [api-gateway] POST /v1/checkout 200 95ms client=10.25.146.161
+2026-03-14T10:06:07.133Z INFO  [payments-svc] Charge authorised for order 535612 in 114ms
+2026-03-14T10:06:13.007Z INFO  [checkout-svc] Order 771652 created, total=EUR 146.68
+2026-03-14T10:06:18.530Z INFO  [api-gateway] POST /v1/checkout 200 101ms client=10.19.40.131
+2026-03-14T10:06:25.302Z INFO  [api-gateway] POST /v1/checkout 200 119ms client=10.34.167.101
+2026-03-14T10:06:30.704Z INFO  [payments-svc] Charge authorised for order 975064 in 143ms
+2026-03-14T10:06:36.493Z INFO  [payments-svc] Charge authorised for order 425236 in 149ms
+2026-03-14T10:06:41.284Z INFO  [inventory-svc] Reserved 2 item(s) for order 160718
+2026-03-14T10:06:45.285Z INFO  [api-gateway] POST /v1/checkout 200 191ms client=10.7.232.157
+2026-03-14T10:06:50.778Z INFO  [api-gateway] POST /v1/checkout 200 124ms client=10.7.6.182
+2026-03-14T10:06:54.340Z INFO  [inventory-svc] Reserved 2 item(s) for order 620526
+2026-03-14T10:07:01.243Z INFO  [checkout-svc] Order 642347 created, total=EUR 209.92
+2026-03-14T10:07:05.304Z INFO  [api-gateway] POST /v1/checkout 200 112ms client=10.17.60.198
+2026-03-14T10:07:11.989Z INFO  [api-gateway] POST /v1/checkout 200 189ms client=10.17.32.68
+2026-03-14T10:07:17.906Z WARN  [checkout-svc] Slow query on orders table took 957ms
+2026-03-14T10:07:22.938Z INFO  [checkout-svc] Order 477617 created, total=EUR 23.63
+2026-03-14T10:07:29.457Z INFO  [payments-svc] Charge authorised for order 485548 in 80ms
+2026-03-14T10:07:33.501Z INFO  [inventory-svc] Reserved 1 item(s) for order 339499
+2026-03-14T10:07:39.535Z INFO  [payments-svc] Charge authorised for order 146177 in 169ms
+2026-03-14T10:07:46.069Z INFO  [api-gateway] POST /v1/checkout 200 91ms client=10.30.186.99
+2026-03-14T10:07:52.838Z INFO  [api-gateway] POST /v1/checkout 200 89ms client=10.35.214.58
+2026-03-14T10:07:57.156Z INFO  [api-gateway] POST /v1/checkout 200 161ms client=10.17.39.147
+2026-03-14T10:08:01.683Z INFO  [api-gateway] POST /v1/checkout 200 93ms client=10.11.114.206
+2026-03-14T10:08:06.795Z WARN  [checkout-svc] Slow query on orders table took 1621ms
+2026-03-14T10:08:10.077Z DEBUG [auth-svc] Token validated for user 38002
+2026-03-14T10:08:16.245Z DEBUG [auth-svc] Token validated for user 43899
+2026-03-14T10:08:19.598Z INFO  [payments-svc] Charge authorised for order 108356 in 107ms
+2026-03-14T10:08:23.419Z INFO  [api-gateway] POST /v1/checkout 200 157ms client=10.39.124.119
+2026-03-14T10:08:27.927Z INFO  [payments-svc] Charge authorised for order 617326 in 158ms
+2026-03-14T10:08:34.105Z INFO  [api-gateway] POST /v1/checkout 200 219ms client=10.15.77.2
+2026-03-14T10:08:40.924Z INFO  [checkout-svc] Order 344315 created, total=EUR 147.44
+2026-03-14T10:08:46.528Z DEBUG [auth-svc] Token validated for user 2257
+2026-03-14T10:08:53.423Z INFO  [checkout-svc] Order 895794 created, total=EUR 177.48
+2026-03-14T10:08:59.900Z INFO  [inventory-svc] Reserved 3 item(s) for order 208998
+2026-03-14T10:09:03.740Z INFO  [payments-svc] Charge authorised for order 349736 in 113ms
+2026-03-14T10:09:08.755Z WARN  [checkout-svc] Slow query on orders table took 1091ms
+2026-03-14T10:09:14.669Z INFO  [api-gateway] POST /v1/checkout 200 91ms client=10.14.211.180
+2026-03-14T10:09:21.337Z INFO  [checkout-svc] Order 884229 created, total=EUR 30.74
+2026-03-14T10:09:24.728Z INFO  [payments-svc] Charge authorised for order 768169 in 164ms
+2026-03-14T10:09:29.343Z INFO  [api-gateway] POST /v1/checkout 200 225ms client=10.3.222.170
+2026-03-14T10:09:36.292Z INFO  [api-gateway] POST /v1/checkout 200 154ms client=10.16.161.238
+2026-03-14T10:09:42.572Z INFO  [checkout-svc] Order 972310 created, total=EUR 197.41
+2026-03-14T10:09:46.874Z INFO  [checkout-svc] Order 344959 created, total=EUR 28.25
+2026-03-14T10:09:50.431Z INFO  [inventory-svc] Reserved 1 item(s) for order 262959
+2026-03-14T10:09:53.863Z INFO  [api-gateway] POST /v1/checkout 200 199ms client=10.20.208.31
+2026-03-14T10:09:59.058Z INFO  [checkout-svc] Order 907756 created, total=EUR 62.57
+2026-03-14T10:10:03.320Z INFO  [checkout-svc] Order 993892 created, total=EUR 39.11
+2026-03-14T10:10:06.965Z DEBUG [auth-svc] Token validated for user 40874
+2026-03-14T10:10:13.349Z INFO  [inventory-svc] Reserved 1 item(s) for order 325465
+2026-03-14T10:10:19.772Z DEBUG [auth-svc] Token validated for user 20441
+2026-03-14T10:10:23.145Z INFO  [inventory-svc] Reserved 3 item(s) for order 515492
+2026-03-14T10:10:28.248Z INFO  [api-gateway] POST /v1/checkout 200 156ms client=10.16.89.8
+2026-03-14T10:10:35.147Z INFO  [checkout-svc] Order 574167 created, total=EUR 151.95
+2026-03-14T10:10:40.400Z INFO  [api-gateway] POST /v1/checkout 200 198ms client=10.6.71.32
+2026-03-14T10:10:43.448Z INFO  [api-gateway] POST /v1/checkout 200 136ms client=10.8.101.211
+2026-03-14T10:10:48.088Z INFO  [checkout-svc] Order 760914 created, total=EUR 174.10
+2026-03-14T10:10:53.473Z INFO  [payments-svc] Charge authorised for order 952227 in 69ms
+2026-03-14T10:10:56.562Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 2809ms
+2026-03-14T10:11:03.258Z INFO  [payments-svc] Charge authorised for order 948611 in 76ms
+2026-03-14T10:11:06.634Z WARN  [inventory-svc] Cache miss for sku-6432, falling back to DB
+2026-03-14T10:11:10.135Z INFO  [api-gateway] POST /v1/checkout 200 198ms client=10.3.86.237
+2026-03-14T10:11:12.000Z INFO  [payments-svc] Deploy started: version=2.14.0 (previous=2.13.4) by ci-pipeline
+2026-03-14T10:11:15.485Z INFO  [checkout-svc] Order 859620 created, total=EUR 110.63
+2026-03-14T10:11:18.605Z INFO  [checkout-svc] Order 547389 created, total=EUR 53.45
+2026-03-14T10:11:22.484Z WARN  [inventory-svc] Cache miss for sku-5505, falling back to DB
+2026-03-14T10:11:26.630Z INFO  [checkout-svc] Order 255851 created, total=EUR 17.78
+2026-03-14T10:11:32.166Z INFO  [payments-svc] Charge authorised for order 778720 in 97ms
+2026-03-14T10:11:37.209Z INFO  [checkout-svc] Order 677438 created, total=EUR 131.07
+2026-03-14T10:11:40.568Z INFO  [api-gateway] POST /v1/checkout 200 115ms client=10.26.102.165
+2026-03-14T10:11:47.191Z DEBUG [auth-svc] Token validated for user 33656
+2026-03-14T10:11:52.774Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 4226ms
+2026-03-14T10:11:59.029Z INFO  [api-gateway] POST /v1/checkout 200 177ms client=10.22.245.140
+2026-03-14T10:12:00.000Z INFO  [payments-svc] Deploy finished: 6/6 pods ready, version=2.14.0
+2026-03-14T10:12:05.229Z INFO  [checkout-svc] Order 693128 created, total=EUR 137.41
+2026-03-14T10:12:09.819Z INFO  [api-gateway] POST /v1/checkout 200 86ms client=10.20.112.8
+2026-03-14T10:12:16.488Z DEBUG [auth-svc] Token validated for user 37822
+2026-03-14T10:12:19.727Z DEBUG [auth-svc] Token validated for user 62824
+2026-03-14T10:12:24.895Z INFO  [checkout-svc] Order 712356 created, total=EUR 68.20
+2026-03-14T10:12:28.305Z INFO  [api-gateway] POST /v1/checkout 200 141ms client=10.17.28.196
+2026-03-14T10:12:35.187Z INFO  [api-gateway] POST /v1/checkout 200 179ms client=10.22.88.46
+2026-03-14T10:12:39.155Z INFO  [payments-svc] Charge authorised for order 945372 in 154ms
+2026-03-14T10:12:45.012Z INFO  [checkout-svc] Order 720298 created, total=EUR 16.90
+2026-03-14T10:12:50.881Z INFO  [checkout-svc] Order 695225 created, total=EUR 153.18
+2026-03-14T10:12:56.187Z WARN  [inventory-svc] Cache miss for sku-9064, falling back to DB
+2026-03-14T10:13:01.407Z INFO  [checkout-svc] Order 614259 created, total=EUR 18.11
+2026-03-14T10:13:04.637Z INFO  [api-gateway] POST /v1/checkout 200 136ms client=10.1.244.1
+2026-03-14T10:13:08.995Z WARN  [inventory-svc] Cache miss for sku-4300, falling back to DB
+2026-03-14T10:13:15.298Z INFO  [api-gateway] POST /v1/checkout 200 125ms client=10.20.30.6
+2026-03-14T10:13:18.903Z INFO  [payments-svc] Charge authorised for order 248533 in 159ms
+2026-03-14T10:13:22.357Z DEBUG [auth-svc] Token validated for user 48826
+2026-03-14T10:13:29.291Z INFO  [api-gateway] POST /v1/checkout 200 181ms client=10.37.51.87
+2026-03-14T10:13:33.527Z INFO  [checkout-svc] Order 265154 created, total=EUR 196.55
+2026-03-14T10:13:39.770Z INFO  [payments-svc] Charge authorised for order 610866 in 143ms
+2026-03-14T10:13:44.069Z INFO  [api-gateway] POST /v1/checkout 200 223ms client=10.39.182.58
+2026-03-14T10:13:49.795Z INFO  [payments-svc] Charge authorised for order 283869 in 108ms
+2026-03-14T10:13:52.000Z WARN  [payments-svc] Connection pool nearing capacity (active=44/50) - connections not returned after refund lookup
+2026-03-14T10:13:54.051Z INFO  [inventory-svc] Reserved 3 item(s) for order 233534
+2026-03-14T10:13:57.778Z INFO  [inventory-svc] Reserved 4 item(s) for order 992083
+2026-03-14T10:14:03.935Z WARN  [checkout-svc] Slow query on orders table took 866ms
+2026-03-14T10:14:07.000Z WARN  [payments-svc] Connection pool nearing capacity (active=45/50) - connections not returned after refund lookup
+2026-03-14T10:14:07.680Z INFO  [payments-svc] Charge authorised for order 948095 in 138ms
+2026-03-14T10:14:11.584Z INFO  [payments-svc] Charge authorised for order 209167 in 179ms
+2026-03-14T10:14:16.616Z INFO  [api-gateway] POST /v1/checkout 200 99ms client=10.15.177.252
+2026-03-14T10:14:20.924Z INFO  [api-gateway] POST /v1/checkout 200 102ms client=10.40.171.115
+2026-03-14T10:14:22.000Z WARN  [payments-svc] Connection pool nearing capacity (active=46/50) - connections not returned after refund lookup
+2026-03-14T10:14:23.970Z INFO  [api-gateway] POST /v1/checkout 200 143ms client=10.4.179.66
+2026-03-14T10:14:30.193Z INFO  [api-gateway] POST /v1/checkout 200 80ms client=10.3.197.113
+2026-03-14T10:14:36.193Z INFO  [checkout-svc] Order 274418 created, total=EUR 235.52
+2026-03-14T10:14:37.000Z WARN  [payments-svc] Connection pool nearing capacity (active=47/50) - connections not returned after refund lookup
+2026-03-14T10:14:41.212Z WARN  [inventory-svc] Cache miss for sku-6754, falling back to DB
+2026-03-14T10:14:46.448Z INFO  [checkout-svc] Order 969067 created, total=EUR 131.73
+2026-03-14T10:14:52.000Z WARN  [payments-svc] Connection pool nearing capacity (active=48/50) - connections not returned after refund lookup
+2026-03-14T10:14:52.114Z INFO  [inventory-svc] Reserved 2 item(s) for order 270557
+2026-03-14T10:14:56.962Z INFO  [api-gateway] POST /v1/checkout 200 88ms client=10.18.10.82
+2026-03-14T10:15:01.031Z WARN  [checkout-svc] Slow query on orders table took 951ms
+2026-03-14T10:15:05.431Z INFO  [api-gateway] POST /v1/checkout 200 176ms client=10.10.38.141
+2026-03-14T10:15:07.000Z WARN  [payments-svc] Connection pool nearing capacity (active=49/50) - connections not returned after refund lookup
+2026-03-14T10:15:12.288Z WARN  [inventory-svc] Cache miss for sku-2525, falling back to DB
+2026-03-14T10:15:12.931Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=29)
+2026-03-14T10:15:13.129Z WARN  [checkout-svc] Retrying payment for order 529161 (attempt 3/3)
+2026-03-14T10:15:14.054Z WARN  [checkout-svc] Retrying payment for order 273012 (attempt 3/3)
+2026-03-14T10:15:14.721Z WARN  [checkout-svc] Retrying payment for order 606186 (attempt 2/3)
+2026-03-14T10:15:17.993Z INFO  [api-gateway] POST /v1/checkout 200 140ms client=10.6.25.101
+2026-03-14T10:15:18.466Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=33)
+2026-03-14T10:15:18.622Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=8)
+2026-03-14T10:15:18.692Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 185916 after 3021ms
+2026-03-14T10:15:18.810Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=21)
+2026-03-14T10:15:19.744Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=38)
+2026-03-14T10:15:22.921Z INFO  [checkout-svc] Order 793150 created, total=EUR 76.11
+2026-03-14T10:15:23.317Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=30)
+2026-03-14T10:15:23.678Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=32)
+2026-03-14T10:15:23.999Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 376195 after 2957ms
+2026-03-14T10:15:24.021Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 258471 after 3092ms
+2026-03-14T10:15:24.434Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=10)
+2026-03-14T10:15:29.231Z INFO  [payments-svc] Charge authorised for order 893202 in 135ms
+2026-03-14T10:15:31.175Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 347088 after 3021ms
+2026-03-14T10:15:31.371Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 661527 after 3075ms
+2026-03-14T10:15:31.498Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=32)
+2026-03-14T10:15:33.455Z INFO  [api-gateway] POST /v1/checkout 200 88ms client=10.32.75.31
+2026-03-14T10:15:33.775Z WARN  [checkout-svc] Retrying payment for order 556542 (attempt 2/3)
+2026-03-14T10:15:34.060Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5033ms client=10.20.34.23
+2026-03-14T10:15:34.163Z WARN  [checkout-svc] Retrying payment for order 275284 (attempt 2/3)
+2026-03-14T10:15:34.244Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=35)
+2026-03-14T10:15:35.044Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 678870 after 2983ms
+2026-03-14T10:15:39.963Z INFO  [api-gateway] POST /v1/checkout 200 197ms client=10.0.214.29
+2026-03-14T10:15:40.395Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 205896 after 2973ms
+2026-03-14T10:15:40.575Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=14)
+2026-03-14T10:15:40.668Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:15:41.951Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 596025 after 2909ms
+2026-03-14T10:15:42.156Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5052ms client=10.16.196.168
+2026-03-14T10:15:45.495Z INFO  [payments-svc] Charge authorised for order 827356 in 111ms
+2026-03-14T10:15:47.116Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5042ms client=10.15.25.191
+2026-03-14T10:15:47.441Z WARN  [checkout-svc] Retrying payment for order 490532 (attempt 2/3)
+2026-03-14T10:15:49.878Z DEBUG [auth-svc] Token validated for user 40722
+2026-03-14T10:15:50.743Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5052ms client=10.31.191.211
+2026-03-14T10:15:50.981Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5077ms client=10.5.96.114
+2026-03-14T10:15:51.026Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5089ms client=10.6.116.35
+2026-03-14T10:15:51.108Z WARN  [checkout-svc] Retrying payment for order 564635 (attempt 3/3)
+2026-03-14T10:15:53.108Z INFO  [payments-svc] Charge authorised for order 266694 in 68ms
+2026-03-14T10:15:53.930Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5031ms client=10.2.233.13
+2026-03-14T10:15:54.584Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5035ms client=10.23.237.130
+2026-03-14T10:15:55.183Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 918430 after 3034ms
+2026-03-14T10:15:55.437Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=20)
+2026-03-14T10:15:57.733Z INFO  [payments-svc] Charge authorised for order 229890 in 147ms
+2026-03-14T10:15:58.460Z WARN  [checkout-svc] Retrying payment for order 597635 (attempt 3/3)
+2026-03-14T10:15:58.723Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:16:02.143Z INFO  [api-gateway] POST /v1/checkout 200 146ms client=10.5.145.8
+2026-03-14T10:16:02.179Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 238741 after 3065ms
+2026-03-14T10:16:02.346Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=21)
+2026-03-14T10:16:02.852Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 108874 after 2957ms
+2026-03-14T10:16:03.049Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 810614 after 2952ms
+2026-03-14T10:16:03.245Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 638214 after 2905ms
+2026-03-14T10:16:06.176Z INFO  [payments-svc] Charge authorised for order 420297 in 151ms
+2026-03-14T10:16:07.708Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 722615 after 3055ms
+2026-03-14T10:16:07.911Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5044ms client=10.29.129.56
+2026-03-14T10:16:08.087Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=33)
+2026-03-14T10:16:08.570Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=40)
+2026-03-14T10:16:10.333Z INFO  [api-gateway] POST /v1/checkout 200 107ms client=10.30.32.87
+2026-03-14T10:16:11.642Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 856320 after 2906ms
+2026-03-14T10:16:11.664Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5033ms client=10.19.96.39
+2026-03-14T10:16:12.370Z WARN  [checkout-svc] Retrying payment for order 372028 (attempt 3/3)
+2026-03-14T10:16:12.451Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5007ms client=10.38.206.170
+2026-03-14T10:16:14.990Z INFO  [checkout-svc] Order 137034 created, total=EUR 158.90
+2026-03-14T10:16:16.395Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5028ms client=10.34.243.233
+2026-03-14T10:16:16.458Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 986486 after 2943ms
+2026-03-14T10:16:17.276Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=14)
+2026-03-14T10:16:19.918Z INFO  [api-gateway] POST /v1/checkout 200 146ms client=10.35.93.243
+2026-03-14T10:16:20.283Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=22)
+2026-03-14T10:16:20.985Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 586288 after 2930ms
+2026-03-14T10:16:21.175Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 447411 after 2995ms
+2026-03-14T10:16:21.845Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:16:24.852Z WARN  [inventory-svc] Cache miss for sku-9199, falling back to DB
+2026-03-14T10:16:25.469Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=20)
+2026-03-14T10:16:26.415Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 533174 after 2913ms
+2026-03-14T10:16:29.255Z INFO  [checkout-svc] Order 697062 created, total=EUR 237.58
+2026-03-14T10:16:29.274Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 319553 after 3094ms
+2026-03-14T10:16:29.979Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:16:30.550Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5023ms client=10.5.249.86
+2026-03-14T10:16:35.423Z INFO  [api-gateway] POST /v1/checkout 200 120ms client=10.31.45.34
+2026-03-14T10:16:35.442Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=20)
+2026-03-14T10:16:35.496Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 757128 after 3087ms
+2026-03-14T10:16:36.442Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=30)
+2026-03-14T10:16:36.951Z WARN  [checkout-svc] Retrying payment for order 437864 (attempt 2/3)
+2026-03-14T10:16:37.181Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 600590 after 2998ms
+2026-03-14T10:16:39.701Z INFO  [api-gateway] POST /v1/checkout 200 178ms client=10.32.156.43
+2026-03-14T10:16:39.888Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=26)
+2026-03-14T10:16:41.568Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5076ms client=10.33.172.112
+2026-03-14T10:16:46.338Z INFO  [inventory-svc] Reserved 2 item(s) for order 459381
+2026-03-14T10:16:46.491Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=24)
+2026-03-14T10:16:47.256Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5016ms client=10.13.11.151
+2026-03-14T10:16:47.809Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5021ms client=10.25.9.59
+2026-03-14T10:16:48.404Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=31)
+2026-03-14T10:16:48.528Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 722774 after 2912ms
+2026-03-14T10:16:52.049Z INFO  [api-gateway] POST /v1/checkout 200 85ms client=10.3.59.107
+2026-03-14T10:16:53.154Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 834764 after 2935ms
+2026-03-14T10:16:53.606Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=24)
+2026-03-14T10:16:53.764Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5013ms client=10.32.60.73
+2026-03-14T10:16:53.772Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 794663 after 3033ms
+2026-03-14T10:16:53.992Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5026ms client=10.40.4.78
+2026-03-14T10:16:55.515Z DEBUG [auth-svc] Token validated for user 66239
+2026-03-14T10:16:56.724Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=39)
+2026-03-14T10:16:57.657Z WARN  [checkout-svc] Retrying payment for order 475308 (attempt 3/3)
+2026-03-14T10:16:58.009Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=24)
+2026-03-14T10:17:02.243Z INFO  [api-gateway] POST /v1/checkout 200 203ms client=10.21.120.1
+2026-03-14T10:17:02.607Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5073ms client=10.31.76.244
+2026-03-14T10:17:02.611Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5009ms client=10.6.131.165
+2026-03-14T10:17:06.189Z INFO  [checkout-svc] Order 410401 created, total=EUR 76.59
+2026-03-14T10:17:06.597Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5005ms client=10.18.184.206
+2026-03-14T10:17:07.469Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 221531 after 2924ms
+2026-03-14T10:17:12.675Z INFO  [inventory-svc] Reserved 1 item(s) for order 110142
+2026-03-14T10:17:13.141Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 578715 after 2969ms
+2026-03-14T10:17:13.373Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:17:13.773Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5011ms client=10.23.175.47
+2026-03-14T10:17:19.098Z INFO  [checkout-svc] Order 991993 created, total=EUR 131.53
+2026-03-14T10:17:19.561Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:17:19.750Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=38)
+2026-03-14T10:17:21.428Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 290065 after 3056ms
+2026-03-14T10:17:23.653Z INFO  [inventory-svc] Reserved 1 item(s) for order 817712
+2026-03-14T10:17:24.940Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=22)
+2026-03-14T10:17:25.458Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=24)
+2026-03-14T10:17:25.631Z WARN  [checkout-svc] Retrying payment for order 218423 (attempt 3/3)
+2026-03-14T10:17:30.567Z INFO  [inventory-svc] Reserved 3 item(s) for order 644315
+2026-03-14T10:17:31.983Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 772561 after 2998ms
+2026-03-14T10:17:32.339Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 360651 after 3023ms
+2026-03-14T10:17:34.175Z DEBUG [auth-svc] Token validated for user 74183
+2026-03-14T10:17:34.222Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 264550 after 3029ms
+2026-03-14T10:17:36.097Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5021ms client=10.4.251.83
+2026-03-14T10:17:38.161Z INFO  [checkout-svc] Order 391668 created, total=EUR 21.64
+2026-03-14T10:17:38.483Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 940183 after 3046ms
+2026-03-14T10:17:39.996Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=39)
+2026-03-14T10:17:40.415Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 522866 after 2960ms
+2026-03-14T10:17:42.992Z INFO  [checkout-svc] Order 621533 created, total=EUR 199.83
+2026-03-14T10:17:43.412Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 137572 after 3042ms
+2026-03-14T10:17:45.241Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=13)
+2026-03-14T10:17:49.235Z INFO  [payments-svc] Charge authorised for order 749137 in 141ms
+2026-03-14T10:17:50.148Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5042ms client=10.35.242.184
+2026-03-14T10:17:50.723Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5014ms client=10.6.113.1
+2026-03-14T10:17:51.103Z WARN  [checkout-svc] Retrying payment for order 480992 (attempt 2/3)
+2026-03-14T10:17:51.317Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 786393 after 3071ms
+2026-03-14T10:17:53.633Z INFO  [checkout-svc] Order 764441 created, total=EUR 213.37
+2026-03-14T10:17:54.068Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=18)
+2026-03-14T10:17:54.071Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=20)
+2026-03-14T10:17:54.401Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=33)
+2026-03-14T10:17:55.649Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=34)
+2026-03-14T10:17:57.516Z INFO  [checkout-svc] Order 919378 created, total=EUR 57.91
+2026-03-14T10:17:57.957Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5005ms client=10.40.63.198
+2026-03-14T10:17:58.067Z WARN  [checkout-svc] Retrying payment for order 104548 (attempt 2/3)
+2026-03-14T10:17:59.361Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 717942 after 3029ms
+2026-03-14T10:17:59.782Z WARN  [checkout-svc] Retrying payment for order 979562 (attempt 3/3)
+2026-03-14T10:18:04.302Z INFO  [payments-svc] Charge authorised for order 285810 in 148ms
+2026-03-14T10:18:04.827Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=28)
+2026-03-14T10:18:05.931Z WARN  [checkout-svc] Retrying payment for order 408463 (attempt 3/3)
+2026-03-14T10:18:06.366Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5053ms client=10.38.127.71
+2026-03-14T10:18:10.598Z INFO  [api-gateway] POST /v1/checkout 200 185ms client=10.38.153.216
+2026-03-14T10:18:11.326Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 828038 after 3063ms
+2026-03-14T10:18:11.788Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 805034 after 2933ms
+2026-03-14T10:18:11.918Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5097ms client=10.22.245.150
+2026-03-14T10:18:12.865Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 310647 after 2953ms
+2026-03-14T10:18:15.935Z WARN  [inventory-svc] Cache miss for sku-7839, falling back to DB
+2026-03-14T10:18:16.530Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:18:16.753Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=18)
+2026-03-14T10:18:17.108Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 253541 after 2915ms
+2026-03-14T10:18:17.665Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5066ms client=10.6.12.98
+2026-03-14T10:18:21.763Z DEBUG [auth-svc] Token validated for user 27738
+2026-03-14T10:18:23.232Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5013ms client=10.39.114.191
+2026-03-14T10:18:24.061Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=40)
+2026-03-14T10:18:27.975Z DEBUG [auth-svc] Token validated for user 92242
+2026-03-14T10:18:28.167Z WARN  [checkout-svc] Retrying payment for order 506380 (attempt 3/3)
+2026-03-14T10:18:28.898Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5090ms client=10.23.100.199
+2026-03-14T10:18:29.004Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:18:29.255Z WARN  [checkout-svc] Retrying payment for order 156415 (attempt 2/3)
+2026-03-14T10:18:33.944Z WARN  [checkout-svc] Slow query on orders table took 1402ms
+2026-03-14T10:18:34.578Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=28)
+2026-03-14T10:18:34.655Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5015ms client=10.24.20.110
+2026-03-14T10:18:34.670Z WARN  [checkout-svc] Retrying payment for order 178086 (attempt 2/3)
+2026-03-14T10:18:35.087Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 236384 after 2941ms
+2026-03-14T10:18:36.336Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5000ms client=10.21.238.182
+2026-03-14T10:18:39.388Z INFO  [api-gateway] POST /v1/checkout 200 240ms client=10.39.154.126
+2026-03-14T10:18:39.686Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5040ms client=10.33.112.245
+2026-03-14T10:18:39.764Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=21)
+2026-03-14T10:18:40.040Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 663123 after 3003ms
+2026-03-14T10:18:40.141Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 924451 after 3029ms
+2026-03-14T10:18:45.105Z INFO  [checkout-svc] Order 478323 created, total=EUR 84.27
+2026-03-14T10:18:46.103Z WARN  [checkout-svc] Retrying payment for order 815706 (attempt 3/3)
+2026-03-14T10:18:46.263Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=31)
+2026-03-14T10:18:46.522Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 773462 after 3057ms
+2026-03-14T10:18:46.667Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5014ms client=10.24.131.139
+2026-03-14T10:18:47.404Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5083ms client=10.0.58.172
+2026-03-14T10:18:50.211Z DEBUG [auth-svc] Token validated for user 59400
+2026-03-14T10:18:50.390Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=20)
+2026-03-14T10:18:51.074Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 911159 after 2954ms
+2026-03-14T10:18:51.523Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 200617 after 2942ms
+2026-03-14T10:18:51.948Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5026ms client=10.34.222.166
+2026-03-14T10:18:52.414Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 757386 after 2916ms
+2026-03-14T10:18:56.556Z WARN  [inventory-svc] Cache miss for sku-3519, falling back to DB
+2026-03-14T10:18:57.285Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5071ms client=10.4.116.234
+2026-03-14T10:18:58.436Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5004ms client=10.5.37.14
+2026-03-14T10:19:00.615Z INFO  [checkout-svc] Order 573039 created, total=EUR 170.51
+2026-03-14T10:19:01.849Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 395192 after 3095ms
+2026-03-14T10:19:01.910Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=15)
+2026-03-14T10:19:02.080Z WARN  [checkout-svc] Retrying payment for order 211291 (attempt 3/3)
+2026-03-14T10:19:02.805Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:19:03.013Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:19:07.410Z INFO  [checkout-svc] Order 514306 created, total=EUR 219.84
+2026-03-14T10:19:07.968Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5069ms client=10.18.73.77
+2026-03-14T10:19:09.351Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=22)
+2026-03-14T10:19:13.184Z WARN  [inventory-svc] Cache miss for sku-7113, falling back to DB
+2026-03-14T10:19:15.451Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5018ms client=10.7.21.2
+2026-03-14T10:19:15.529Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 663244 after 3040ms
+2026-03-14T10:19:20.062Z INFO  [api-gateway] POST /v1/checkout 200 133ms client=10.22.108.106
+2026-03-14T10:19:20.721Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=24)
+2026-03-14T10:19:20.857Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:19:22.310Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 676365 after 2918ms
+2026-03-14T10:19:24.252Z INFO  [inventory-svc] Reserved 3 item(s) for order 202972
+2026-03-14T10:19:24.777Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 345925 after 2925ms
+2026-03-14T10:19:25.419Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 302897 after 2981ms
+2026-03-14T10:19:26.630Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 446922 after 2991ms
+2026-03-14T10:19:29.242Z INFO  [checkout-svc] Order 746281 created, total=EUR 177.39
+2026-03-14T10:19:30.250Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5091ms client=10.27.141.216
+2026-03-14T10:19:30.996Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=28)
+2026-03-14T10:19:31.558Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 946934 after 2980ms
+2026-03-14T10:19:33.714Z INFO  [api-gateway] POST /v1/checkout 200 164ms client=10.30.236.115
+2026-03-14T10:19:34.022Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5064ms client=10.40.15.209
+2026-03-14T10:19:34.287Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5025ms client=10.16.39.187
+2026-03-14T10:19:34.965Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 214119 after 2944ms
+2026-03-14T10:19:36.198Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:19:39.097Z INFO  [payments-svc] Charge authorised for order 906564 in 135ms
+2026-03-14T10:19:39.247Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 669868 after 3038ms
+2026-03-14T10:19:40.704Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=26)
+2026-03-14T10:19:41.030Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 255852 after 2993ms
+2026-03-14T10:19:42.645Z INFO  [checkout-svc] Order 635205 created, total=EUR 32.50
+2026-03-14T10:19:43.324Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5017ms client=10.28.81.46
+2026-03-14T10:19:44.625Z WARN  [checkout-svc] Retrying payment for order 142383 (attempt 2/3)
+2026-03-14T10:19:44.701Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=23)
+2026-03-14T10:19:44.964Z WARN  [checkout-svc] Retrying payment for order 791444 (attempt 2/3)
+2026-03-14T10:19:48.763Z INFO  [checkout-svc] Order 165914 created, total=EUR 76.47
+2026-03-14T10:19:48.926Z WARN  [checkout-svc] Retrying payment for order 439813 (attempt 2/3)
+2026-03-14T10:19:48.938Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 643042 after 2992ms
+2026-03-14T10:19:50.352Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 576728 after 2911ms
+2026-03-14T10:19:54.645Z WARN  [checkout-svc] Slow query on orders table took 1360ms
+2026-03-14T10:19:56.195Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:19:56.760Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 956934 after 2988ms
+2026-03-14T10:19:56.761Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=22)
+2026-03-14T10:19:57.015Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 282294 after 2996ms
+2026-03-14T10:19:59.639Z DEBUG [auth-svc] Token validated for user 80195
+2026-03-14T10:20:01.694Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5056ms client=10.10.117.20
+2026-03-14T10:20:01.746Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 321791 after 2938ms
+2026-03-14T10:20:03.404Z INFO  [api-gateway] POST /v1/checkout 200 234ms client=10.7.117.107
+2026-03-14T10:20:03.495Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:20:03.868Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 602073 after 3022ms
+2026-03-14T10:20:04.267Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 778700 after 3005ms
+2026-03-14T10:20:05.753Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 241268 after 3061ms
+2026-03-14T10:20:08.503Z INFO  [api-gateway] POST /v1/checkout 200 226ms client=10.9.28.43
+2026-03-14T10:20:09.240Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 525151 after 3053ms
+2026-03-14T10:20:09.664Z WARN  [checkout-svc] Retrying payment for order 327114 (attempt 3/3)
+2026-03-14T10:20:10.811Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 854500 after 3086ms
+2026-03-14T10:20:10.987Z WARN  [checkout-svc] Retrying payment for order 605065 (attempt 2/3)
+2026-03-14T10:20:12.401Z DEBUG [auth-svc] Token validated for user 79753
+2026-03-14T10:20:13.342Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:20:13.804Z WARN  [checkout-svc] Retrying payment for order 725510 (attempt 2/3)
+2026-03-14T10:20:14.787Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5023ms client=10.39.135.43
+2026-03-14T10:20:15.845Z INFO  [api-gateway] POST /v1/checkout 200 213ms client=10.32.214.212
+2026-03-14T10:20:16.326Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:20:18.301Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=40)
+2026-03-14T10:20:18.325Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=38)
+2026-03-14T10:20:22.539Z INFO  [payments-svc] Charge authorised for order 967719 in 60ms
+2026-03-14T10:20:23.491Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5010ms client=10.18.209.66
+2026-03-14T10:20:24.100Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=14)
+2026-03-14T10:20:24.281Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=38)
+2026-03-14T10:20:24.677Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 145548 after 3078ms
+2026-03-14T10:20:24.709Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 941272 after 3023ms
+2026-03-14T10:20:26.313Z INFO  [api-gateway] POST /v1/checkout 200 81ms client=10.36.60.134
+2026-03-14T10:20:27.849Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 821175 after 2980ms
+2026-03-14T10:20:27.987Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:20:31.058Z INFO  [inventory-svc] Reserved 3 item(s) for order 373995
+2026-03-14T10:20:32.314Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 911801 after 3080ms
+2026-03-14T10:20:32.574Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 607259 after 2964ms
+2026-03-14T10:20:32.685Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5052ms client=10.35.247.46
+2026-03-14T10:20:32.688Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5084ms client=10.7.117.115
+2026-03-14T10:20:33.370Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:20:37.265Z INFO  [inventory-svc] Reserved 2 item(s) for order 205149
+2026-03-14T10:20:37.478Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=8)
+2026-03-14T10:20:37.638Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5060ms client=10.38.222.23
+2026-03-14T10:20:39.347Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 454877 after 3040ms
+2026-03-14T10:20:40.527Z INFO  [api-gateway] POST /v1/checkout 200 174ms client=10.5.19.186
+2026-03-14T10:20:42.168Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 646313 after 2973ms
+2026-03-14T10:20:42.551Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 311505 after 3068ms
+2026-03-14T10:20:42.649Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=10)
+2026-03-14T10:20:42.974Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:20:42.982Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 832377 after 2959ms
+2026-03-14T10:20:46.046Z INFO  [api-gateway] POST /v1/checkout 200 89ms client=10.23.122.168
+2026-03-14T10:20:46.690Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:20:47.682Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=33)
+2026-03-14T10:20:50.706Z INFO  [payments-svc] Charge authorised for order 642892 in 61ms
+2026-03-14T10:20:51.075Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 861411 after 3043ms
+2026-03-14T10:20:53.093Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:20:54.632Z INFO  [payments-svc] Charge authorised for order 303974 in 118ms
+2026-03-14T10:20:56.299Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 685766 after 2918ms
+2026-03-14T10:20:56.445Z WARN  [checkout-svc] Retrying payment for order 690525 (attempt 3/3)
+2026-03-14T10:20:56.692Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=15)
+2026-03-14T10:20:56.734Z WARN  [checkout-svc] Retrying payment for order 664032 (attempt 3/3)
+2026-03-14T10:20:56.986Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:21:00.785Z INFO  [api-gateway] POST /v1/checkout 200 166ms client=10.29.235.230
+2026-03-14T10:21:02.352Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 331087 after 3073ms
+2026-03-14T10:21:02.759Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:21:06.657Z INFO  [api-gateway] POST /v1/checkout 200 160ms client=10.26.180.133
+2026-03-14T10:21:07.735Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=13)
+2026-03-14T10:21:08.291Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 960959 after 2987ms
+2026-03-14T10:21:09.968Z INFO  [payments-svc] Charge authorised for order 287155 in 120ms
+2026-03-14T10:21:10.716Z WARN  [checkout-svc] Retrying payment for order 816289 (attempt 2/3)
+2026-03-14T10:21:10.906Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=23)
+2026-03-14T10:21:11.416Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:21:12.011Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5030ms client=10.15.135.53
+2026-03-14T10:21:16.393Z INFO  [payments-svc] Charge authorised for order 263573 in 159ms
+2026-03-14T10:21:16.420Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5069ms client=10.2.246.96
+2026-03-14T10:21:16.884Z WARN  [checkout-svc] Retrying payment for order 808640 (attempt 3/3)
+2026-03-14T10:21:21.935Z INFO  [checkout-svc] Order 702427 created, total=EUR 231.35
+2026-03-14T10:21:22.156Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 543732 after 3022ms
+2026-03-14T10:21:22.684Z WARN  [checkout-svc] Retrying payment for order 635962 (attempt 3/3)
+2026-03-14T10:21:23.547Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5099ms client=10.11.234.250
+2026-03-14T10:21:23.564Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:21:24.149Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=30)
+2026-03-14T10:21:25.428Z INFO  [inventory-svc] Reserved 4 item(s) for order 430984
+2026-03-14T10:21:25.476Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 497859 after 3048ms
+2026-03-14T10:21:25.840Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=24)
+2026-03-14T10:21:29.194Z INFO  [payments-svc] Charge authorised for order 348658 in 94ms
+2026-03-14T10:21:29.603Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5030ms client=10.35.221.220
+2026-03-14T10:21:29.731Z WARN  [checkout-svc] Retrying payment for order 819335 (attempt 2/3)
+2026-03-14T10:21:30.599Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=39)
+2026-03-14T10:21:30.689Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5035ms client=10.28.92.147
+2026-03-14T10:21:30.930Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=31)
+2026-03-14T10:21:33.754Z INFO  [api-gateway] POST /v1/checkout 200 118ms client=10.30.4.46
+2026-03-14T10:21:33.999Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=24)
+2026-03-14T10:21:35.385Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=18)
+2026-03-14T10:21:35.705Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5012ms client=10.28.171.67
+2026-03-14T10:21:35.747Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:21:35.800Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=28)
+2026-03-14T10:21:38.232Z INFO  [checkout-svc] Order 684572 created, total=EUR 216.32
+2026-03-14T10:21:38.313Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 468145 after 3073ms
+2026-03-14T10:21:39.397Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=40)
+2026-03-14T10:21:40.228Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5057ms client=10.5.195.158
+2026-03-14T10:21:40.712Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:21:42.405Z INFO  [checkout-svc] Order 251884 created, total=EUR 231.21
+2026-03-14T10:21:42.697Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=29)
+2026-03-14T10:21:43.339Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=26)
+2026-03-14T10:21:43.500Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 514664 after 2969ms
+2026-03-14T10:21:44.132Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 699405 after 3003ms
+2026-03-14T10:21:49.040Z INFO  [checkout-svc] Order 480805 created, total=EUR 200.75
+2026-03-14T10:21:49.147Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5067ms client=10.5.53.68
+2026-03-14T10:21:49.301Z WARN  [checkout-svc] Retrying payment for order 596171 (attempt 2/3)
+2026-03-14T10:21:49.552Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5084ms client=10.16.40.54
+2026-03-14T10:21:49.723Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=14)
+2026-03-14T10:21:50.735Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=9)
+2026-03-14T10:21:54.571Z INFO  [api-gateway] POST /v1/checkout 200 179ms client=10.19.117.64
+2026-03-14T10:21:55.269Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=30)
+2026-03-14T10:21:55.903Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5059ms client=10.34.139.141
+2026-03-14T10:21:56.386Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 237654 after 3034ms
+2026-03-14T10:21:56.393Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:21:59.991Z INFO  [payments-svc] Charge authorised for order 761701 in 155ms
+2026-03-14T10:21:59.991Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 895128 after 2934ms
+2026-03-14T10:22:01.055Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=8)
+2026-03-14T10:22:01.413Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 338161 after 2922ms
+2026-03-14T10:22:01.800Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=34)
+2026-03-14T10:22:02.135Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 659713 after 2979ms
+2026-03-14T10:22:04.399Z INFO  [api-gateway] POST /v1/checkout 200 216ms client=10.0.251.243
+2026-03-14T10:22:05.598Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 935471 after 2901ms
+2026-03-14T10:22:05.626Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=35)
+2026-03-14T10:22:05.995Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5028ms client=10.16.40.109
+2026-03-14T10:22:06.644Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=34)
+2026-03-14T10:22:06.695Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 362035 after 2941ms
+2026-03-14T10:22:09.960Z INFO  [api-gateway] POST /v1/checkout 200 236ms client=10.17.145.167
+2026-03-14T10:22:10.707Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=15)
+2026-03-14T10:22:11.651Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:22:11.825Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 385353 after 3079ms
+2026-03-14T10:22:11.975Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=9)
+2026-03-14T10:22:13.583Z INFO  [api-gateway] POST /v1/checkout 200 216ms client=10.1.95.249
+2026-03-14T10:22:13.616Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:22:14.738Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:22:16.643Z INFO  [checkout-svc] Order 458521 created, total=EUR 116.39
+2026-03-14T10:22:16.872Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=33)
+2026-03-14T10:22:16.935Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 290425 after 2949ms
+2026-03-14T10:22:17.667Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5001ms client=10.7.127.99
+2026-03-14T10:22:17.995Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:22:18.164Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 929868 after 2908ms
+2026-03-14T10:22:22.801Z WARN  [checkout-svc] Slow query on orders table took 1306ms
+2026-03-14T10:22:23.616Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 908447 after 2924ms
+2026-03-14T10:22:24.935Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 318572 after 3021ms
+2026-03-14T10:22:27.394Z INFO  [inventory-svc] Reserved 3 item(s) for order 438756
+2026-03-14T10:22:27.566Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5070ms client=10.33.62.65
+2026-03-14T10:22:27.607Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5027ms client=10.7.120.163
+2026-03-14T10:22:29.365Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 308376 after 2992ms
+2026-03-14T10:22:32.172Z INFO  [checkout-svc] Order 275490 created, total=EUR 212.35
+2026-03-14T10:22:33.793Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5001ms client=10.2.243.177
+2026-03-14T10:22:34.614Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=13)
+2026-03-14T10:22:36.190Z INFO  [api-gateway] POST /v1/checkout 200 103ms client=10.39.173.239
+2026-03-14T10:22:36.434Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:22:38.386Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5016ms client=10.31.119.82
+2026-03-14T10:22:41.477Z DEBUG [auth-svc] Token validated for user 46523
+2026-03-14T10:22:42.267Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=32)
+2026-03-14T10:22:42.944Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5032ms client=10.2.248.181
+2026-03-14T10:22:43.269Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 669097 after 3078ms
+2026-03-14T10:22:43.484Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:22:43.703Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=37)
+2026-03-14T10:22:45.604Z DEBUG [auth-svc] Token validated for user 79470
+2026-03-14T10:22:45.886Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 571213 after 2975ms
+2026-03-14T10:22:46.682Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 576136 after 2900ms
+2026-03-14T10:22:47.676Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:22:52.220Z INFO  [api-gateway] POST /v1/checkout 200 173ms client=10.39.122.83
+2026-03-14T10:22:54.427Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5024ms client=10.33.254.197
+2026-03-14T10:22:54.478Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=26)
+2026-03-14T10:22:56.541Z INFO  [checkout-svc] Order 437666 created, total=EUR 37.12
+2026-03-14T10:22:56.720Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5016ms client=10.11.16.52
+2026-03-14T10:22:56.979Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 203550 after 2908ms
+2026-03-14T10:23:01.879Z INFO  [payments-svc] Charge authorised for order 507475 in 144ms
+2026-03-14T10:23:01.932Z WARN  [checkout-svc] Retrying payment for order 318877 (attempt 3/3)
+2026-03-14T10:23:02.080Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:23:02.206Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 769952 after 2915ms
+2026-03-14T10:23:03.357Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 536158 after 2994ms
+2026-03-14T10:23:04.032Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 718975 after 2965ms
+2026-03-14T10:23:08.132Z INFO  [inventory-svc] Reserved 3 item(s) for order 654718
+2026-03-14T10:23:08.420Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5009ms client=10.13.49.26
+2026-03-14T10:23:09.078Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 298663 after 2949ms
+2026-03-14T10:23:13.287Z INFO  [inventory-svc] Reserved 2 item(s) for order 685549
+2026-03-14T10:23:13.719Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5073ms client=10.22.234.180
+2026-03-14T10:23:14.669Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 659835 after 3053ms
+2026-03-14T10:23:14.809Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 764001 after 3010ms
+2026-03-14T10:23:15.036Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5021ms client=10.11.205.130
+2026-03-14T10:23:15.101Z WARN  [checkout-svc] Retrying payment for order 430463 (attempt 3/3)
+2026-03-14T10:23:19.670Z INFO  [inventory-svc] Reserved 2 item(s) for order 690500
+2026-03-14T10:23:19.811Z WARN  [checkout-svc] Retrying payment for order 724702 (attempt 2/3)
+2026-03-14T10:23:21.206Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5095ms client=10.16.184.247
+2026-03-14T10:23:21.523Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 516379 after 2900ms
+2026-03-14T10:23:24.790Z INFO  [api-gateway] POST /v1/checkout 200 157ms client=10.0.153.253
+2026-03-14T10:23:24.944Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 263690 after 2935ms
+2026-03-14T10:23:25.669Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5002ms client=10.17.79.25
+2026-03-14T10:23:25.875Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=23)
+2026-03-14T10:23:28.744Z INFO  [api-gateway] POST /v1/checkout 200 156ms client=10.5.204.146
+2026-03-14T10:23:29.060Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5061ms client=10.11.249.212
+2026-03-14T10:23:31.104Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5012ms client=10.38.153.10
+2026-03-14T10:23:31.104Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:23:35.519Z INFO  [inventory-svc] Reserved 3 item(s) for order 956835
+2026-03-14T10:23:35.740Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=10)
+2026-03-14T10:23:36.826Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 256846 after 2983ms
+2026-03-14T10:23:37.225Z WARN  [checkout-svc] Retrying payment for order 226395 (attempt 2/3)
+2026-03-14T10:23:37.576Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 260639 after 2912ms
+2026-03-14T10:23:37.986Z WARN  [checkout-svc] Retrying payment for order 764678 (attempt 3/3)
+2026-03-14T10:23:41.278Z INFO  [inventory-svc] Reserved 4 item(s) for order 567262
+2026-03-14T10:23:41.884Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=13)
+2026-03-14T10:23:42.187Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 924566 after 3000ms
+2026-03-14T10:23:46.227Z INFO  [payments-svc] Charge authorised for order 151706 in 130ms
+2026-03-14T10:23:47.030Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 871403 after 3034ms
+2026-03-14T10:23:47.038Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 783932 after 3046ms
+2026-03-14T10:23:47.235Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:23:47.302Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=40)
+2026-03-14T10:23:48.006Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5016ms client=10.8.246.144
+2026-03-14T10:23:52.408Z INFO  [checkout-svc] Order 817999 created, total=EUR 156.11
+2026-03-14T10:23:53.721Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=9)
+2026-03-14T10:23:54.102Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 465227 after 2948ms
+2026-03-14T10:23:58.560Z INFO  [checkout-svc] Order 466704 created, total=EUR 166.56
+2026-03-14T10:23:58.911Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:23:59.377Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 263568 after 3093ms
+2026-03-14T10:24:00.364Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=22)
+2026-03-14T10:24:02.555Z WARN  [inventory-svc] Cache miss for sku-3419, falling back to DB
+2026-03-14T10:24:02.611Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=15)
+2026-03-14T10:24:03.411Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5027ms client=10.13.132.141
+2026-03-14T10:24:03.804Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 123853 after 2984ms
+2026-03-14T10:24:04.533Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 248213 after 3077ms
+2026-03-14T10:24:08.417Z INFO  [inventory-svc] Reserved 4 item(s) for order 711324
+2026-03-14T10:24:09.239Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5079ms client=10.17.27.120
+2026-03-14T10:24:09.463Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=26)
+2026-03-14T10:24:14.098Z WARN  [inventory-svc] Cache miss for sku-2091, falling back to DB
+2026-03-14T10:24:14.458Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=40)
+2026-03-14T10:24:14.539Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=32)
+2026-03-14T10:24:15.044Z WARN  [checkout-svc] Retrying payment for order 633243 (attempt 2/3)
+2026-03-14T10:24:15.209Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 792165 after 2992ms
+2026-03-14T10:24:15.390Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 726111 after 3036ms
+2026-03-14T10:24:21.057Z INFO  [checkout-svc] Order 847078 created, total=EUR 14.05
+2026-03-14T10:24:22.295Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=40)
+2026-03-14T10:24:22.668Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5002ms client=10.22.180.91
+2026-03-14T10:24:23.225Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=39)
+2026-03-14T10:24:25.186Z DEBUG [auth-svc] Token validated for user 83023
+2026-03-14T10:24:25.748Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=32)
+2026-03-14T10:24:25.807Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=33)
+2026-03-14T10:24:26.771Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5003ms client=10.35.143.58
+2026-03-14T10:24:27.318Z WARN  [checkout-svc] Retrying payment for order 742198 (attempt 2/3)
+2026-03-14T10:24:29.895Z INFO  [api-gateway] POST /v1/checkout 200 119ms client=10.27.159.233
+2026-03-14T10:24:30.460Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:24:30.462Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 817276 after 2951ms
+2026-03-14T10:24:31.656Z WARN  [checkout-svc] Retrying payment for order 907455 (attempt 2/3)
+2026-03-14T10:24:31.734Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 316800 after 3067ms
+2026-03-14T10:24:35.582Z WARN  [inventory-svc] Cache miss for sku-3589, falling back to DB
+2026-03-14T10:24:35.702Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5052ms client=10.26.155.114
+2026-03-14T10:24:35.859Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 854388 after 2930ms
+2026-03-14T10:24:36.336Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:24:36.703Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=20)
+2026-03-14T10:24:39.019Z INFO  [api-gateway] POST /v1/checkout 200 86ms client=10.39.136.156
+2026-03-14T10:24:39.568Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 734086 after 3020ms
+2026-03-14T10:24:40.490Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=38)
+2026-03-14T10:24:41.461Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=9)
+2026-03-14T10:24:44.935Z INFO  [payments-svc] Charge authorised for order 292913 in 169ms
+2026-03-14T10:24:45.772Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:24:45.861Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=8)
+2026-03-14T10:24:46.040Z WARN  [checkout-svc] Retrying payment for order 333365 (attempt 2/3)
+2026-03-14T10:24:46.941Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 579770 after 2963ms
+2026-03-14T10:24:46.947Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 271742 after 2949ms
+2026-03-14T10:24:49.686Z INFO  [checkout-svc] Order 143858 created, total=EUR 164.94
+2026-03-14T10:24:49.846Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 641198 after 3095ms
+2026-03-14T10:24:49.859Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5031ms client=10.33.202.252
+2026-03-14T10:24:49.887Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:24:50.967Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=10)
+2026-03-14T10:24:51.818Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=37)
+2026-03-14T10:24:54.316Z WARN  [inventory-svc] Cache miss for sku-5684, falling back to DB
+2026-03-14T10:24:54.997Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 742917 after 2913ms
+2026-03-14T10:24:55.048Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 847251 after 2951ms
+2026-03-14T10:24:55.926Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 572788 after 2906ms
+2026-03-14T10:24:56.366Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:24:56.433Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5059ms client=10.28.46.185
+2026-03-14T10:25:00.930Z INFO  [checkout-svc] Order 362230 created, total=EUR 91.88
+2026-03-14T10:25:01.436Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:25:02.416Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=32)
+2026-03-14T10:25:03.025Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 267666 after 2996ms
+2026-03-14T10:25:06.184Z INFO  [checkout-svc] Order 905579 created, total=EUR 52.42
+2026-03-14T10:25:06.722Z WARN  [checkout-svc] Retrying payment for order 103704 (attempt 3/3)
+2026-03-14T10:25:06.848Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5022ms client=10.3.214.79
+2026-03-14T10:25:07.451Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5057ms client=10.18.92.31
+2026-03-14T10:25:09.234Z INFO  [checkout-svc] Order 996963 created, total=EUR 136.69
+2026-03-14T10:25:10.913Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 730421 after 3053ms
+2026-03-14T10:25:11.724Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5030ms client=10.13.243.117
+2026-03-14T10:25:12.260Z INFO  [api-gateway] POST /v1/checkout 200 220ms client=10.17.106.13
+2026-03-14T10:25:12.410Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=10)
+2026-03-14T10:25:12.867Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=30)
+2026-03-14T10:25:14.627Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5038ms client=10.21.44.13
+2026-03-14T10:25:15.706Z INFO  [checkout-svc] Order 286906 created, total=EUR 50.86
+2026-03-14T10:25:15.983Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5070ms client=10.4.149.121
+2026-03-14T10:25:16.931Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=32)
+2026-03-14T10:25:17.571Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5046ms client=10.2.47.197
+2026-03-14T10:25:18.142Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 689485 after 2945ms
+2026-03-14T10:25:19.257Z INFO  [api-gateway] POST /v1/checkout 200 150ms client=10.21.211.135
+2026-03-14T10:25:20.113Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 214611 after 3046ms
+2026-03-14T10:25:21.006Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 431862 after 2966ms
+2026-03-14T10:25:21.423Z WARN  [checkout-svc] Retrying payment for order 607157 (attempt 3/3)
+2026-03-14T10:25:24.409Z INFO  [payments-svc] Charge authorised for order 753518 in 105ms
+2026-03-14T10:25:25.362Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5024ms client=10.0.60.7
+2026-03-14T10:25:26.447Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 288646 after 3056ms
+2026-03-14T10:25:26.713Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 864605 after 3061ms
+2026-03-14T10:25:29.313Z INFO  [payments-svc] Charge authorised for order 223654 in 154ms
+2026-03-14T10:25:30.466Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:25:31.011Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 450006 after 2989ms
+2026-03-14T10:25:31.608Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5027ms client=10.0.103.177
+2026-03-14T10:25:33.573Z INFO  [checkout-svc] Order 676710 created, total=EUR 91.98
+2026-03-14T10:25:34.039Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 457943 after 3001ms
+2026-03-14T10:25:35.903Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 130531 after 2944ms
+2026-03-14T10:25:37.367Z INFO  [checkout-svc] Order 454352 created, total=EUR 181.61
+2026-03-14T10:25:37.512Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 604884 after 2939ms
+2026-03-14T10:25:39.062Z WARN  [checkout-svc] Retrying payment for order 158743 (attempt 3/3)
+2026-03-14T10:25:39.253Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5068ms client=10.21.236.201
+2026-03-14T10:25:39.681Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5040ms client=10.35.9.54
+2026-03-14T10:25:39.732Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 938373 after 2990ms
+2026-03-14T10:25:40.638Z WARN  [checkout-svc] Slow query on orders table took 1374ms
+2026-03-14T10:25:42.027Z WARN  [checkout-svc] Retrying payment for order 756944 (attempt 2/3)
+2026-03-14T10:25:42.976Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 296481 after 3052ms
+2026-03-14T10:25:44.116Z DEBUG [auth-svc] Token validated for user 99505
+2026-03-14T10:25:45.001Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 283514 after 2928ms
+2026-03-14T10:25:45.089Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=27)
+2026-03-14T10:25:45.404Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5034ms client=10.26.44.128
+2026-03-14T10:25:45.648Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5099ms client=10.12.47.114
+2026-03-14T10:25:49.188Z INFO  [api-gateway] POST /v1/checkout 200 203ms client=10.32.78.49
+2026-03-14T10:25:49.337Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 848344 after 3033ms
+2026-03-14T10:25:49.590Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5066ms client=10.8.105.186
+2026-03-14T10:25:49.662Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=10)
+2026-03-14T10:25:51.168Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5067ms client=10.19.167.37
+2026-03-14T10:25:55.002Z DEBUG [auth-svc] Token validated for user 12413
+2026-03-14T10:25:55.790Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=28)
+2026-03-14T10:25:56.808Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 385898 after 2938ms
+2026-03-14T10:25:56.914Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5013ms client=10.33.159.6
+2026-03-14T10:25:57.367Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5081ms client=10.13.164.52
+2026-03-14T10:25:58.647Z INFO  [api-gateway] POST /v1/checkout 200 83ms client=10.39.52.53
+2026-03-14T10:25:59.807Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 279594 after 2918ms
+2026-03-14T10:25:59.922Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 455193 after 3038ms
+2026-03-14T10:26:00.464Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=9)
+2026-03-14T10:26:00.897Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:26:03.575Z WARN  [inventory-svc] Cache miss for sku-1826, falling back to DB
+2026-03-14T10:26:05.146Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=35)
+2026-03-14T10:26:05.180Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:26:09.099Z INFO  [checkout-svc] Order 448475 created, total=EUR 218.25
+2026-03-14T10:26:11.006Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 197429 after 3078ms
+2026-03-14T10:26:11.017Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=27)
+2026-03-14T10:26:14.902Z INFO  [payments-svc] Charge authorised for order 903726 in 119ms
+2026-03-14T10:26:15.851Z WARN  [checkout-svc] Retrying payment for order 250703 (attempt 3/3)
+2026-03-14T10:26:16.232Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 131734 after 2916ms
+2026-03-14T10:26:16.390Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=29)
+2026-03-14T10:26:16.791Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5036ms client=10.22.65.131
+2026-03-14T10:26:16.848Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=38)
+2026-03-14T10:26:18.323Z INFO  [checkout-svc] Order 848969 created, total=EUR 212.13
+2026-03-14T10:26:19.300Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 674566 after 2940ms
+2026-03-14T10:26:20.298Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=29)
+2026-03-14T10:26:20.505Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 719221 after 3005ms
+2026-03-14T10:26:20.600Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 930924 after 2977ms
+2026-03-14T10:26:22.175Z DEBUG [auth-svc] Token validated for user 78459
+2026-03-14T10:26:22.896Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=33)
+2026-03-14T10:26:23.142Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:26:23.958Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 458823 after 3039ms
+2026-03-14T10:26:24.448Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:26:24.526Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5014ms client=10.37.237.84
+2026-03-14T10:26:25.460Z INFO  [payments-svc] Charge authorised for order 818807 in 164ms
+2026-03-14T10:26:25.830Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:26:26.071Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 405663 after 2999ms
+2026-03-14T10:26:26.801Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 792232 after 2915ms
+2026-03-14T10:26:27.827Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 315651 after 3074ms
+2026-03-14T10:26:27.838Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5081ms client=10.0.75.170
+2026-03-14T10:26:32.053Z INFO  [checkout-svc] Order 697978 created, total=EUR 212.86
+2026-03-14T10:26:32.056Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5045ms client=10.7.144.222
+2026-03-14T10:26:32.308Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:26:33.833Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5044ms client=10.5.4.157
+2026-03-14T10:26:34.143Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 233751 after 2975ms
+2026-03-14T10:26:35.180Z INFO  [api-gateway] POST /v1/checkout 200 231ms client=10.25.162.183
+2026-03-14T10:26:35.244Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=39)
+2026-03-14T10:26:35.694Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:26:35.890Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 297370 after 3042ms
+2026-03-14T10:26:36.755Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5046ms client=10.26.78.74
+2026-03-14T10:26:36.843Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=21)
+2026-03-14T10:26:40.874Z INFO  [checkout-svc] Order 242371 created, total=EUR 30.17
+2026-03-14T10:26:41.610Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 544726 after 3041ms
+2026-03-14T10:26:41.635Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 107790 after 3047ms
+2026-03-14T10:26:42.717Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=22)
+2026-03-14T10:26:42.741Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5089ms client=10.38.217.160
+2026-03-14T10:26:42.914Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5030ms client=10.32.137.106
+2026-03-14T10:26:47.669Z INFO  [payments-svc] Charge authorised for order 484795 in 64ms
+2026-03-14T10:26:49.996Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 486482 after 2928ms
+2026-03-14T10:26:50.045Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 824038 after 2920ms
+2026-03-14T10:26:51.250Z INFO  [inventory-svc] Reserved 3 item(s) for order 587521
+2026-03-14T10:26:51.569Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 665389 after 3048ms
+2026-03-14T10:26:53.393Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5011ms client=10.15.241.162
+2026-03-14T10:26:55.529Z INFO  [payments-svc] Charge authorised for order 460234 in 128ms
+2026-03-14T10:26:56.886Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 936997 after 2975ms
+2026-03-14T10:26:57.449Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 592025 after 3046ms
+2026-03-14T10:26:59.713Z INFO  [api-gateway] POST /v1/checkout 200 232ms client=10.19.133.16
+2026-03-14T10:27:00.050Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:27:00.840Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5001ms client=10.7.89.233
+2026-03-14T10:27:00.851Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:27:00.908Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5079ms client=10.1.146.125
+2026-03-14T10:27:02.081Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:27:05.136Z INFO  [inventory-svc] Reserved 4 item(s) for order 487728
+2026-03-14T10:27:05.767Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5096ms client=10.26.196.61
+2026-03-14T10:27:06.206Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5030ms client=10.31.92.205
+2026-03-14T10:27:07.296Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5043ms client=10.5.74.153
+2026-03-14T10:27:10.842Z INFO  [checkout-svc] Order 768545 created, total=EUR 51.26
+2026-03-14T10:27:11.057Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=33)
+2026-03-14T10:27:11.064Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 892182 after 2929ms
+2026-03-14T10:27:12.000Z INFO  [payments-svc] Rollback started: version=2.13.4 (incident INC-2291)
+2026-03-14T10:27:12.397Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 509018 after 3021ms
+2026-03-14T10:27:12.792Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=22)
+2026-03-14T10:27:14.917Z INFO  [api-gateway] POST /v1/checkout 200 191ms client=10.0.147.238
+2026-03-14T10:27:15.085Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=30)
+2026-03-14T10:27:15.962Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 510154 after 3018ms
+2026-03-14T10:27:16.289Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=14)
+2026-03-14T10:27:16.481Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 656011 after 3074ms
+2026-03-14T10:27:16.685Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 783740 after 2969ms
+2026-03-14T10:27:21.083Z INFO  [inventory-svc] Reserved 2 item(s) for order 869983
+2026-03-14T10:27:21.361Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=14)
+2026-03-14T10:27:22.366Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 805483 after 2902ms
+2026-03-14T10:27:23.212Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:27:26.234Z INFO  [api-gateway] POST /v1/checkout 200 194ms client=10.22.112.186
+2026-03-14T10:27:26.587Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5016ms client=10.24.94.230
+2026-03-14T10:27:26.610Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=21)
+2026-03-14T10:27:27.265Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=9)
+2026-03-14T10:27:28.689Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 842470 after 2930ms
+2026-03-14T10:27:29.688Z INFO  [inventory-svc] Reserved 3 item(s) for order 408877
+2026-03-14T10:27:29.998Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 389809 after 3096ms
+2026-03-14T10:27:30.745Z WARN  [checkout-svc] Retrying payment for order 377521 (attempt 2/3)
+2026-03-14T10:27:30.823Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5048ms client=10.24.170.16
+2026-03-14T10:27:31.012Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:27:31.436Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 800007 after 3097ms
+2026-03-14T10:27:34.492Z INFO  [api-gateway] POST /v1/checkout 200 131ms client=10.39.201.46
+2026-03-14T10:27:34.780Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 362769 after 3098ms
+2026-03-14T10:27:34.936Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=35)
+2026-03-14T10:27:35.386Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 211410 after 3013ms
+2026-03-14T10:27:35.552Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:27:36.318Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=39)
+2026-03-14T10:27:38.101Z INFO  [inventory-svc] Reserved 1 item(s) for order 139673
+2026-03-14T10:27:38.388Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 103468 after 2998ms
+2026-03-14T10:27:39.192Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=29)
+2026-03-14T10:27:39.703Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 640418 after 3081ms
+2026-03-14T10:27:40.075Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=30)
+2026-03-14T10:27:40.110Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 523533 after 3086ms
+2026-03-14T10:27:42.466Z INFO  [inventory-svc] Reserved 4 item(s) for order 157875
+2026-03-14T10:27:43.962Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 456581 after 2920ms
+2026-03-14T10:27:44.348Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5037ms client=10.12.90.142
+2026-03-14T10:27:45.627Z WARN  [checkout-svc] Slow query on orders table took 1191ms
+2026-03-14T10:27:45.885Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5082ms client=10.19.255.137
+2026-03-14T10:27:47.224Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5080ms client=10.22.249.22
+2026-03-14T10:27:47.420Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5017ms client=10.2.98.7
+2026-03-14T10:27:48.055Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=32)
+2026-03-14T10:27:52.579Z DEBUG [auth-svc] Token validated for user 59891
+2026-03-14T10:27:52.730Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=29)
+2026-03-14T10:27:52.754Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 321960 after 3067ms
+2026-03-14T10:27:58.312Z INFO  [payments-svc] Charge authorised for order 811016 in 171ms
+2026-03-14T10:27:58.463Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5062ms client=10.1.241.233
+2026-03-14T10:27:58.499Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:28:00.685Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=12)
+2026-03-14T10:28:01.370Z INFO  [api-gateway] POST /v1/checkout 200 92ms client=10.19.49.117
+2026-03-14T10:28:01.837Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 937995 after 3057ms
+2026-03-14T10:28:02.273Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=20)
+2026-03-14T10:28:03.790Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=14)
+2026-03-14T10:28:06.115Z INFO  [checkout-svc] Order 976500 created, total=EUR 197.86
+2026-03-14T10:28:06.373Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:28:07.000Z INFO  [payments-svc] Rollback finished: 6/6 pods ready, version=2.13.4
+2026-03-14T10:28:07.432Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5027ms client=10.2.88.86
+2026-03-14T10:28:07.443Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=16)
+2026-03-14T10:28:07.815Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=31)
+2026-03-14T10:28:08.381Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=23)
+2026-03-14T10:28:12.906Z INFO  [payments-svc] Charge authorised for order 239849 in 72ms
+2026-03-14T10:28:13.236Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:28:13.271Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5075ms client=10.18.213.178
+2026-03-14T10:28:13.552Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=39)
+2026-03-14T10:28:14.015Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 532046 after 2961ms
+2026-03-14T10:28:14.855Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 316174 after 2936ms
+2026-03-14T10:28:19.748Z INFO  [api-gateway] POST /v1/checkout 200 89ms client=10.38.92.184
+2026-03-14T10:28:20.108Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 920597 after 2977ms
+2026-03-14T10:28:20.534Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=14)
+2026-03-14T10:28:20.600Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=20)
+2026-03-14T10:28:21.172Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 684801 after 2960ms
+2026-03-14T10:28:21.230Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5069ms client=10.32.112.119
+2026-03-14T10:28:23.209Z DEBUG [auth-svc] Token validated for user 90816
+2026-03-14T10:28:23.386Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:28:23.430Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 398911 after 2953ms
+2026-03-14T10:28:24.989Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=37)
+2026-03-14T10:28:25.246Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=10)
+2026-03-14T10:28:25.410Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=9)
+2026-03-14T10:28:28.195Z INFO  [payments-svc] Charge authorised for order 174301 in 174ms
+2026-03-14T10:28:29.009Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5041ms client=10.14.56.84
+2026-03-14T10:28:29.127Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=34)
+2026-03-14T10:28:30.016Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 441806 after 3007ms
+2026-03-14T10:28:34.758Z INFO  [api-gateway] POST /v1/checkout 200 136ms client=10.4.241.150
+2026-03-14T10:28:34.980Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5018ms client=10.13.232.46
+2026-03-14T10:28:35.553Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 382795 after 2951ms
+2026-03-14T10:28:35.907Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=37)
+2026-03-14T10:28:36.133Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=11)
+2026-03-14T10:28:36.344Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=37)
+2026-03-14T10:28:39.636Z INFO  [checkout-svc] Order 897273 created, total=EUR 96.28
+2026-03-14T10:28:39.990Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 647114 after 3025ms
+2026-03-14T10:28:40.522Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 977646 after 3018ms
+2026-03-14T10:28:42.003Z WARN  [checkout-svc] Retrying payment for order 996536 (attempt 2/3)
+2026-03-14T10:28:42.108Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=18)
+2026-03-14T10:28:43.779Z INFO  [api-gateway] POST /v1/checkout 200 189ms client=10.15.126.84
+2026-03-14T10:28:44.180Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 352194 after 2921ms
+2026-03-14T10:28:45.394Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 936782 after 3078ms
+2026-03-14T10:28:45.706Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5064ms client=10.2.217.136
+2026-03-14T10:28:46.128Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5053ms client=10.2.20.254
+2026-03-14T10:28:46.152Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=17)
+2026-03-14T10:28:49.066Z INFO  [inventory-svc] Reserved 4 item(s) for order 328596
+2026-03-14T10:28:49.131Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 419644 after 2941ms
+2026-03-14T10:28:50.534Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=13)
+2026-03-14T10:28:50.947Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5095ms client=10.37.12.250
+2026-03-14T10:28:53.929Z INFO  [checkout-svc] Order 245357 created, total=EUR 232.90
+2026-03-14T10:28:53.934Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5009ms client=10.24.170.136
+2026-03-14T10:28:54.062Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:28:54.260Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 452001 after 3088ms
+2026-03-14T10:28:54.686Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5047ms client=10.40.237.181
+2026-03-14T10:28:56.150Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 317208 after 3075ms
+2026-03-14T10:29:00.747Z INFO  [api-gateway] POST /v1/checkout 200 173ms client=10.3.56.99
+2026-03-14T10:29:01.464Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 839113 after 2917ms
+2026-03-14T10:29:02.653Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 483329 after 2993ms
+2026-03-14T10:29:02.957Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=38)
+2026-03-14T10:29:03.043Z ERROR [api-gateway] POST /v1/checkout 504 Gateway Timeout 5026ms client=10.8.171.62
+2026-03-14T10:29:06.767Z WARN  [inventory-svc] Cache miss for sku-4437, falling back to DB
+2026-03-14T10:29:07.026Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=36)
+2026-03-14T10:29:08.079Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=25)
+2026-03-14T10:29:08.829Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 390607 after 2913ms
+2026-03-14T10:29:11.758Z INFO  [payments-svc] Charge authorised for order 969856 in 75ms
+2026-03-14T10:29:12.026Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=37)
+2026-03-14T10:29:12.115Z ERROR [payments-svc] DB connection pool exhausted (active=50/50, waiting=19)
+2026-03-14T10:29:12.939Z WARN  [checkout-svc] Retrying payment for order 180685 (attempt 2/3)
+2026-03-14T10:29:13.609Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 938759 after 3072ms
+2026-03-14T10:29:13.936Z ERROR [checkout-svc] Upstream payments-svc returned 503 for order 658739 after 2974ms
+2026-03-14T10:29:15.432Z INFO  [api-gateway] POST /v1/checkout 200 117ms client=10.31.77.224
+2026-03-14T10:29:19.268Z INFO  [payments-svc] Charge authorised for order 757746 in 62ms
+2026-03-14T10:29:23.468Z INFO  [checkout-svc] Order 815551 created, total=EUR 147.16
+2026-03-14T10:29:28.409Z INFO  [checkout-svc] Order 565420 created, total=EUR 197.82
+2026-03-14T10:29:31.496Z INFO  [api-gateway] POST /v1/checkout 200 96ms client=10.1.118.214
+2026-03-14T10:29:38.376Z INFO  [payments-svc] Charge authorised for order 452192 in 112ms
+2026-03-14T10:29:42.000Z INFO  [payments-svc] DB connection pool healthy (active=12/50, waiting=0)
+2026-03-14T10:29:43.746Z INFO  [checkout-svc] Order 777433 created, total=EUR 210.41
+2026-03-14T10:29:48.737Z INFO  [payments-svc] Charge authorised for order 830714 in 127ms
+2026-03-14T10:29:55.185Z INFO  [payments-svc] Charge authorised for order 580255 in 98ms
+2026-03-14T10:30:00.508Z INFO  [api-gateway] POST /v1/checkout 200 158ms client=10.10.133.59
+2026-03-14T10:30:05.491Z INFO  [checkout-svc] Order 402143 created, total=EUR 206.06
+2026-03-14T10:30:09.098Z INFO  [checkout-svc] Order 578073 created, total=EUR 51.79
+2026-03-14T10:30:15.883Z INFO  [api-gateway] POST /v1/checkout 200 217ms client=10.18.93.250
+2026-03-14T10:30:19.601Z DEBUG [auth-svc] Token validated for user 91814
+2026-03-14T10:30:26.306Z INFO  [inventory-svc] Reserved 2 item(s) for order 269087
+2026-03-14T10:30:30.280Z INFO  [api-gateway] POST /v1/checkout 200 161ms client=10.36.64.113
+2026-03-14T10:30:34.346Z INFO  [checkout-svc] Order 315120 created, total=EUR 152.90
+2026-03-14T10:30:37.488Z INFO  [inventory-svc] Reserved 3 item(s) for order 255130
+2026-03-14T10:30:42.015Z INFO  [checkout-svc] Order 270495 created, total=EUR 145.38
+2026-03-14T10:30:45.512Z WARN  [inventory-svc] Cache miss for sku-7628, falling back to DB
+2026-03-14T10:30:52.325Z INFO  [checkout-svc] Order 252446 created, total=EUR 126.40
+2026-03-14T10:30:55.964Z INFO  [api-gateway] POST /v1/checkout 200 219ms client=10.32.169.166
+2026-03-14T10:31:01.853Z INFO  [api-gateway] POST /v1/checkout 200 154ms client=10.36.75.205
+2026-03-14T10:31:07.168Z INFO  [inventory-svc] Reserved 4 item(s) for order 455136
+2026-03-14T10:31:12.990Z INFO  [api-gateway] POST /v1/checkout 200 202ms client=10.2.71.174
+2026-03-14T10:31:18.246Z INFO  [api-gateway] POST /v1/checkout 200 86ms client=10.25.112.115
+2026-03-14T10:31:22.709Z INFO  [api-gateway] POST /v1/checkout 200 94ms client=10.38.99.150
+2026-03-14T10:31:27.865Z INFO  [api-gateway] POST /v1/checkout 200 151ms client=10.12.11.22
+2026-03-14T10:31:33.070Z DEBUG [auth-svc] Token validated for user 89744
+2026-03-14T10:31:38.820Z WARN  [checkout-svc] Slow query on orders table took 1848ms
+2026-03-14T10:31:43.435Z INFO  [api-gateway] POST /v1/checkout 200 161ms client=10.38.28.233
+2026-03-14T10:31:49.166Z INFO  [checkout-svc] Order 255132 created, total=EUR 192.54
+2026-03-14T10:31:53.680Z INFO  [checkout-svc] Order 112782 created, total=EUR 81.44
+2026-03-14T10:31:58.119Z INFO  [checkout-svc] Order 567220 created, total=EUR 232.71
+2026-03-14T10:32:01.477Z INFO  [api-gateway] POST /v1/checkout 200 193ms client=10.26.226.74
+2026-03-14T10:32:05.147Z DEBUG [auth-svc] Token validated for user 56552
+2026-03-14T10:32:11.131Z WARN  [inventory-svc] Cache miss for sku-3286, falling back to DB
+2026-03-14T10:32:17.553Z INFO  [payments-svc] Charge authorised for order 190259 in 78ms
+2026-03-14T10:32:21.404Z INFO  [checkout-svc] Order 650818 created, total=EUR 94.08
+2026-03-14T10:32:28.226Z WARN  [checkout-svc] Slow query on orders table took 1569ms
+2026-03-14T10:32:31.588Z INFO  [api-gateway] POST /v1/checkout 200 149ms client=10.26.89.143
+2026-03-14T10:32:36.480Z INFO  [inventory-svc] Reserved 2 item(s) for order 308936
+2026-03-14T10:32:40.241Z DEBUG [auth-svc] Token validated for user 38940
+2026-03-14T10:32:45.509Z INFO  [checkout-svc] Order 962767 created, total=EUR 220.38
+2026-03-14T10:32:51.927Z INFO  [payments-svc] Charge authorised for order 618101 in 131ms
+2026-03-14T10:32:57.957Z INFO  [checkout-svc] Order 128143 created, total=EUR 211.00
+2026-03-14T10:33:01.587Z INFO  [api-gateway] POST /v1/checkout 200 200ms client=10.7.147.107
+2026-03-14T10:33:05.321Z INFO  [checkout-svc] Order 821255 created, total=EUR 174.31
+2026-03-14T10:33:08.437Z INFO  [api-gateway] POST /v1/checkout 200 150ms client=10.31.34.154
+2026-03-14T10:33:14.490Z INFO  [checkout-svc] Order 603825 created, total=EUR 153.55
+2026-03-14T10:33:21.046Z INFO  [api-gateway] POST /v1/checkout 200 201ms client=10.7.191.132
+2026-03-14T10:33:27.048Z INFO  [payments-svc] Charge authorised for order 986340 in 93ms
+2026-03-14T10:33:30.715Z INFO  [payments-svc] Charge authorised for order 253235 in 100ms
+2026-03-14T10:33:35.603Z DEBUG [auth-svc] Token validated for user 18759
+2026-03-14T10:33:40.066Z INFO  [api-gateway] POST /v1/checkout 200 149ms client=10.23.214.163
+2026-03-14T10:33:46.801Z WARN  [checkout-svc] Slow query on orders table took 899ms
+2026-03-14T10:33:50.988Z INFO  [api-gateway] POST /v1/checkout 200 99ms client=10.32.99.197
+2026-03-14T10:33:56.560Z INFO  [api-gateway] POST /v1/checkout 200 104ms client=10.38.85.140
+2026-03-14T10:34:00.881Z DEBUG [auth-svc] Token validated for user 90780
+2026-03-14T10:34:07.157Z INFO  [checkout-svc] Order 818739 created, total=EUR 187.88
+2026-03-14T10:34:11.641Z INFO  [api-gateway] POST /v1/checkout 200 228ms client=10.22.73.4
+2026-03-14T10:34:15.201Z INFO  [payments-svc] Charge authorised for order 491133 in 159ms
+2026-03-14T10:34:20.187Z INFO  [checkout-svc] Order 270948 created, total=EUR 35.27
+2026-03-14T10:34:23.820Z INFO  [payments-svc] Charge authorised for order 971968 in 84ms
+2026-03-14T10:34:30.076Z WARN  [inventory-svc] Cache miss for sku-9612, falling back to DB
+2026-03-14T10:34:36.541Z INFO  [payments-svc] Charge authorised for order 677883 in 149ms
+2026-03-14T10:34:42.638Z DEBUG [auth-svc] Token validated for user 55702
+2026-03-14T10:34:47.524Z WARN  [inventory-svc] Cache miss for sku-2909, falling back to DB
+2026-03-14T10:34:53.877Z INFO  [api-gateway] POST /v1/checkout 200 84ms client=10.30.178.80
+2026-03-14T10:34:59.707Z INFO  [checkout-svc] Order 956727 created, total=EUR 122.76
+2026-03-14T10:35:04.849Z INFO  [inventory-svc] Reserved 3 item(s) for order 280572
+2026-03-14T10:35:10.756Z INFO  [checkout-svc] Order 880623 created, total=EUR 217.15
+2026-03-14T10:35:14.666Z INFO  [api-gateway] POST /v1/checkout 200 116ms client=10.14.157.33
+2026-03-14T10:35:18.525Z INFO  [api-gateway] POST /v1/checkout 200 100ms client=10.27.57.20
+2026-03-14T10:35:21.602Z INFO  [inventory-svc] Reserved 4 item(s) for order 144582
+2026-03-14T10:35:25.406Z INFO  [api-gateway] POST /v1/checkout 200 211ms client=10.37.30.121
+2026-03-14T10:35:28.893Z WARN  [inventory-svc] Cache miss for sku-1709, falling back to DB
+2026-03-14T10:35:32.164Z INFO  [checkout-svc] Order 110771 created, total=EUR 202.12
+2026-03-14T10:35:38.368Z INFO  [api-gateway] POST /v1/checkout 200 234ms client=10.13.102.48
+2026-03-14T10:35:44.114Z INFO  [checkout-svc] Order 195189 created, total=EUR 46.95
+2026-03-14T10:35:50.971Z INFO  [api-gateway] POST /v1/checkout 200 228ms client=10.22.180.42
+2026-03-14T10:35:57.473Z INFO  [payments-svc] Charge authorised for order 863944 in 138ms
+2026-03-14T10:36:01.463Z INFO  [payments-svc] Charge authorised for order 171656 in 72ms
+2026-03-14T10:36:07.820Z INFO  [payments-svc] Charge authorised for order 114663 in 127ms
+2026-03-14T10:36:11.708Z INFO  [inventory-svc] Reserved 3 item(s) for order 280117
+2026-03-14T10:36:18.401Z INFO  [inventory-svc] Reserved 1 item(s) for order 860583
+2026-03-14T10:36:21.805Z WARN  [inventory-svc] Cache miss for sku-9260, falling back to DB
+2026-03-14T10:36:28.291Z INFO  [inventory-svc] Reserved 3 item(s) for order 832045
+2026-03-14T10:36:33.705Z INFO  [api-gateway] POST /v1/checkout 200 107ms client=10.11.181.252
+2026-03-14T10:36:38.259Z INFO  [checkout-svc] Order 639231 created, total=EUR 67.52
+2026-03-14T10:36:41.721Z INFO  [inventory-svc] Reserved 3 item(s) for order 229620
+2026-03-14T10:36:46.629Z INFO  [api-gateway] POST /v1/checkout 200 114ms client=10.31.184.181
+2026-03-14T10:36:50.809Z INFO  [payments-svc] Charge authorised for order 142581 in 70ms
+2026-03-14T10:36:55.152Z INFO  [checkout-svc] Order 503472 created, total=EUR 81.58
+2026-03-14T10:37:00.611Z INFO  [inventory-svc] Reserved 4 item(s) for order 336845
+2026-03-14T10:37:05.879Z INFO  [checkout-svc] Order 996915 created, total=EUR 118.24
+2026-03-14T10:37:12.388Z INFO  [api-gateway] POST /v1/checkout 200 201ms client=10.23.91.4
+2026-03-14T10:37:18.149Z INFO  [checkout-svc] Order 210280 created, total=EUR 110.56
+2026-03-14T10:37:23.289Z INFO  [inventory-svc] Reserved 1 item(s) for order 225008
+2026-03-14T10:37:26.876Z INFO  [checkout-svc] Order 828799 created, total=EUR 160.13
+2026-03-14T10:37:32.912Z WARN  [inventory-svc] Cache miss for sku-3764, falling back to DB
+2026-03-14T10:37:36.177Z INFO  [checkout-svc] Order 308757 created, total=EUR 95.25
+2026-03-14T10:37:41.613Z DEBUG [auth-svc] Token validated for user 53990
+2026-03-14T10:37:45.115Z INFO  [api-gateway] POST /v1/checkout 200 188ms client=10.31.142.196
+2026-03-14T10:37:51.037Z INFO  [inventory-svc] Reserved 3 item(s) for order 893041
+2026-03-14T10:37:57.270Z DEBUG [auth-svc] Token validated for user 53459
+2026-03-14T10:38:01.728Z INFO  [checkout-svc] Order 732464 created, total=EUR 112.62
+2026-03-14T10:38:06.822Z INFO  [api-gateway] POST /v1/checkout 200 196ms client=10.6.62.65
+2026-03-14T10:38:11.826Z INFO  [checkout-svc] Order 758894 created, total=EUR 43.03
+2026-03-14T10:38:15.233Z INFO  [inventory-svc] Reserved 1 item(s) for order 622332
+2026-03-14T10:38:21.010Z INFO  [api-gateway] POST /v1/checkout 200 125ms client=10.24.167.40
+2026-03-14T10:38:25.250Z INFO  [payments-svc] Charge authorised for order 201013 in 157ms
+2026-03-14T10:38:28.563Z INFO  [inventory-svc] Reserved 4 item(s) for order 931239
+2026-03-14T10:38:33.471Z INFO  [api-gateway] POST /v1/checkout 200 207ms client=10.31.133.139
+2026-03-14T10:38:37.878Z DEBUG [auth-svc] Token validated for user 71848
+2026-03-14T10:38:43.116Z INFO  [api-gateway] POST /v1/checkout 200 88ms client=10.27.60.99
+2026-03-14T10:38:47.959Z INFO  [checkout-svc] Order 494617 created, total=EUR 122.58
+2026-03-14T10:38:51.106Z INFO  [api-gateway] POST /v1/checkout 200 222ms client=10.19.84.126
+2026-03-14T10:38:55.870Z INFO  [api-gateway] POST /v1/checkout 200 179ms client=10.31.56.146
+2026-03-14T10:39:01.634Z INFO  [checkout-svc] Order 680684 created, total=EUR 184.69
+2026-03-14T10:39:06.977Z INFO  [checkout-svc] Order 689567 created, total=EUR 227.20
+2026-03-14T10:39:12.052Z INFO  [api-gateway] POST /v1/checkout 200 147ms client=10.31.193.158
+2026-03-14T10:39:17.822Z INFO  [checkout-svc] Order 398254 created, total=EUR 91.07
+2026-03-14T10:39:20.937Z INFO  [payments-svc] Charge authorised for order 234425 in 167ms
+2026-03-14T10:39:25.437Z INFO  [checkout-svc] Order 878103 created, total=EUR 158.03
+2026-03-14T10:39:31.571Z WARN  [inventory-svc] Cache miss for sku-6591, falling back to DB
+2026-03-14T10:39:36.129Z INFO  [api-gateway] POST /v1/checkout 200 168ms client=10.22.210.90
+2026-03-14T10:39:39.360Z INFO  [inventory-svc] Reserved 2 item(s) for order 346019
+2026-03-14T10:39:45.014Z INFO  [checkout-svc] Order 189067 created, total=EUR 185.08
+2026-03-14T10:39:51.573Z INFO  [checkout-svc] Order 453993 created, total=EUR 52.02
+2026-03-14T10:39:56.778Z INFO  [checkout-svc] Order 583298 created, total=EUR 177.54
+2026-03-14T10:40:02.104Z INFO  [payments-svc] Charge authorised for order 541631 in 94ms
+2026-03-14T10:40:05.187Z INFO  [inventory-svc] Reserved 1 item(s) for order 431889
+2026-03-14T10:40:09.734Z INFO  [payments-svc] Charge authorised for order 438083 in 133ms
+2026-03-14T10:40:13.134Z DEBUG [auth-svc] Token validated for user 14114
+2026-03-14T10:40:18.963Z INFO  [inventory-svc] Reserved 3 item(s) for order 620860
+2026-03-14T10:40:24.022Z DEBUG [auth-svc] Token validated for user 88475
+2026-03-14T10:40:28.412Z INFO  [api-gateway] POST /v1/checkout 200 156ms client=10.23.223.52
+2026-03-14T10:40:33.447Z INFO  [payments-svc] Charge authorised for order 925386 in 69ms
+2026-03-14T10:40:39.889Z DEBUG [auth-svc] Token validated for user 29059
+2026-03-14T10:40:44.066Z INFO  [api-gateway] POST /v1/checkout 200 156ms client=10.36.205.206
+2026-03-14T10:40:47.991Z INFO  [payments-svc] Charge authorised for order 196424 in 151ms
+2026-03-14T10:40:54.448Z INFO  [payments-svc] Charge authorised for order 720615 in 103ms
+2026-03-14T10:40:58.567Z INFO  [api-gateway] POST /v1/checkout 200 215ms client=10.30.218.54
+2026-03-14T10:41:02.989Z DEBUG [auth-svc] Token validated for user 86398
+2026-03-14T10:41:09.363Z INFO  [checkout-svc] Order 943187 created, total=EUR 85.55
+2026-03-14T10:41:15.080Z INFO  [payments-svc] Charge authorised for order 309795 in 113ms
+2026-03-14T10:41:19.727Z INFO  [api-gateway] POST /v1/checkout 200 211ms client=10.29.92.226
+2026-03-14T10:41:22.803Z INFO  [payments-svc] Charge authorised for order 641300 in 170ms
+2026-03-14T10:41:26.567Z INFO  [payments-svc] Charge authorised for order 323297 in 144ms
+2026-03-14T10:41:33.507Z DEBUG [auth-svc] Token validated for user 62249
+2026-03-14T10:41:37.604Z WARN  [inventory-svc] Cache miss for sku-9728, falling back to DB
+2026-03-14T10:41:43.917Z INFO  [payments-svc] Charge authorised for order 906479 in 176ms
+2026-03-14T10:41:48.693Z WARN  [inventory-svc] Cache miss for sku-1981, falling back to DB
+2026-03-14T10:41:53.832Z INFO  [api-gateway] POST /v1/checkout 200 198ms client=10.9.123.39
+2026-03-14T10:41:59.889Z INFO  [inventory-svc] Reserved 3 item(s) for order 985126
+2026-03-14T10:42:04.672Z INFO  [checkout-svc] Order 970542 created, total=EUR 25.81
+2026-03-14T10:42:08.505Z DEBUG [auth-svc] Token validated for user 35987
+2026-03-14T10:42:14.878Z INFO  [api-gateway] POST /v1/checkout 200 121ms client=10.16.120.104
+2026-03-14T10:42:18.854Z INFO  [api-gateway] POST /v1/checkout 200 129ms client=10.1.125.205
+2026-03-14T10:42:25.242Z INFO  [checkout-svc] Order 608960 created, total=EUR 152.55
+2026-03-14T10:42:29.970Z INFO  [payments-svc] Charge authorised for order 138801 in 85ms
+2026-03-14T10:42:33.622Z INFO  [api-gateway] POST /v1/checkout 200 87ms client=10.16.142.169
+2026-03-14T10:42:38.877Z INFO  [api-gateway] POST /v1/checkout 200 90ms client=10.31.10.15
+2026-03-14T10:42:45.397Z WARN  [inventory-svc] Cache miss for sku-6143, falling back to DB
+2026-03-14T10:42:50.861Z INFO  [api-gateway] POST /v1/checkout 200 96ms client=10.26.186.172
+2026-03-14T10:42:56.553Z WARN  [inventory-svc] Cache miss for sku-7502, falling back to DB
+2026-03-14T10:43:03.416Z DEBUG [auth-svc] Token validated for user 19423
+2026-03-14T10:43:07.382Z INFO  [api-gateway] POST /v1/checkout 200 208ms client=10.7.128.128
+2026-03-14T10:43:14.005Z INFO  [api-gateway] POST /v1/checkout 200 233ms client=10.7.160.85
+2026-03-14T10:43:20.414Z INFO  [payments-svc] Charge authorised for order 508892 in 163ms
+2026-03-14T10:43:26.479Z INFO  [inventory-svc] Reserved 4 item(s) for order 328598
+2026-03-14T10:43:30.069Z INFO  [api-gateway] POST /v1/checkout 200 134ms client=10.17.225.105
+2026-03-14T10:43:34.110Z DEBUG [auth-svc] Token validated for user 8330
+2026-03-14T10:43:39.118Z INFO  [payments-svc] Charge authorised for order 833602 in 74ms
+2026-03-14T10:43:43.414Z INFO  [payments-svc] Charge authorised for order 597920 in 147ms
+2026-03-14T10:43:47.423Z WARN  [checkout-svc] Slow query on orders table took 1096ms
+2026-03-14T10:43:51.909Z INFO  [checkout-svc] Order 485602 created, total=EUR 219.39
+2026-03-14T10:43:54.995Z INFO  [payments-svc] Charge authorised for order 735242 in 64ms
+2026-03-14T10:44:01.441Z INFO  [inventory-svc] Reserved 1 item(s) for order 824233
+2026-03-14T10:44:08.198Z DEBUG [auth-svc] Token validated for user 32414
+2026-03-14T10:44:12.234Z INFO  [payments-svc] Charge authorised for order 424291 in 141ms
+2026-03-14T10:44:19.159Z INFO  [inventory-svc] Reserved 1 item(s) for order 660894
+2026-03-14T10:44:25.710Z INFO  [api-gateway] POST /v1/checkout 200 193ms client=10.24.4.233
+2026-03-14T10:44:32.645Z INFO  [checkout-svc] Order 367946 created, total=EUR 86.11
+2026-03-14T10:44:39.480Z DEBUG [auth-svc] Token validated for user 31862
+2026-03-14T10:44:43.698Z INFO  [api-gateway] POST /v1/checkout 200 121ms client=10.28.162.226
+2026-03-14T10:44:50.024Z INFO  [inventory-svc] Reserved 4 item(s) for order 927659
+2026-03-14T10:44:53.162Z INFO  [api-gateway] POST /v1/checkout 200 100ms client=10.31.241.189
+2026-03-14T10:44:57.853Z WARN  [inventory-svc] Cache miss for sku-6451, falling back to DB
+2026-03-14T10:45:03.791Z INFO  [checkout-svc] Order 960085 created, total=EUR 34.20
+2026-03-14T10:45:09.651Z INFO  [api-gateway] POST /v1/checkout 200 96ms client=10.22.215.155
+2026-03-14T10:45:15.637Z DEBUG [auth-svc] Token validated for user 97703
+2026-03-14T10:45:19.975Z INFO  [checkout-svc] Order 128679 created, total=EUR 204.06
+2026-03-14T10:45:25.602Z INFO  [payments-svc] Charge authorised for order 760766 in 116ms
+2026-03-14T10:45:31.842Z INFO  [payments-svc] Charge authorised for order 103225 in 111ms
+2026-03-14T10:45:35.661Z INFO  [payments-svc] Charge authorised for order 428961 in 133ms
+2026-03-14T10:45:38.997Z INFO  [api-gateway] POST /v1/checkout 200 143ms client=10.33.66.217
+2026-03-14T10:45:44.430Z INFO  [inventory-svc] Reserved 3 item(s) for order 573421
+2026-03-14T10:45:49.389Z DEBUG [auth-svc] Token validated for user 18499
+2026-03-14T10:45:53.456Z INFO  [api-gateway] POST /v1/checkout 200 231ms client=10.20.144.51
+2026-03-14T10:45:56.801Z INFO  [checkout-svc] Order 290724 created, total=EUR 109.48
+2026-03-14T10:46:03.670Z DEBUG [auth-svc] Token validated for user 75762
+2026-03-14T10:46:07.589Z INFO  [api-gateway] POST /v1/checkout 200 85ms client=10.35.117.233
+2026-03-14T10:46:10.953Z WARN  [checkout-svc] Slow query on orders table took 1206ms
+2026-03-14T10:46:15.025Z INFO  [inventory-svc] Reserved 2 item(s) for order 152201
+2026-03-14T10:46:19.667Z INFO  [payments-svc] Charge authorised for order 729557 in 93ms
+2026-03-14T10:46:23.278Z INFO  [api-gateway] POST /v1/checkout 200 174ms client=10.10.60.4
+2026-03-14T10:46:29.221Z INFO  [payments-svc] Charge authorised for order 910926 in 177ms
+2026-03-14T10:46:36.023Z INFO  [checkout-svc] Order 806331 created, total=EUR 135.15
+2026-03-14T10:46:39.942Z INFO  [inventory-svc] Reserved 2 item(s) for order 952924
+2026-03-14T10:46:46.145Z INFO  [api-gateway] POST /v1/checkout 200 206ms client=10.24.66.111
+2026-03-14T10:46:52.652Z INFO  [api-gateway] POST /v1/checkout 200 135ms client=10.18.96.108
+2026-03-14T10:46:56.390Z INFO  [checkout-svc] Order 253032 created, total=EUR 16.37
+2026-03-14T10:47:03.388Z INFO  [api-gateway] POST /v1/checkout 200 238ms client=10.28.127.95
+2026-03-14T10:47:08.775Z INFO  [inventory-svc] Reserved 4 item(s) for order 189903
+2026-03-14T10:47:11.817Z INFO  [checkout-svc] Order 438947 created, total=EUR 186.50
+2026-03-14T10:47:17.630Z INFO  [api-gateway] POST /v1/checkout 200 178ms client=10.27.131.19
+2026-03-14T10:47:21.020Z INFO  [payments-svc] Charge authorised for order 154644 in 102ms
+2026-03-14T10:47:27.833Z INFO  [api-gateway] POST /v1/checkout 200 170ms client=10.38.23.2
+2026-03-14T10:47:31.871Z INFO  [payments-svc] Charge authorised for order 499442 in 98ms
+2026-03-14T10:47:36.487Z INFO  [inventory-svc] Reserved 2 item(s) for order 686741
+2026-03-14T10:47:39.655Z INFO  [payments-svc] Charge authorised for order 372935 in 81ms
+2026-03-14T10:47:44.718Z INFO  [checkout-svc] Order 455652 created, total=EUR 233.59
+2026-03-14T10:47:48.258Z INFO  [api-gateway] POST /v1/checkout 200 215ms client=10.27.72.67
+2026-03-14T10:47:51.736Z INFO  [checkout-svc] Order 234082 created, total=EUR 136.35
+2026-03-14T10:47:57.799Z INFO  [checkout-svc] Order 550977 created, total=EUR 81.33
+2026-03-14T10:48:03.309Z DEBUG [auth-svc] Token validated for user 35571
+2026-03-14T10:48:08.426Z INFO  [checkout-svc] Order 272998 created, total=EUR 89.94
+2026-03-14T10:48:13.438Z INFO  [inventory-svc] Reserved 2 item(s) for order 682667
+2026-03-14T10:48:19.932Z WARN  [inventory-svc] Cache miss for sku-8208, falling back to DB
+2026-03-14T10:48:23.149Z INFO  [api-gateway] POST /v1/checkout 200 93ms client=10.14.93.10
+2026-03-14T10:48:28.075Z INFO  [api-gateway] POST /v1/checkout 200 199ms client=10.27.59.230
+2026-03-14T10:48:34.872Z INFO  [checkout-svc] Order 562966 created, total=EUR 100.90
+2026-03-14T10:48:40.169Z INFO  [checkout-svc] Order 616935 created, total=EUR 37.92
+2026-03-14T10:48:46.719Z INFO  [api-gateway] POST /v1/checkout 200 169ms client=10.5.104.223
+2026-03-14T10:48:50.882Z INFO  [api-gateway] POST /v1/checkout 200 123ms client=10.32.139.145
+2026-03-14T10:48:57.531Z INFO  [inventory-svc] Reserved 2 item(s) for order 711893
+2026-03-14T10:49:04.510Z INFO  [api-gateway] POST /v1/checkout 200 226ms client=10.11.213.236
+2026-03-14T10:49:07.824Z INFO  [api-gateway] POST /v1/checkout 200 207ms client=10.6.168.7
+2026-03-14T10:49:11.988Z INFO  [inventory-svc] Reserved 1 item(s) for order 513316
+2026-03-14T10:49:16.518Z INFO  [payments-svc] Charge authorised for order 211222 in 167ms
+2026-03-14T10:49:20.843Z INFO  [api-gateway] POST /v1/checkout 200 100ms client=10.29.245.117
+2026-03-14T10:49:26.416Z WARN  [checkout-svc] Slow query on orders table took 811ms
+2026-03-14T10:49:30.765Z WARN  [checkout-svc] Slow query on orders table took 1727ms
+2026-03-14T10:49:35.095Z WARN  [inventory-svc] Cache miss for sku-3118, falling back to DB
+2026-03-14T10:49:38.960Z DEBUG [auth-svc] Token validated for user 85363
+2026-03-14T10:49:43.118Z INFO  [checkout-svc] Order 158232 created, total=EUR 199.09
+2026-03-14T10:49:48.359Z WARN  [checkout-svc] Slow query on orders table took 1581ms
+2026-03-14T10:49:51.738Z INFO  [checkout-svc] Order 286657 created, total=EUR 70.98
+2026-03-14T10:49:58.283Z INFO  [checkout-svc] Order 121508 created, total=EUR 227.26
+2026-03-14T10:50:01.950Z INFO  [checkout-svc] Order 521943 created, total=EUR 81.82
+2026-03-14T10:50:08.032Z WARN  [checkout-svc] Slow query on orders table took 1115ms
+2026-03-14T10:50:11.525Z INFO  [api-gateway] POST /v1/checkout 200 190ms client=10.19.67.92
+2026-03-14T10:50:17.250Z INFO  [api-gateway] POST /v1/checkout 200 174ms client=10.32.102.126
+2026-03-14T10:50:22.074Z WARN  [inventory-svc] Cache miss for sku-8805, falling back to DB
+2026-03-14T10:50:26.173Z INFO  [payments-svc] Charge authorised for order 543621 in 71ms
+2026-03-14T10:50:32.271Z INFO  [checkout-svc] Order 486123 created, total=EUR 166.23
+2026-03-14T10:50:37.049Z INFO  [payments-svc] Charge authorised for order 197462 in 65ms
+2026-03-14T10:50:42.151Z INFO  [checkout-svc] Order 586041 created, total=EUR 182.28
+2026-03-14T10:50:47.803Z INFO  [inventory-svc] Reserved 2 item(s) for order 619383
+2026-03-14T10:50:52.962Z INFO  [payments-svc] Charge authorised for order 650164 in 70ms
+2026-03-14T10:50:57.152Z INFO  [checkout-svc] Order 183029 created, total=EUR 214.61
+2026-03-14T10:51:01.382Z INFO  [api-gateway] POST /v1/checkout 200 112ms client=10.19.127.134
+2026-03-14T10:51:06.133Z INFO  [api-gateway] POST /v1/checkout 200 92ms client=10.35.39.235
+2026-03-14T10:51:09.317Z INFO  [payments-svc] Charge authorised for order 635456 in 114ms
+2026-03-14T10:51:14.008Z INFO  [api-gateway] POST /v1/checkout 200 225ms client=10.16.181.66
+2026-03-14T10:51:19.406Z INFO  [api-gateway] POST /v1/checkout 200 208ms client=10.1.58.190
+2026-03-14T10:51:25.115Z INFO  [checkout-svc] Order 924366 created, total=EUR 55.50
+2026-03-14T10:51:28.300Z INFO  [api-gateway] POST /v1/checkout 200 156ms client=10.20.232.194
+2026-03-14T10:51:34.045Z INFO  [checkout-svc] Order 947075 created, total=EUR 76.43
+2026-03-14T10:51:41.004Z WARN  [inventory-svc] Cache miss for sku-4066, falling back to DB
+2026-03-14T10:51:44.868Z INFO  [api-gateway] POST /v1/checkout 200 234ms client=10.16.54.112
+2026-03-14T10:51:50.056Z INFO  [api-gateway] POST /v1/checkout 200 181ms client=10.7.6.44
+2026-03-14T10:51:55.742Z INFO  [checkout-svc] Order 825411 created, total=EUR 112.84
+2026-03-14T10:52:02.697Z INFO  [inventory-svc] Reserved 4 item(s) for order 417508
+2026-03-14T10:52:08.230Z DEBUG [auth-svc] Token validated for user 81837
+2026-03-14T10:52:12.707Z INFO  [inventory-svc] Reserved 4 item(s) for order 943726
+2026-03-14T10:52:16.946Z INFO  [api-gateway] POST /v1/checkout 200 114ms client=10.0.97.29
+2026-03-14T10:52:23.288Z INFO  [api-gateway] POST /v1/checkout 200 128ms client=10.1.107.124
+2026-03-14T10:52:28.944Z INFO  [api-gateway] POST /v1/checkout 200 141ms client=10.27.97.23
+2026-03-14T10:52:33.176Z INFO  [inventory-svc] Reserved 2 item(s) for order 597013
+2026-03-14T10:52:37.904Z INFO  [api-gateway] POST /v1/checkout 200 122ms client=10.9.227.247
+2026-03-14T10:52:42.890Z INFO  [checkout-svc] Order 571351 created, total=EUR 158.31
+2026-03-14T10:52:46.714Z INFO  [api-gateway] POST /v1/checkout 200 180ms client=10.3.170.3
+2026-03-14T10:52:50.134Z INFO  [payments-svc] Charge authorised for order 847732 in 115ms
+2026-03-14T10:52:54.836Z DEBUG [auth-svc] Token validated for user 97610
+2026-03-14T10:53:00.206Z INFO  [payments-svc] Charge authorised for order 681230 in 97ms
+2026-03-14T10:53:03.357Z INFO  [checkout-svc] Order 609713 created, total=EUR 140.75
+2026-03-14T10:53:09.325Z INFO  [payments-svc] Charge authorised for order 811634 in 175ms
+2026-03-14T10:53:15.670Z DEBUG [auth-svc] Token validated for user 31396
+2026-03-14T10:53:21.595Z INFO  [api-gateway] POST /v1/checkout 200 84ms client=10.27.161.142
+2026-03-14T10:53:24.855Z INFO  [api-gateway] POST /v1/checkout 200 186ms client=10.30.59.127
+2026-03-14T10:53:30.405Z WARN  [inventory-svc] Cache miss for sku-6681, falling back to DB
+2026-03-14T10:53:35.241Z INFO  [inventory-svc] Reserved 1 item(s) for order 269170
+2026-03-14T10:53:39.420Z INFO  [inventory-svc] Reserved 4 item(s) for order 460550
+2026-03-14T10:53:44.214Z INFO  [api-gateway] POST /v1/checkout 200 136ms client=10.37.173.236
+2026-03-14T10:53:49.680Z DEBUG [auth-svc] Token validated for user 94742
+2026-03-14T10:53:55.370Z INFO  [checkout-svc] Order 407645 created, total=EUR 194.91
+2026-03-14T10:53:59.968Z WARN  [checkout-svc] Slow query on orders table took 1537ms
+2026-03-14T10:54:06.228Z INFO  [checkout-svc] Order 985555 created, total=EUR 50.79
+2026-03-14T10:54:10.076Z INFO  [api-gateway] POST /v1/checkout 200 102ms client=10.30.66.45
+2026-03-14T10:54:13.893Z INFO  [api-gateway] POST /v1/checkout 200 205ms client=10.6.212.242
+2026-03-14T10:54:18.915Z INFO  [checkout-svc] Order 319606 created, total=EUR 151.06
+2026-03-14T10:54:21.989Z INFO  [checkout-svc] Order 373477 created, total=EUR 100.86
+2026-03-14T10:54:25.638Z INFO  [api-gateway] POST /v1/checkout 200 208ms client=10.2.32.87
+2026-03-14T10:54:30.401Z INFO  [api-gateway] POST /v1/checkout 200 138ms client=10.7.114.125
+2026-03-14T10:54:34.457Z ERROR [api-gateway] POST /v1/checkout 499 client closed request after 3455ms
+2026-03-14T10:54:40.608Z INFO  [api-gateway] POST /v1/checkout 200 222ms client=10.17.77.219
+2026-03-14T10:54:46.434Z DEBUG [auth-svc] Token validated for user 80205
+2026-03-14T10:54:52.176Z INFO  [api-gateway] POST /v1/checkout 200 92ms client=10.28.234.247
+2026-03-14T10:54:58.623Z INFO  [inventory-svc] Reserved 1 item(s) for order 919621
+2026-03-14T10:55:04.123Z INFO  [payments-svc] Charge authorised for order 206816 in 165ms
+2026-03-14T10:55:09.426Z INFO  [api-gateway] POST /v1/checkout 200 106ms client=10.10.60.223
+2026-03-14T10:55:13.267Z WARN  [inventory-svc] Cache miss for sku-3572, falling back to DB
+2026-03-14T10:55:19.250Z INFO  [api-gateway] POST /v1/checkout 200 193ms client=10.32.255.188
+2026-03-14T10:55:25.815Z INFO  [api-gateway] POST /v1/checkout 200 173ms client=10.21.70.32
+2026-03-14T10:55:32.290Z INFO  [api-gateway] POST /v1/checkout 200 186ms client=10.0.125.214
+2026-03-14T10:55:38.604Z INFO  [checkout-svc] Order 400687 created, total=EUR 138.21
+2026-03-14T10:55:41.953Z INFO  [api-gateway] POST /v1/checkout 200 186ms client=10.23.125.39
+2026-03-14T10:55:48.038Z INFO  [inventory-svc] Reserved 4 item(s) for order 925455
+2026-03-14T10:55:51.972Z INFO  [api-gateway] POST /v1/checkout 200 189ms client=10.26.209.230
+2026-03-14T10:55:56.851Z WARN  [checkout-svc] Slow query on orders table took 1857ms
+2026-03-14T10:56:03.105Z INFO  [inventory-svc] Reserved 1 item(s) for order 564077
+2026-03-14T10:56:06.701Z INFO  [inventory-svc] Reserved 1 item(s) for order 188896
+2026-03-14T10:56:11.086Z INFO  [checkout-svc] Order 909891 created, total=EUR 51.55
+2026-03-14T10:56:14.337Z INFO  [checkout-svc] Order 138895 created, total=EUR 178.82
+2026-03-14T10:56:17.955Z WARN  [inventory-svc] Cache miss for sku-1947, falling back to DB
+2026-03-14T10:56:23.542Z WARN  [checkout-svc] Slow query on orders table took 1864ms
+2026-03-14T10:56:30.526Z INFO  [api-gateway] POST /v1/checkout 200 182ms client=10.35.155.185
+2026-03-14T10:56:36.568Z INFO  [checkout-svc] Order 460875 created, total=EUR 11.35
+2026-03-14T10:56:43.255Z INFO  [payments-svc] Charge authorised for order 253995 in 149ms
+2026-03-14T10:56:47.909Z INFO  [checkout-svc] Order 315098 created, total=EUR 236.69
+2026-03-14T10:56:53.466Z DEBUG [auth-svc] Token validated for user 86463
+2026-03-14T10:56:58.277Z INFO  [inventory-svc] Reserved 4 item(s) for order 913066
+2026-03-14T10:57:02.085Z WARN  [inventory-svc] Cache miss for sku-2380, falling back to DB
+2026-03-14T10:57:05.236Z INFO  [payments-svc] Charge authorised for order 508937 in 152ms
+2026-03-14T10:57:11.180Z INFO  [inventory-svc] Reserved 2 item(s) for order 645752
+2026-03-14T10:57:16.395Z INFO  [api-gateway] POST /v1/checkout 200 103ms client=10.32.159.134
+2026-03-14T10:57:20.790Z INFO  [inventory-svc] Reserved 2 item(s) for order 124559
+2026-03-14T10:57:23.904Z WARN  [inventory-svc] Cache miss for sku-9846, falling back to DB
+2026-03-14T10:57:29.330Z INFO  [api-gateway] POST /v1/checkout 200 157ms client=10.27.56.188
+2026-03-14T10:57:32.575Z DEBUG [auth-svc] Token validated for user 35046
+2026-03-14T10:57:38.143Z INFO  [payments-svc] Charge authorised for order 229827 in 66ms
+2026-03-14T10:57:44.241Z INFO  [inventory-svc] Reserved 1 item(s) for order 570534
+2026-03-14T10:57:48.461Z INFO  [payments-svc] Charge authorised for order 105466 in 118ms
+2026-03-14T10:57:52.849Z WARN  [checkout-svc] Slow query on orders table took 1892ms
+2026-03-14T10:57:59.308Z INFO  [payments-svc] Charge authorised for order 467355 in 98ms
+2026-03-14T10:58:03.473Z INFO  [inventory-svc] Reserved 2 item(s) for order 849051
+2026-03-14T10:58:08.019Z INFO  [payments-svc] Charge authorised for order 359662 in 73ms
+2026-03-14T10:58:12.361Z INFO  [payments-svc] Charge authorised for order 301908 in 165ms
+2026-03-14T10:58:18.549Z INFO  [checkout-svc] Order 202747 created, total=EUR 46.91
+2026-03-14T10:58:23.292Z DEBUG [auth-svc] Token validated for user 11740
+2026-03-14T10:58:26.669Z INFO  [api-gateway] POST /v1/checkout 200 113ms client=10.30.109.115
+2026-03-14T10:58:29.988Z INFO  [checkout-svc] Order 651818 created, total=EUR 112.75
+2026-03-14T10:58:35.277Z INFO  [payments-svc] Charge authorised for order 513959 in 171ms
+2026-03-14T10:58:39.357Z INFO  [payments-svc] Charge authorised for order 767377 in 114ms
+2026-03-14T10:58:44.159Z INFO  [inventory-svc] Reserved 4 item(s) for order 867260
+2026-03-14T10:58:51.145Z INFO  [checkout-svc] Order 270753 created, total=EUR 45.64
+2026-03-14T10:58:54.665Z INFO  [checkout-svc] Order 579946 created, total=EUR 42.90
+2026-03-14T10:58:59.767Z DEBUG [auth-svc] Token validated for user 16474
+2026-03-14T10:59:05.611Z INFO  [api-gateway] POST /v1/checkout 200 201ms client=10.2.80.242
+2026-03-14T10:59:10.900Z INFO  [checkout-svc] Order 224535 created, total=EUR 163.52
+2026-03-14T10:59:14.351Z INFO  [api-gateway] POST /v1/checkout 200 226ms client=10.18.20.134
+2026-03-14T10:59:17.978Z INFO  [api-gateway] POST /v1/checkout 200 158ms client=10.23.155.76
+2026-03-14T10:59:22.968Z INFO  [api-gateway] POST /v1/checkout 200 116ms client=10.9.215.13
+2026-03-14T10:59:29.805Z WARN  [inventory-svc] Cache miss for sku-5644, falling back to DB
+2026-03-14T10:59:33.688Z INFO  [api-gateway] POST /v1/checkout 200 205ms client=10.0.62.141
+2026-03-14T10:59:38.116Z INFO  [api-gateway] POST /v1/checkout 200 91ms client=10.26.246.147
+2026-03-14T10:59:42.384Z INFO  [payments-svc] Charge authorised for order 454233 in 160ms
+2026-03-14T10:59:46.929Z INFO  [checkout-svc] Order 855009 created, total=EUR 222.77
+2026-03-14T10:59:50.472Z INFO  [inventory-svc] Reserved 4 item(s) for order 898678
+2026-03-14T10:59:55.314Z INFO  [inventory-svc] Reserved 2 item(s) for order 863220
+2026-03-14T10:59:59.646Z INFO  [api-gateway] POST /v1/checkout 200 239ms client=10.39.209.100
+2026-03-14T11:00:03.599Z WARN  [inventory-svc] Cache miss for sku-6554, falling back to DB
